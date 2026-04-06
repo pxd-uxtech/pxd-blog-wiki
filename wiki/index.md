@@ -45,6 +45,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 
 ## UI/인터랙션 설계
 - [Pull to Refresh](concepts/Pull-to-Refresh.md) — 화면을 아래로 당겨 새로고침하는 모바일 제스처 UI 패턴, Loren Brichter의 Tweetie에서 시작
+- [원형 디스플레이 UI](concepts/원형-디스플레이-UI.md) — 스마트워치 등 원형 디스플레이의 조형 특성(연속성·집중성·현저성)과 글랜서빌리티 기반 UI 설계 가이드라인
 - [SNS 댓글 UI 설계](concepts/SNS-댓글-UI-설계.md) — 시간순 정렬과 상단 더보기 버튼을 기반으로 한 SNS 댓글 네비게이션 설계 원칙
 - [약관 동의 UI](concepts/약관-동의-UI.md) — 필수·선택 약관 구분과 최소 입력 원칙을 적용한 약관 동의 화면 설계
 - [어피니티 버블](concepts/어피니티-버블.md) — pxd가 개발한 업무 도구로, 다수의 텍스트 데이터를 시각적으로 분류
@@ -53,6 +54,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [한글 입력 설계](concepts/한글-입력-설계.md) — 자소 빈도 분석에 기반한 한글 자판 설계, 어린이 학습용 키보드 사례 포함
 
 ## 웹 개발
+- [CSS Flexbox](concepts/CSS-Flexbox.md) — float를 대체하는 현대적 CSS 레이아웃 방식, flex-container와 flex-item 속성 체계
 - [CSS 로딩 애니메이션](concepts/CSS-로딩-애니메이션.md) — 처리 시간 동안 시스템 작동 중임을 알려주는 CSS 기반 피드백 요소
 - [JWT 인증과 인가](concepts/JWT-인증과-인가.md) — Authentication(신원 검증)과 Authorization(권한 부여)의 차이, JWT 구조와 토큰 기반 인증 메커니즘
 - [Safari 포커스 관리](concepts/Safari-포커스-관리.md) — Safari의 비입력 요소 포커스 비활성화로 인한 스크롤 튕김 버그와 tabindex="-1" 해결책
@@ -60,6 +62,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [GitHub 칸반보드](concepts/GitHub-칸반보드.md) — GitHub Projects를 활용한 개발팀 업무 시각화와 진척 관리
 - [JavaScript Date 라이브러리](concepts/JavaScript-Date-라이브러리.md) — Moment.js, Day.js, date-fns 세 가지 날짜 라이브러리 비교
 - [PWA 프로그레시브 웹 앱](concepts/PWA-프로그레시브-웹-앱.md) — 웹 기술로 네이티브 앱 경험을 제공하는 방식, manifest.json과 Service Worker 기반
+- [React TypeScript 패턴](concepts/React-TypeScript-패턴.md) — React.FC의 문제점(암시적 children, defaultProps 이슈)과 일반 함수 선언 방식 권장 패턴
 - [SCSS 모듈 시스템](concepts/SCSS-모듈-시스템.md) — @import 대체 문법인 @use와 @forward로 네임스페이스 기반 SCSS 모듈 관리
 - [WebGL과 3D 웹](concepts/WebGL과-3D-웹.md) — 브라우저에서 3D 그래픽을 구현하는 WebGL과 Babylon.js 프레임워크
 - [딥링크](concepts/딥링크.md) — URL이나 값을 호출했을 때 앱을 실행하거나 앱 내 특정 화면으로 이동시키는 기술
@@ -72,6 +75,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 
 ## AI와 신기술
 - [AI 코딩 도구 활용](concepts/AI-코딩-도구-활용.md) — 깃허브 코파일럿, 커서, Claude 등 AI 코딩 도구 실무 활용법과 디자이너의 생성형 AI 적용 사례
+- [생성형 AI와 스테이블 디퓨전](concepts/생성형-AI와-스테이블-디퓨전.md) — 스테이블 디퓨전의 디퓨전 프로세스 원리, ComfyUI 노드 기반 워크플로우, 생성형 AI의 민주화 과정
 - [AI를 위한 UI 패턴과 UX](concepts/AI를-위한-UI-패턴과-UX.md) — AI 기반 서비스의 새로운 상호작용 방식과 생성형 AI UX 개선 요구 사항
 - [에이전틱 AI와 UX](concepts/에이전틱-AI와-UX.md) — 자율적으로 목표를 달성하는 Agentic AI 시대의 6가지 UX 원칙
 - [자율주행 UX](concepts/자율주행-UX.md) — 신뢰·예측 가능성·개인 공간을 축으로 하는 자율주행 차량 호출 서비스 UX 설계
