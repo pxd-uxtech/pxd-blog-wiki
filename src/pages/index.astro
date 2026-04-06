@@ -10,23 +10,22 @@ const yearMap = getYearMap();
 
 <Base title="인덱스">
   <h1>pxd 블로그 위키</h1>
-  <p>pxd story 블로그의 {articles.length}개 글을 탐색할 수 있습니다.</p>
+  <p>pxd story 블로그 {articles.length}개 글의 지식을 구조화한 위키입니다.</p>
 
   {conceptPages.length > 0 && (
     <>
       <h2><a href="/concepts">개념 위키</a> <span class="count">({conceptPages.length})</span></h2>
-      <p>LLM이 블로그 글을 읽고 정리한 개념 페이지</p>
-      <ul>
+      <div class="card-list">
         {conceptPages.slice(0, 10).map(p => (
-          <li><a href={`/concepts/${p.slug}`}>{p.name}</a> <span class="count">출처 {p.sources.length}개</span></li>
+          <a href={`/concepts/${p.slug}`} class="card">
+            <div class="card-title">{p.name}</div>
+            <div class="card-meta">출처 {p.sources.length}개 · {p.updated}</div>
+          </a>
         ))}
-        {conceptPages.length > 10 && <li><a href="/concepts">전체 보기 →</a></li>}
-      </ul>
+      </div>
+      {conceptPages.length > 10 && <p><a href="/concepts">전체 {conceptPages.length}개 보�� →</a></p>}
     </>
   )}
-
-  <h2><a href="/overview">블로그 개요</a></h2>
-  <p>전체 통계 요약</p>
 
   <h2><a href="/tags">주요 태그</a> <span class="count">(상위 30개)</span></h2>
   <div class="tag-list">
