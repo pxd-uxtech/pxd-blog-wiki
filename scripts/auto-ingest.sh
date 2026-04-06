@@ -24,7 +24,7 @@ fi
 API_URL=$(echo "$PRIORITY" | grep "story-api.pxd.systems" | head -1)
 
 # claude -p로 ingest 실행
-claude -p --model haiku "
+claude -p --model sonnet "
 다음 지시를 정확히 따라 pxd 블로그 위키 ingest를 수행해.
 
 1. WIKI_SCHEMA.md를 읽어 위키 규칙을 확인해.
