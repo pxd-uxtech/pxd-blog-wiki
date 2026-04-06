@@ -1,0 +1,43 @@
+---
+import Base from '@/layouts/Base.astro';
+import ArticleList from '@/components/ArticleList.astro';
+import { getCategoryMap, getTagMap, toSlug } from '@/lib/data';
+
+export function getStaticPaths() {
+  const categoryMap = getCategoryMap();
+  return [...categoryMap.entries()].map(([cat, articles]) => ({
+    params: { slug: toSlug(cat) },
+    props: { name: cat, articles },
+  }));
+}
+
+const { name, articles } = Astro.props;
+
+// 이 카테고리에서 가장 많이 사용된 태그
+const tagCount = new Map<string, number>();
+for (const a of articles) {
+  for (const t of a.tags || []) {
+    tagCount.set(t, (tagCount.get(t) || 0) + 1);
+  }
+}
+const topTags = [...tagCount.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10);
+---
+
+<Base title={name}>
+  <h1>{name}</h1>
+  <p>이 카테고리에는 {articles.length}개의 글이 있습니다.</p>
+
+  {topTags.length > 0 && (
+    <>
+      <h2>관련 태그</h2>
+      <div class="tag-list">
+        {topTags.map(([tag, count]) => (
+          <a href={`/tags/${toSlug(tag)}`} class="tag">{tag} ({count})</a>
+        ))}
+      </div>
+    </>
+  )}
+
+  <h2>글 목록</h2>
+  <ArticleList articles={articles} />
+</Base>

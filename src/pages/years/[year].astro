@@ -1,0 +1,53 @@
+---
+import Base from '@/layouts/Base.astro';
+import ArticleList from '@/components/ArticleList.astro';
+import { getYearMap, getMonth } from '@/lib/data';
+import type { Article } from '@/lib/data';
+
+export function getStaticPaths() {
+  const yearMap = getYearMap();
+  return [...yearMap.entries()].map(([year, articles]) => ({
+    params: { year: String(year) },
+    props: { year, articles },
+  }));
+}
+
+const { year, articles } = Astro.props;
+
+// 월별 그룹
+const monthMap = new Map<number, Article[]>();
+for (const a of articles) {
+  const m = getMonth(a.date);
+  if (!monthMap.has(m)) monthMap.set(m, []);
+  monthMap.get(m)!.push(a);
+}
+
+// 월별 분포
+const monthDist = Array.from({ length: 12 }, (_, i) => ({
+  month: i + 1,
+  count: monthMap.get(i + 1)?.length || 0,
+}));
+---
+
+<Base title={`${year}년`}>
+  <h1>{year}년 글 목록</h1>
+  <p>총 {articles.length}개의 글이 작성되었습니다.</p>
+
+  <h2>월별 분포</h2>
+  <table>
+    <thead><tr><th>월</th><th>글 수</th></tr></thead>
+    <tbody>
+      {monthDist.filter(m => m.count > 0).map(m => (
+        <tr><td>{m.month}월</td><td>{m.count}</td></tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>글 목록</h2>
+  {[...monthMap.entries()].sort((a, b) => a[0] - b[0]).map(([month, list]) => (
+    <>
+      <h3>{month}월</h3>
+      <ArticleList articles={list} showCategory />
+    </>
+  ))}
+</Base>

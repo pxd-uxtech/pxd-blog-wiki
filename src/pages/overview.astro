@@ -1,0 +1,77 @@
+---
+import Base from '@/layouts/Base.astro';
+import { articles, getCategoryMap, getAuthorMap, getTopTags, getYearMap, formatDate } from '@/lib/data';
+
+const categoryMap = getCategoryMap();
+const authorMap = getAuthorMap();
+const topTags = getTopTags(20);
+const yearMap = getYearMap();
+
+const dates = articles.map(a => a.date).filter(d => d > 0);
+const earliest = formatDate(Math.min(...dates));
+const latest = formatDate(Math.max(...dates));
+
+const tagMap = new Map<string, number>();
+for (const a of articles) {
+  for (const t of a.tags || []) {
+    tagMap.set(t, (tagMap.get(t) || 0) + 1);
+  }
+}
+
+const topAuthors = [...authorMap.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 10);
+const sortedCategories = [...categoryMap.entries()].sort((a, b) => b[1].length - a[1].length);
+---
+
+<Base title="개요">
+  <h1>pxd 블로그 개요</h1>
+
+  <table>
+    <tbody>
+      <tr><td>총 글 수</td><td><strong>{articles.length}개</strong></td></tr>
+      <tr><td>기간</td><td>{earliest} ~ {latest}</td></tr>
+      <tr><td>카테고리</td><td>{categoryMap.size}개</td></tr>
+      <tr><td>태그 (고유)</td><td>{tagMap.size}개</td></tr>
+      <tr><td>저자</td><td>{authorMap.size}명</td></tr>
+    </tbody>
+  </table>
+
+  <h2>카테고리별 글 수</h2>
+  <table>
+    <thead><tr><th>카테고리</th><th>글 수</th></tr></thead>
+    <tbody>
+      {sortedCategories.map(([cat, list]) => (
+        <tr><td>{cat}</td><td>{list.length}</td></tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>연도별 글 수</h2>
+  <table>
+    <thead><tr><th>연도</th><th>글 수</th></tr></thead>
+    <tbody>
+      {[...yearMap.entries()].map(([year, list]) => (
+        <tr><td>{year}</td><td>{list.length}</td></tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>다작 저자 Top 10</h2>
+  <table>
+    <thead><tr><th>저자</th><th>글 수</th></tr></thead>
+    <tbody>
+      {topAuthors.map(([author, list]) => (
+        <tr><td>{author}</td><td>{list.length}</td></tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>인기 태그 Top 20</h2>
+  <table>
+    <thead><tr><th>태그</th><th>등장 횟수</th></tr></thead>
+    <tbody>
+      {topTags.map(([tag, list]) => (
+        <tr><td>{tag}</td><td>{list.length}</td></tr>
+      ))}
+    </tbody>
+  </table>
+</Base>

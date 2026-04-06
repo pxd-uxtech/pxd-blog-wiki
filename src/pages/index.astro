@@ -1,0 +1,49 @@
+---
+import Base from '@/layouts/Base.astro';
+import { articles, getCategoryMap, getAuthorMap, getTopTags, getYearMap, toSlug } from '@/lib/data';
+
+const categoryMap = getCategoryMap();
+const authorMap = getAuthorMap();
+const topTags = getTopTags(30);
+const yearMap = getYearMap();
+const topAuthors = [...authorMap.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 10);
+---
+
+<Base title="인덱스">
+  <h1>pxd 블로그 위키</h1>
+  <p>pxd story 블로그의 {articles.length}개 글을 카테고리, 저자, 태그, 연도별로 탐색할 수 있습니다.</p>
+
+  <h2><a href="/overview">블로그 개요</a></h2>
+  <p>전체 통계 요약</p>
+
+  <h2><a href="/categories">카테고리별</a> <span class="count">({categoryMap.size})</span></h2>
+  <ul>
+    {[...categoryMap.entries()]
+      .sort((a, b) => b[1].length - a[1].length)
+      .map(([cat, list]) => (
+        <li><a href={`/categories/${toSlug(cat)}`}>{cat}</a> <span class="count">{list.length}개</span></li>
+      ))
+    }
+  </ul>
+
+  <h2><a href="/authors">다작 저자 Top 10</a> <span class="count">(전체 {authorMap.size}명)</span></h2>
+  <ul>
+    {topAuthors.map(([author, list]) => (
+      <li><a href={`/authors/${toSlug(author)}`}>{author}</a> <span class="count">{list.length}개</span></li>
+    ))}
+  </ul>
+
+  <h2><a href="/tags">주요 태그</a> <span class="count">(상위 30개)</span></h2>
+  <div class="tag-list">
+    {topTags.map(([tag, list]) => (
+      <a href={`/tags/${toSlug(tag)}`} class="tag">{tag} ({list.length})</a>
+    ))}
+  </div>
+
+  <h2><a href="/years">연도별</a></h2>
+  <ul>
+    {[...yearMap.entries()].map(([year, list]) => (
+      <li><a href={`/years/${year}`}>{year}년</a> <span class="count">{list.length}개</span></li>
+    ))}
+  </ul>
+</Base>

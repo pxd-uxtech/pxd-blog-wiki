@@ -1,0 +1,24 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getTopTags, getTagMap, toSlug } from '@/lib/data';
+
+const topTags = getTopTags(30);
+const tagMap = getTagMap();
+---
+
+<Base title="태그">
+  <h1>태그</h1>
+  <p>총 {tagMap.size}개 고유 태그 중 상위 30개</p>
+
+  <table>
+    <thead><tr><th>태그</th><th>글 수</th></tr></thead>
+    <tbody>
+      {topTags.map(([tag, list]) => (
+        <tr>
+          <td><a href={`/tags/${toSlug(tag)}`}>{tag}</a></td>
+          <td>{list.length}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Base>

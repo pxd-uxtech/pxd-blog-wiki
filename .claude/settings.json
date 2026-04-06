@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:story-api.pxd.systems)",
+      "Bash(npm create:*)",
+      "Bash(nvm ls:*)",
+      "Bash(fnm ls:*)",
+      "WebFetch(domain:static.observableusercontent.com)"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+글 메타데이터 조회하기
+
+전체 글목록 얻어오기:
+
+https://story-api.pxd.systems/article-urls
+특정 조건에 맞는 글만 가져오기:
+
+https://story-api.pxd.systems/article-metas 전체 메타데이터 조회
+https://story-api.pxd.systems/article-metas?urls=/200,/1527 URL로 조회
+https://story-api.pxd.systems/article-metas?tags=UI,UX 태그로 조회
+https://story-api.pxd.systems/article-metas?categories=리뷰 카테고리로 조회
+https://story-api.pxd.systems/article-metas?authors=인턴뱁새 저자로 조회
+본문도 함께 가져오려면 body=1을 추가:
+
+https://story-api.pxd.systems/article-metas?urls=/200,/1527&body=1
+어텐션 정보 조회하기
+
+
+https://story-api.pxd.systems/article-attentions?urls=/200,/1527

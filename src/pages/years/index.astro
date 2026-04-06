@@ -1,0 +1,22 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getYearMap } from '@/lib/data';
+
+const yearMap = getYearMap();
+---
+
+<Base title="연도별">
+  <h1>연도별</h1>
+
+  <table>
+    <thead><tr><th>연도</th><th>글 수</th></tr></thead>
+    <tbody>
+      {[...yearMap.entries()].map(([year, list]) => (
+        <tr>
+          <td><a href={`/years/${year}`}>{year}년</a></td>
+          <td>{list.length}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Base>

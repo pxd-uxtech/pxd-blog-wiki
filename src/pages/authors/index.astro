@@ -1,0 +1,30 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getAuthorMap, toSlug, getYear } from '@/lib/data';
+
+const authorMap = getAuthorMap();
+const sorted = [...authorMap.entries()].sort((a, b) => b[1].length - a[1].length);
+---
+
+<Base title="저자">
+  <h1>저자</h1>
+  <p>총 {authorMap.size}명의 저자</p>
+
+  <table>
+    <thead><tr><th>저자</th><th>글 수</th><th>활동 기간</th></tr></thead>
+    <tbody>
+      {sorted.map(([author, list]) => {
+        const years = list.map(a => getYear(a.date)).filter(y => y > 1970);
+        const minY = Math.min(...years);
+        const maxY = Math.max(...years);
+        return (
+          <tr>
+            <td><a href={`/authors/${toSlug(author)}`}>{author}</a></td>
+            <td>{list.length}</td>
+            <td class="count">{minY === maxY ? `${minY}` : `${minY}~${maxY}`}</td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+</Base>
