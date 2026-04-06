@@ -5,7 +5,9 @@
       "Bash(npm create:*)",
       "Bash(nvm ls:*)",
       "Bash(fnm ls:*)",
-      "WebFetch(domain:static.observableusercontent.com)"
+      "WebFetch(domain:static.observableusercontent.com)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)"
     ]
   }
 }
