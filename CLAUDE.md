@@ -33,6 +33,21 @@ npm run preview      # 로컬 확인
 2. `npm run build`
 3. 커밋 & 푸시
 
+## LLM Wiki (Karpathy 패턴)
+
+이 프로젝트는 Karpathy의 LLM Wiki 패턴을 적용합니다.
+- 구조 규칙: `WIKI_SCHEMA.md` 참조
+- 개념 페이지: `wiki/concepts/*.md`
+- 개념 렌더링: `src/lib/wiki.ts` + `src/pages/concepts/`
+- ingest 우선순위: `python3 scripts/ingest_priority.py 10`
+
+### Ingest 실행 방법
+1. `python3 scripts/ingest_priority.py 10` → 대상 글 + API URL 확인
+2. API URL로 본문 fetch
+3. 본문을 읽고 `wiki/concepts/`에 개념 페이지 생성/업데이트
+4. `wiki/index.md`, `wiki/log.md` 업데이트
+5. 커밋
+
 ## 규칙
 - 태그 개별 페이지는 상위 30개만 생성
 - 파일명 slug: 공백/특수문자 → `-` 치환 (`toSlug()` in data.ts)
