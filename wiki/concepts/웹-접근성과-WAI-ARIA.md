@@ -7,11 +7,11 @@ updated: "2026-04-06"
 ---
 # 웹 접근성과 WAI-ARIA
 
-웹 접근성은 신체적·환경적 조건에 관계없이 모든 사용자가 웹 서비스를 동등하게 이용할 수 있도록 하는 설계 원칙이다. 한국에서는 법적으로 모든 웹사이트가 접근성 지침을 준수해야 한다. 그러나 React, Vue, Angular 같은 SPA(Single Page Application) 환경이 보편화되면서 동적 콘텐츠에 대한 접근성 보장이 더 어려워졌고, 이를 해결하기 위한 표준이 WAI-ARIA다.
+**웹 접근성**은 신체적·환경적 조건에 관계없이 모든 사용자가 웹 서비스를 동등하게 이용할 수 있도록 하는 설계 원칙이다. 한국에서는 법적으로 모든 웹사이트가 접근성 지침을 준수해야 한다. 그러나 **React, Vue, Angular** 같은 **SPA(Single Page Application)** 환경이 보편화되면서 동적 콘텐츠에 대한 접근성 보장이 더 어려워졌고, 이를 해결하기 위한 표준이 **WAI-ARIA**다.
 
-WAI-ARIA(Web Accessibility Initiative - Accessible Rich Internet Applications)는 W3C의 웹 접근성 담당 기관 WAI가 정의한 RIA(Rich Internet Application) 환경의 접근성 표준이다. Ajax나 JavaScript로 실시간 변경되는 콘텐츠는 스크린 리더 같은 보조 기술이 감지하기 어렵다. WAI-ARIA는 HTML 태그에 role, property, state 속성을 추가해 개발자의 UI 의도와 구조적 정보를 보조 기술에 전달하는 방식으로 이 문제를 해결한다.
+**WAI-ARIA(Web Accessibility Initiative - Accessible Rich Internet Applications)**는 W3C의 웹 접근성 담당 기관 WAI가 정의한 RIA(Rich Internet Application) 환경의 접근성 표준이다. Ajax나 JavaScript로 실시간 변경되는 콘텐츠는 **스크린 리더** 같은 보조 기술이 감지하기 어렵다. WAI-ARIA는 HTML 태그에 `role`, `property`, `state` 속성을 추가해 개발자의 UI 의도와 구조적 정보를 보조 기술에 전달하는 방식으로 이 문제를 해결한다.
 
-사용 시 주의할 점은 HTML5의 시맨틱 태그를 우선 사용하고 WAI-ARIA는 보완적으로 추가해야 한다는 것이다. `<nav>`에 `role="navigation"`을 중복 선언하는 것처럼 HTML5 시맨틱 요소와 ARIA role을 함께 쓰면 안 된다. ARIA의 랜드마크 역할(navigation, main, banner, search, contentinfo 등)은 HTML5 시맨틱 태그와 일대일 대응 관계를 가지므로, 태그로 의미를 부여할 수 없을 때만 ARIA role을 사용한다. 라이브 리전(Live Region) 속성을 사용하면 Ajax로 변경되는 콘텐츠를 스크린 리더가 자동으로 감지하고 읽을 수 있다.
+사용 시 주의할 점은 **HTML5의 시맨틱 태그**를 우선 사용하고 WAI-ARIA는 보완적으로 추가해야 한다는 것이다. `<nav>`에 `role="navigation"`을 중복 선언하는 것처럼 HTML5 시맨틱 요소와 ARIA role을 함께 쓰면 안 된다. ARIA의 랜드마크 역할(navigation, main, banner, search, contentinfo 등)은 HTML5 시맨틱 태그와 일대일 대응 관계를 가지므로, 태그로 의미를 부여할 수 없을 때만 ARIA role을 사용한다. **라이브 리전(Live Region)** 속성을 사용하면 Ajax로 변경되는 콘텐츠를 스크린 리더가 자동으로 감지하고 읽을 수 있다.
 
 ## 핵심 내용
 - WAI-ARIA: W3C가 정의한 동적 웹 환경의 접근성 표준 (role, property, state 속성)

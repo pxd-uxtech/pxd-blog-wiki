@@ -7,11 +7,11 @@ updated: "2026-04-06"
 ---
 # AI를 위한 UI 패턴과 UX
 
-AI 기반 서비스가 확산되면서 기존의 클릭·폼 중심 UI 패러다임과 구별되는 새로운 상호작용 방식이 등장했다. Jakob Nielsen은 이를 세 번째 UI 패러다임 전환으로 정의했다. 일괄 처리(Batch Processing) → 명령 기반 상호작용(CLI/GUI) → 의도 기반 결과 명세(Intent-Based Outcome Specification) 순서다. 사용자가 세부 명령 대신 의도를 전달하면 AI가 결과를 생성하는 방식이며, 미래에는 이 방식과 기존 GUI를 혼합한 하이브리드 UI가 주류가 될 것으로 전망된다.
+AI 기반 서비스가 확산되면서 기존의 클릭·폼 중심 UI 패러다임과 구별되는 새로운 상호작용 방식이 등장했다. **Jakob Nielsen**은 이를 세 번째 UI 패러다임 전환으로 정의했다. 일괄 처리(Batch Processing) → 명령 기반 상호작용(CLI/GUI) → **의도 기반 결과 명세(Intent-Based Outcome Specification)** 순서다. 사용자가 세부 명령 대신 의도를 전달하면 AI가 결과를 생성하는 방식이며, 미래에는 이 방식과 기존 GUI를 혼합한 **하이브리드 UI**가 주류가 될 것으로 전망된다.
 
-AI 서비스의 UI 패턴은 크게 네 가지로 분류된다. 첫째, Freeform UI는 자유로운 대화 형식의 패턴으로, ChatGPT 같은 완전한 채팅 구조(Conversational Structure)와 기존 서비스에 사이드 패널로 붙이는 Embedded Chat Panel 형태로 나뉜다. 둘째, Structured Input UI는 AI 기능을 특정 서비스에 내장해 버튼·옵션 형태로 호출하는 패턴이다. 셋째, AI-Generated Content를 화면 내에서 직접 표시하는 패턴, 넷째는 AI 에이전트가 자율적으로 작업을 수행하는 Agentic 패턴이다.
+AI 서비스의 UI 패턴은 크게 네 가지로 분류된다. 첫째, **Freeform UI**는 자유로운 대화 형식의 패턴으로, **ChatGPT** 같은 완전한 채팅 구조(Conversational Structure)와 기존 서비스에 사이드 패널로 붙이는 **Embedded Chat Panel** 형태로 나뉜다. 둘째, **Structured Input UI**는 AI 기능을 특정 서비스에 내장해 버튼·옵션 형태로 호출하는 패턴이다. 셋째, AI-Generated Content를 화면 내에서 직접 표시하는 패턴, 넷째는 AI 에이전트가 자율적으로 작업을 수행하는 **Agentic 패턴**이다.
 
-UX 관점에서는 몇 가지 핵심 요소가 강조된다. 쉬운 이해를 위해 초기 진입 시 예시 프롬프트나 코치마크 같은 온보딩 장치가 중요하다. 신뢰도 관리를 위해 AI 답변의 출처를 시각적으로 노출하거나(Perplexity 방식), 원본 문서 링크를 제공하는 방식이 쓰인다. 또한 AI의 한계와 불확실성을 미리 알려주는 기대치 관리가 신뢰와 직결된다. Google의 People + AI Guidebook이 강조하듯, AI는 기존 기능을 대체하거나 꼭 필요한 개선을 가져올 때에만 의미 있게 활용해야 한다.
+UX 관점에서는 몇 가지 핵심 요소가 강조된다. 쉬운 이해를 위해 초기 진입 시 예시 프롬프트나 코치마크 같은 **온보딩 장치**가 중요하다. 신뢰도 관리를 위해 AI 답변의 출처를 시각적으로 노출하거나(**Perplexity** 방식), 원본 문서 링크를 제공하는 방식이 쓰인다. 또한 AI의 한계와 불확실성을 미리 알려주는 **기대치 관리**가 신뢰와 직결된다. **Google의 People + AI Guidebook**이 강조하듯, AI는 기존 기능을 대체하거나 꼭 필요한 개선을 가져올 때에만 의미 있게 활용해야 한다.
 
 ## 핵심 내용
 - UI 패러다임 3단계: 배치→CLI/GUI→의도 기반(AI) 전환, 미래는 하이브리드
