@@ -56,12 +56,20 @@ const { title } = Astro.props;
     }
 
     nav .site-title {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
       font-size: 0.95rem;
       font-weight: 700;
       color: #1d1d1f;
       text-decoration: none;
       letter-spacing: -0.01em;
       margin-right: 0.5rem;
+    }
+
+    nav .site-title img {
+      height: 22px;
+      width: auto;
     }
 
     nav a {
@@ -302,7 +310,10 @@ const { title } = Astro.props;
 <body>
   <header>
     <nav>
-      <a href="/" class="site-title">pxd 블로그 위키</a>
+      <a href="/" class="site-title">
+        <img src="https://tistory1.daumcdn.net/tistory/407306/skinSetting/27db96209f954066b11260326ab69155" alt="pxd" />
+        블로그 위키
+      </a>
       <a href="/concepts">개념</a>
       <a href="/overview">개요</a>
       <a href="/tags">태그</a>
