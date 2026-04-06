@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UX 방법론"
 name: "정보 구조 설계 IA"
 sources: ["/1600"]
 updated: "2026-04-06"

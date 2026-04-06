@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "웹 개발"
 name: "웹 접근성과 WAI-ARIA"
 sources: ["/1588"]
 updated: "2026-04-06"

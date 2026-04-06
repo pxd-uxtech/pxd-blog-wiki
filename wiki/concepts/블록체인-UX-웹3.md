@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "AI와 신기술"
 name: "블록체인 UX와 웹3"
 sources: ["/1764"]
 updated: "2026-04-06"

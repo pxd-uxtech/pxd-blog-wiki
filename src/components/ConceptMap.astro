@@ -1,0 +1,98 @@
+---
+import { getConceptPages } from '@/lib/wiki';
+
+const pages = getConceptPages();
+const data = pages.map(p => ({
+  metaLabel: p.domain || '기타',
+  label: p.name,
+  bubbleSize: String(p.sources.length),
+}));
+
+const { renderSize = 1200, renderHeight = 900 } = Astro.props;
+---
+
+<div class="concept-map-wrapper">
+  <div class="concept-map-container"></div>
+</div>
+
+<script is:inline define:vars={{ data, renderSize, renderHeight }}>
+  (function() {
+    const wrapper = document.currentScript.previousElementSibling;
+    const container = wrapper.querySelector('.concept-map-container');
+
+    function initMap() {
+      const scale = 0.5;
+      const scaledHeight = Math.round(renderHeight * scale);
+
+      container.style.width = renderSize + 'px';
+      container.style.transformOrigin = 'top left';
+      container.style.transform = `scale(${scale})`;
+      wrapper.style.height = (scaledHeight + 40) + 'px';
+
+      const vm = new VoronoiTreemap();
+      const svg = vm.render(data, {
+        width: renderSize,
+        height: renderHeight,
+        maptitle: '',
+        showLabel: true,
+        showMetaLabel: true,
+        showPercent: false,
+        pebble: true,
+        clickFunc: function(item) {
+          if (!item || typeof item !== 'object') return;
+          const label = item.data && item.data.label;
+          if (!label) return;
+          const slug = label.replace(/[\s/\\:]/g, '-').replace(/-+/g, '-');
+          window.location.href = '/concepts/' + slug;
+        },
+      });
+      // 배경 투명: width/height 100%인 배경 rect 제거
+      svg.querySelectorAll('rect').forEach(r => {
+        if (r.getAttribute('width') === '100%' || r.getAttribute('height') === '100%') {
+          r.style.fill = 'transparent';
+        }
+      });
+      svg.style.background = 'transparent';
+      // 잘림 방지
+      svg.setAttribute('overflow', 'visible');
+      container.appendChild(svg);
+    }
+
+    if (typeof VoronoiTreemap !== 'undefined') {
+      initMap();
+    } else if (!document.querySelector('script[data-voronoi]')) {
+      const script = document.createElement('script');
+      script.src = 'https://cdn.jsdelivr.net/gh/pxd-uxtech/voronoi-treemap-dist@v1.1.0/dist/voronoi-treemap.standalone.umd.js';
+      script.dataset.voronoi = '1';
+      script.onload = function() {
+        if (typeof VoronoiTreemapModule !== 'undefined') {
+          window.VoronoiTreemap = VoronoiTreemapModule.VoronoiTreemap;
+        }
+        initMap();
+      };
+      document.head.appendChild(script);
+    } else {
+      // Script already loading — wait for it
+      document.querySelector('script[data-voronoi]').addEventListener('load', function() {
+        if (typeof VoronoiTreemapModule !== 'undefined') {
+          window.VoronoiTreemap = VoronoiTreemapModule.VoronoiTreemap;
+        }
+        initMap();
+      });
+    }
+  })();
+</script>
+
+<style>
+  .concept-map-wrapper {
+    width: 100%;
+    overflow: visible;
+    margin: 1rem 0;
+  }
+  .concept-map-container {
+    transform-origin: top left;
+  }
+  .concept-map-container svg path {
+    cursor: pointer;
+  }
+</style>

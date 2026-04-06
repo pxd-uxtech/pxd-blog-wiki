@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "웹 개발"
 name: "GitHub Actions와 Slack 연동"
 sources: ["/1769"]
 updated: "2026-04-06"

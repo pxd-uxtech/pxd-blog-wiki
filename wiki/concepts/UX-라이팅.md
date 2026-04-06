@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UX 방법론"
 name: "UX 라이팅"
 sources: ["/1791"]
 updated: "2026-04-06"

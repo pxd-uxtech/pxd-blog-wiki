@@ -4,10 +4,22 @@ import path from 'node:path';
 export interface ConceptPage {
   slug: string;
   name: string;
+  domain: string;
   sources: string[];
   updated: string;
   content: string;
 }
+
+export const DOMAIN_ORDER = [
+  'UX 이론',
+  'UX 방법론',
+  '디자인 시스템',
+  'UI/인터랙션 설계',
+  '웹 개발',
+  'AI와 신기술',
+  'UX 커리어',
+  '기술과 사회',
+];
 
 const CONCEPTS_DIR = path.join(process.cwd(), 'wiki/concepts');
 
@@ -54,6 +66,7 @@ export function getConceptPages(): ConceptPage[] {
     pages.push({
       slug: file.replace('.md', ''),
       name: frontmatter.name || file.replace('.md', '').replace(/-/g, ' '),
+      domain: frontmatter.domain || '',
       sources: Array.isArray(frontmatter.sources) ? frontmatter.sources : [],
       updated: frontmatter.updated || '',
       content: body,

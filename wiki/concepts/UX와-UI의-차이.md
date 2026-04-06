@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UX 방법론"
 name: "UX와 UI의 차이"
 sources: ["/567", "/549"]
 updated: "2026-04-06"

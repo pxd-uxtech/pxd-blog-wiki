@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "AI와 신기술"
 name: "AI 코딩 도구 활용"
 sources: ["/1830", "/1814", "/1819"]
 updated: "2026-04-06"

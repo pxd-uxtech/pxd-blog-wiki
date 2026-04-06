@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "웹 개발"
 name: "JavaScript Date 라이브러리"
 sources: ["/1758"]
 updated: "2026-04-06"

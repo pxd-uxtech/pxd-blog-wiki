@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UX 방법론"
 name: "UX 리서치 통계 분석"
 sources: ["/1818"]
 updated: "2026-04-06"

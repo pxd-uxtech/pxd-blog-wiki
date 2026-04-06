@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "웹 개발"
 name: "CSS 로딩 애니메이션"
 sources: ["/922"]
 updated: "2026-04-06"

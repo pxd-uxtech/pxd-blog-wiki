@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UI/인터랙션 설계"
 name: "키오스크 UI 설계"
 sources: ["/1332"]
 updated: "2026-04-06"

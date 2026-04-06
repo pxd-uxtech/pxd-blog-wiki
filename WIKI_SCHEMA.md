@@ -23,6 +23,7 @@
 ```markdown
 ---
 type: concept
+domain: "{도메인명}"
 name: "{개념명}"
 sources: ["/1234", "/1235"]
 updated: "YYYY-MM-DD"

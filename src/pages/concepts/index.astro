@@ -1,28 +1,45 @@
 ---
 import Base from '@/layouts/Base.astro';
-import { getConceptPages } from '@/lib/wiki';
+import { getConceptPages, DOMAIN_ORDER } from '@/lib/wiki';
+import ConceptMap from '@/components/ConceptMap.astro';
 
 const pages = getConceptPages();
+
+const grouped = new Map<string, typeof pages>();
+for (const domain of DOMAIN_ORDER) {
+  grouped.set(domain, []);
+}
+for (const p of pages) {
+  const key = p.domain || '기타';
+  if (!grouped.has(key)) grouped.set(key, []);
+  grouped.get(key)!.push(p);
+}
 ---
 
 <Base title="개념 위키">
   <h1>개념 위키</h1>
   <p>LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 {pages.length}개</p>
+  <ConceptMap />
 
   {pages.length === 0 ? (
     <p>아직 ingest된 개념이 없습니다.</p>
   ) : (
-    <table>
-      <thead><tr><th>개념</th><th>출처 수</th><th>업데이트</th></tr></thead>
-      <tbody>
-        {pages.map(p => (
-          <tr>
-            <td><a href={`/concepts/${p.slug}`}>{p.name}</a></td>
-            <td>{p.sources.length}</td>
-            <td class="date">{p.updated}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
+    [...grouped.entries()].filter(([, items]) => items.length > 0).map(([domain, items]) => (
+      <section>
+        <h2>{domain}</h2>
+        <table>
+          <thead><tr><th>개념</th><th>출처 수</th><th>업데이트</th></tr></thead>
+          <tbody>
+            {items.map(p => (
+              <tr>
+                <td><a href={`/concepts/${p.slug}`}>{p.name}</a></td>
+                <td>{p.sources.length}</td>
+                <td class="date">{p.updated}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+    ))
   )}
 </Base>

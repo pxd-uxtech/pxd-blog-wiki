@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UX 커리어"
 name: "UX 교육과 대학원"
 sources: ["/957", "/1170"]
 updated: "2026-04-06"

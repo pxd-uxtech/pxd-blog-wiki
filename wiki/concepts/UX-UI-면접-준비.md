@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "UX 커리어"
 name: "UX/UI 면접 준비"
 sources: ["/1574"]
 updated: "2026-04-06"

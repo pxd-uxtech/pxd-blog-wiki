@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "디자인 시스템"
 name: "UI 컴포넌트 용어"
 sources: ["/616", "/647", "/718", "/638"]
 updated: "2026-04-06"

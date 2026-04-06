@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "디자인 시스템"
 name: "BX 디자인과 브랜드 자산 운용"
 sources: ["/1743"]
 updated: "2026-04-06"

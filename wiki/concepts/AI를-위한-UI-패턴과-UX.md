@@ -1,5 +1,6 @@
 ---
 type: concept
+domain: "AI와 신기술"
 name: "AI를 위한 UI 패턴과 UX"
 sources: ["/1783", "/1787"]
 updated: "2026-04-06"
