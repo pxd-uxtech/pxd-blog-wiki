@@ -12,7 +12,7 @@ const { title } = Astro.props;
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title} — pxd 블로그 위키</title>
-  <style>
+  <style is:global>
     @import url('https://cdn.jsdelivr.net/gh/pxd-uxtech/KoddiUDOnGothic@main/webfont/KoddiUDOnGothic.css');
 
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }

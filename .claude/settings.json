@@ -7,7 +7,14 @@
       "Bash(fnm ls:*)",
       "WebFetch(domain:static.observableusercontent.com)",
       "Bash(gh auth:*)",
-      "Bash(gh repo:*)"
+      "Bash(gh repo:*)",
+      "Bash(gh run:*)",
+      "Bash(launchctl load:*)",
+      "Bash(launchctl list:*)",
+      "Bash(./scripts/auto-ingest.sh 10)"
+    ],
+    "additionalDirectories": [
+      "/Users/taekie/Library/LaunchAgents"
     ]
   }
 }
