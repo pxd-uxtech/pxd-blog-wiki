@@ -1,0 +1,32 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getConceptPages, renderConceptContent } from '@/lib/wiki';
+
+export function getStaticPaths() {
+  const pages = getConceptPages();
+  return pages.map(p => ({
+    params: { slug: p.slug },
+    props: p,
+  }));
+}
+
+const { name, sources, updated, content } = Astro.props;
+const allSlugs = new Set(getConceptPages().map(p => p.slug));
+const html = renderConceptContent(content, allSlugs);
+---
+
+<Base title={name}>
+  <article>
+    <Fragment set:html={html} />
+  </article>
+  <p class="date" style="margin-top: 2rem;">최종 업데이트: {updated} | 출처 {sources.length}개</p>
+  <style>
+    article h1 { font-size: 1.5rem; margin-bottom: 1rem; }
+    article h2 { font-size: 1.2rem; margin-top: 2rem; margin-bottom: 0.75rem; }
+    article h3 { font-size: 1.05rem; margin-top: 1.5rem; margin-bottom: 0.5rem; }
+    article p { margin: 0.5rem 0; }
+    article ul { padding-left: 1.5rem; list-style: disc; margin: 0.5rem 0; }
+    article li { padding: 0.2rem 0; }
+    .missing-link { color: #9ca3af; text-decoration: underline dotted; }
+  </style>
+</Base>

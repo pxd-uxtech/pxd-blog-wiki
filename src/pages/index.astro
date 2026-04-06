@@ -1,6 +1,8 @@
 ---
 import Base from '@/layouts/Base.astro';
 import { articles, getCategoryMap, getAuthorMap, getTopTags, getYearMap, toSlug } from '@/lib/data';
+import { getConceptPages } from '@/lib/wiki';
+const conceptPages = getConceptPages();
 
 const categoryMap = getCategoryMap();
 const authorMap = getAuthorMap();
@@ -12,6 +14,19 @@ const topAuthors = [...authorMap.entries()].sort((a, b) => b[1].length - a[1].le
 <Base title="인덱스">
   <h1>pxd 블로그 위키</h1>
   <p>pxd story 블로그의 {articles.length}개 글을 카테고리, 저자, 태그, 연도별로 탐색할 수 있습니다.</p>
+
+  {conceptPages.length > 0 && (
+    <>
+      <h2><a href="/concepts">개념 위키</a> <span class="count">({conceptPages.length})</span></h2>
+      <p>LLM이 블로그 글을 읽고 정리한 개념 페이지</p>
+      <ul>
+        {conceptPages.slice(0, 10).map(p => (
+          <li><a href={`/concepts/${p.slug}`}>{p.name}</a> <span class="count">출처 {p.sources.length}개</span></li>
+        ))}
+        {conceptPages.length > 10 && <li><a href="/concepts">전체 보기 →</a></li>}
+      </ul>
+    </>
+  )}
 
   <h2><a href="/overview">블로그 개요</a></h2>
   <p>전체 통계 요약</p>
