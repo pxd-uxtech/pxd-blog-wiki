@@ -34,6 +34,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [인포그래픽 유형 분류](concepts/인포그래픽-유형-분류.md) — 디자인 기획 과정에서 활용되는 인포그래픽 5대 유형: 흐름·관계·구조·모델링·정량 데이터
 - [정보 구조 설계 IA](concepts/정보-구조-설계-IA.md) — 서비스의 전체 구조를 지탱하는 뼈대로서의 정보 구조
 - [정보 디자인 원칙](concepts/정보-디자인-원칙.md) — 사용자가 정보를 효과적으로 인지하고 행동할 수 있도록 설계하는 원칙
+- [컨텍스추얼 인쿼리](concepts/컨텍스추얼-인쿼리.md) — 사용자의 현장에서 진행하는 에스노그래피형 필드 리서치, Beyer & Holtzblatt의 4대 원칙
+- [키스크린과 인터랙션 프레임웍](concepts/키스크린과-인터랙션-프레임웍.md) — 사용자·사업·기술 세 축을 종합한 UI 프로젝트의 전환점
 
 ## 디자인 시스템
 - [BX 디자인과 브랜드 자산 운용](concepts/BX-디자인과-브랜드-자산-운용.md) — BX 디자이너는 브랜드의 시각적 언어와 사용자 경험을 통합하는 역할
@@ -42,6 +44,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [색상이론과 RYB 색상환](concepts/색상이론과-RYB-색상환.md) — RGB와 RYB 색상 모델의 차이, 이텐의 색상환을 디지털 환경에서 구현하는 방법
 - [조형의 요소와 원리](concepts/조형의-요소와-원리.md) — 디자인을 구성하는 재료(요소)와 배합 방법(원리)
 - [피그마 프로토타이핑](concepts/피그마-프로토타이핑.md) — 피그마의 프로토타이핑 기능으로 인터랙티브 시뮬레이션 제작
+- [스큐어모피즘](concepts/스큐어모피즘.md) — 이전 매체의 형태를 새 매체에서 유지하는 GUI 디자인 양식, 애플 iOS 7 플랫 전환의 배경
 
 ## UI/인터랙션 설계
 - [Pull to Refresh](concepts/Pull-to-Refresh.md) — 화면을 아래로 당겨 새로고침하는 모바일 제스처 UI 패턴, Loren Brichter의 Tweetie에서 시작
@@ -55,6 +58,9 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 
 ## 웹 개발
 - [CSS Flexbox](concepts/CSS-Flexbox.md) — float를 대체하는 현대적 CSS 레이아웃 방식, flex-container와 flex-item 속성 체계
+- [CSS 폰트 기능 설정](concepts/CSS-폰트-기능-설정.md) — font-feature-settings로 OpenType의 합자·스몰캡·스와시·tabular-nums 제어
+- [SVG 차트 구현](concepts/SVG-차트-구현.md) — 라이브러리 없이 polyline·circle로 라인 차트와 파이 차트 직접 구현
+- [웹 컴포넌트](concepts/웹-컴포넌트.md) — 웹 표준 HTMLElement·Shadow DOM 기반 재사용 컴포넌트 제작
 - [CSS 로딩 애니메이션](concepts/CSS-로딩-애니메이션.md) — 처리 시간 동안 시스템 작동 중임을 알려주는 CSS 기반 피드백 요소
 - [JWT 인증과 인가](concepts/JWT-인증과-인가.md) — Authentication(신원 검증)과 Authorization(권한 부여)의 차이, JWT 구조와 토큰 기반 인증 메커니즘
 - [Safari 포커스 관리](concepts/Safari-포커스-관리.md) — Safari의 비입력 요소 포커스 비활성화로 인한 스크롤 튕김 버그와 tabindex="-1" 해결책
@@ -74,6 +80,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [웹 접근성과 WAI-ARIA](concepts/웹-접근성과-WAI-ARIA.md) — 모든 사용자가 웹 서비스를 동등하게 이용할 수 있도록 하는 설계 원칙
 
 ## AI와 신기술
+- [AI 모더레이터와 UX 리서치](concepts/AI-모더레이터와-UX-리서치.md) — Outset·Wondering 같은 AI 모더레이터 툴의 강점·한계와 실무 적용 기준
+- [MCP 모델 컨텍스트 프로토콜](concepts/MCP-모델-컨텍스트-프로토콜.md) — Anthropic이 공개한 LLM-외부 시스템 연결 표준, AI 생태계의 USB-C
 - [AI 코딩 도구 활용](concepts/AI-코딩-도구-활용.md) — 깃허브 코파일럿, 커서, Claude 등 AI 코딩 도구 실무 활용법과 디자이너의 생성형 AI 적용 사례
 - [생성형 AI와 스테이블 디퓨전](concepts/생성형-AI와-스테이블-디퓨전.md) — 스테이블 디퓨전의 디퓨전 프로세스 원리, ComfyUI 노드 기반 워크플로우, 생성형 AI의 민주화 과정
 - [AI를 위한 UI 패턴과 UX](concepts/AI를-위한-UI-패턴과-UX.md) — AI 기반 서비스의 새로운 상호작용 방식과 생성형 AI UX 개선 요구 사항
@@ -87,12 +95,14 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [PM 프로젝트 관리](concepts/PM-프로젝트-관리.md) — 디자인 컨설팅에서 PM 역할의 핵심, 관리(역할)와 리더십(자질)의 구분
 - [UX 교육과 대학원](concepts/UX-교육과-대학원.md) — UX를 체계적으로 공부하는 방법과 대학원 선택 가이드, 해외 유학 실전 조언
 - [UX/UI 면접 준비](concepts/UX-UI-면접-준비.md) — UX/UI 직군 면접에서의 역량 확인과 협업 방식 평가
+- [UX 포트폴리오](concepts/UX-포트폴리오.md) — 심사자의 경험을 디자인하라: 3개 대표작 15페이지 이내로 승부하는 포트폴리오 원칙
 - [pxd 블로그 운영](concepts/pxd-블로그-운영.md) — 개인 전문성 성장을 목표로 설계된 pxd story 블로그 10년 운영 철학과 전략
 - [신규 입사자 온보딩](concepts/신규-입사자-온보딩.md) — UX 관점으로 설계하는 온보딩 여정: Pre-Boarding부터 6개월까지의 경험 설계
 - [좋은 동료의 특징](concepts/좋은-동료의-특징.md) — 자기 인지·탐구적 질문·논리적 의견 제시, 디자인 에이전시에서 같이 일하고 싶은 동료의 세 가지 특성
 - [프로젝트 레트로스펙티브](concepts/프로젝트-레트로스펙티브.md) — pxd의 프로젝트 회고 방법론, 팀 학습을 통한 조직 지식 축적
 
 ## 기술과 사회
+- [컴퓨터 케이스 커스터마이징](concepts/컴퓨터-케이스-커스터마이징.md) — 기능과 표현의 분리, 산업 디자인과 GUI 작업에 공통된 접근 방식
 - [3D 프린팅 기술](concepts/3D-프린팅-기술.md) — FDM·SLA·SLS 방식의 3D 프린팅 기초, RepRap 오픈 소스와 제조 민주화
 - [3D 애니메이션과 렌더링 기술](concepts/3D-애니메이션과-렌더링-기술.md) — 빅 히어로 제작 비하인드: 하이페리온 렌더링 엔진과 소프트 로보틱스 기반 캐릭터 설계
 - [USIM 보안](concepts/USIM-보안.md) — AKA 프로토콜 기반 USIM 인증 구조, SKT 해킹 사건으로 본 유심 보안 위협과 대응
