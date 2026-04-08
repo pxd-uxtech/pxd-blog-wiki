@@ -38,6 +38,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [키스크린과 인터랙션 프레임웍](concepts/키스크린과-인터랙션-프레임웍.md) — 사용자·사업·기술 세 축을 종합한 UI 프로젝트의 전환점
 - [상태 전이 모델링](concepts/상태-전이-모델링.md) — 상태·사건·액션·전이로 시스템을 분해해 기획의 빈틈을 드러내는 도구
 - [디자인 경영과 혁신 사례](concepts/디자인-경영과-혁신-사례.md) — 레고의 위기와 D4B(Design for Business) 모델로 본 창의성·전략 통합
+- [User Story와 애자일](concepts/User-Story와-애자일.md) — 엉성하게 시작해 Iteration으로 정확성을 높이는 애자일 사고와 User Story 활용법
+- [보험 서비스 UX](concepts/보험-서비스-UX.md) — 시니어 고객-설계사-콜센터 삼각 관계 분석과 다채널 리서치 사례
 
 ## 디자인 시스템
 - [BX 디자인과 브랜드 자산 운용](concepts/BX-디자인과-브랜드-자산-운용.md) — BX 디자이너는 브랜드의 시각적 언어와 사용자 경험을 통합하는 역할
@@ -58,6 +60,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [옵티미스틱 UI](concepts/옵티미스틱-UI.md) — 서버 응답을 기다리지 않고 즉시 성공 상태를 표시하는 체감 성능 최적화 패턴
 - [키오스크 UI 설계](concepts/키오스크-UI-설계.md) — 큰 화면, 터치 입력, 공개 장소라는 키오스크 특성에 맞는 UI 설계
 - [한글 입력 설계](concepts/한글-입력-설계.md) — 자소 빈도 분석에 기반한 한글 자판 설계, 어린이 학습용 키보드 사례 포함
+- [모바일 제스처 UI](concepts/모바일-제스처-UI.md) — Tap·Swipe·Long Tap 등 모바일 동영상 플레이어 제스처 패턴 비교
+- [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 
 ## 웹 개발
 - [CSS Flexbox](concepts/CSS-Flexbox.md) — float를 대체하는 현대적 CSS 레이아웃 방식, flex-container와 flex-item 속성 체계
@@ -74,6 +78,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [JavaScript Date 라이브러리](concepts/JavaScript-Date-라이브러리.md) — Moment.js, Day.js, date-fns 세 가지 날짜 라이브러리 비교
 - [PWA 프로그레시브 웹 앱](concepts/PWA-프로그레시브-웹-앱.md) — 웹 기술로 네이티브 앱 경험을 제공하는 방식, manifest.json과 Service Worker 기반
 - [React TypeScript 패턴](concepts/React-TypeScript-패턴.md) — React.FC의 문제점(암시적 children, defaultProps 이슈)과 일반 함수 선언 방식 권장 패턴
+- [React 상태 관리](concepts/React-상태-관리.md) — Jotai 아토믹 상태 관리 라이브러리와 React 상태 관리 라이브러리 비교
 - [SCSS 모듈 시스템](concepts/SCSS-모듈-시스템.md) — @import 대체 문법인 @use와 @forward로 네임스페이스 기반 SCSS 모듈 관리
 - [WebGL과 3D 웹](concepts/WebGL과-3D-웹.md) — 브라우저에서 3D 그래픽을 구현하는 WebGL과 Babylon.js 프레임워크
 - [딥링크](concepts/딥링크.md) — URL이나 값을 호출했을 때 앱을 실행하거나 앱 내 특정 화면으로 이동시키는 기술
