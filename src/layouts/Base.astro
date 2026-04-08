@@ -12,6 +12,14 @@ const { title } = Astro.props;
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title} — pxd 블로그 위키</title>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-L1KGH3Y3R3" is:inline></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-L1KGH3Y3R3');
+  </script>
   <style is:global>
     @import url('https://cdn.jsdelivr.net/gh/pxd-uxtech/KoddiUDOnGothic@main/webfont/KoddiUDOnGothic.css');
 
