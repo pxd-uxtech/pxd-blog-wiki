@@ -37,6 +37,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [컨텍스추얼 인쿼리](concepts/컨텍스추얼-인쿼리.md) — 사용자의 현장에서 진행하는 에스노그래피형 필드 리서치, Beyer & Holtzblatt의 4대 원칙
 - [키스크린과 인터랙션 프레임웍](concepts/키스크린과-인터랙션-프레임웍.md) — 사용자·사업·기술 세 축을 종합한 UI 프로젝트의 전환점
 - [상태 전이 모델링](concepts/상태-전이-모델링.md) — 상태·사건·액션·전이로 시스템을 분해해 기획의 빈틈을 드러내는 도구
+- [디자인 경영과 혁신 사례](concepts/디자인-경영과-혁신-사례.md) — 레고의 위기와 D4B(Design for Business) 모델로 본 창의성·전략 통합
 
 ## 디자인 시스템
 - [BX 디자인과 브랜드 자산 운용](concepts/BX-디자인과-브랜드-자산-운용.md) — BX 디자이너는 브랜드의 시각적 언어와 사용자 경험을 통합하는 역할
@@ -63,6 +64,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [CSS 폰트 기능 설정](concepts/CSS-폰트-기능-설정.md) — font-feature-settings로 OpenType의 합자·스몰캡·스와시·tabular-nums 제어
 - [SVG 차트 구현](concepts/SVG-차트-구현.md) — 라이브러리 없이 polyline·circle로 라인 차트와 파이 차트 직접 구현
 - [웹 컴포넌트](concepts/웹-컴포넌트.md) — 웹 표준 HTMLElement·Shadow DOM 기반 재사용 컴포넌트 제작
+- [React 컴포넌트 패턴](concepts/React-컴포넌트-패턴.md) — Container/Presentational, Compound, HOC 세 가지 React 디자인 패턴
+- [오픈소스 라이선스](concepts/오픈소스-라이선스.md) — MIT·Apache·GPL·LGPL·MPL·BSD 비교, Permissive vs Copyleft 분류
 - [CSS 로딩 애니메이션](concepts/CSS-로딩-애니메이션.md) — 처리 시간 동안 시스템 작동 중임을 알려주는 CSS 기반 피드백 요소
 - [JWT 인증과 인가](concepts/JWT-인증과-인가.md) — Authentication(신원 검증)과 Authorization(권한 부여)의 차이, JWT 구조와 토큰 기반 인증 메커니즘
 - [Safari 포커스 관리](concepts/Safari-포커스-관리.md) — Safari의 비입력 요소 포커스 비활성화로 인한 스크롤 튕김 버그와 tabindex="-1" 해결책
@@ -109,6 +112,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [프로젝트 레트로스펙티브](concepts/프로젝트-레트로스펙티브.md) — pxd의 프로젝트 회고 방법론, 팀 학습을 통한 조직 지식 축적
 
 ## 기술과 사회
+- [UI와 디바이스 역사](concepts/UI와-디바이스-역사.md) — 마우스·QWERTY·VisiCalc·플래시-매틱 등 UI 요소의 최초 순간들
 - [컴퓨터 케이스 커스터마이징](concepts/컴퓨터-케이스-커스터마이징.md) — 기능과 표현의 분리, 산업 디자인과 GUI 작업에 공통된 접근 방식
 - [3D 프린팅 기술](concepts/3D-프린팅-기술.md) — FDM·SLA·SLS 방식의 3D 프린팅 기초, RepRap 오픈 소스와 제조 민주화
 - [3D 애니메이션과 렌더링 기술](concepts/3D-애니메이션과-렌더링-기술.md) — 빅 히어로 제작 비하인드: 하이페리온 렌더링 엔진과 소프트 로보틱스 기반 캐릭터 설계
