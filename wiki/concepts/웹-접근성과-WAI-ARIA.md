@@ -2,8 +2,8 @@
 type: concept
 domain: "웹 개발"
 name: "웹 접근성과 WAI-ARIA"
-sources: ["/1588"]
-updated: "2026-04-06"
+sources: ["/1588", "/1835"]
+updated: "2026-04-07"
 ---
 # 웹 접근성과 WAI-ARIA
 
@@ -12,6 +12,10 @@ updated: "2026-04-06"
 **WAI-ARIA(Web Accessibility Initiative - Accessible Rich Internet Applications)**는 W3C의 웹 접근성 담당 기관 WAI가 정의한 RIA(Rich Internet Application) 환경의 접근성 표준이다. Ajax나 JavaScript로 실시간 변경되는 콘텐츠는 **스크린 리더** 같은 보조 기술이 감지하기 어렵다. WAI-ARIA는 HTML 태그에 `role`, `property`, `state` 속성을 추가해 개발자의 UI 의도와 구조적 정보를 보조 기술에 전달하는 방식으로 이 문제를 해결한다.
 
 사용 시 주의할 점은 **HTML5의 시맨틱 태그**를 우선 사용하고 WAI-ARIA는 보완적으로 추가해야 한다는 것이다. `<nav>`에 `role="navigation"`을 중복 선언하는 것처럼 HTML5 시맨틱 요소와 ARIA role을 함께 쓰면 안 된다. ARIA의 랜드마크 역할(navigation, main, banner, search, contentinfo 등)은 HTML5 시맨틱 태그와 일대일 대응 관계를 가지므로, 태그로 의미를 부여할 수 없을 때만 ARIA role을 사용한다. **라이브 리전(Live Region)** 속성을 사용하면 Ajax로 변경되는 콘텐츠를 스크린 리더가 자동으로 감지하고 읽을 수 있다.
+
+**법적 의무와 실태**. 한국의 **장애인차별금지법**은 2007년 4월 제정, 2008년 4월 시행된 오래된 법으로, 공공기관(2009년 4월~)과 법인(2013년 4월~)을 단계적으로 의무화해 2015년까지 모든 웹사이트가 준수 대상이다. 위반 시 **3천만 원 이하 과태료**, 고의·악의적 위반은 **3년 이하 징역 또는 3천만 원 이하 벌금** 및 손해배상 청구 가능. 2023년 실태조사에서 평균 점수는 65.8점(전년 60.9점 대비 상승)이지만 여전히 의무 수준에 미달한다. 원칙별로는 **견고성(98.9%)**이 가장 높고 **인식의 용이성(56.5%)**이 가장 낮다—이는 실무에서 개발 표준 준수는 잘 지켜지나 콘텐츠 대체 텍스트·멀티미디어 대체 수단 등이 취약함을 의미한다.
+
+**한국형 웹 콘텐츠 접근성 지침 2.2(KWCAG 2.2)**의 **4대 원칙**: 인식의 용이성 · 운용의 용이성 · 이해의 용이성 · 견고성. 각 원칙은 대체 텍스트·멀티미디어 대체 수단·적응성·명료성·입력 장치 접근성·충분한 시간 제공·발작 예방·쉬운 내비게이션·입력 방식 다양성·가독성·예측 가능성·입력 도움·문법 준수·웹 애플리케이션 접근성 등의 지침으로 확장된다. **파트별 체크리스트**는 UI·GUI·FED(프론트엔드)·BED(백엔드)로 책임 범위를 나누어 관리해야 누락을 줄일 수 있다. 예: `<img>`의 `alt` 속성은 UI·FED가 공동 책임, 색상 대비는 GUI가, 시맨틱 마크업과 `<table>`/`<caption>` 구조는 FED가, 다이나믹 콘텐츠의 ARIA live region은 FED·BED가 담당하는 식이다.
 
 ## 핵심 내용
 - WAI-ARIA: W3C가 정의한 동적 웹 환경의 접근성 표준 (role, property, state 속성)
@@ -27,3 +31,4 @@ updated: "2026-04-06"
 
 ## 출처
 - [WAI-ARIA란?](https://story.pxd.co.kr/1588) — 2021-09-30, seonju.lee
+- [A11y Checklist](https://story.pxd.co.kr/1835) — taeyong.kim, UX Engineer 이야기
