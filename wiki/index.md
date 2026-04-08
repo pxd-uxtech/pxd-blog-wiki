@@ -40,6 +40,9 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [디자인 경영과 혁신 사례](concepts/디자인-경영과-혁신-사례.md) — 레고의 위기와 D4B(Design for Business) 모델로 본 창의성·전략 통합
 - [User Story와 애자일](concepts/User-Story와-애자일.md) — 엉성하게 시작해 Iteration으로 정확성을 높이는 애자일 사고와 User Story 활용법
 - [보험 서비스 UX](concepts/보험-서비스-UX.md) — 시니어 고객-설계사-콜센터 삼각 관계 분석과 다채널 리서치 사례
+- [도그푸딩](concepts/도그푸딩.md) — 만드는 사람이 쓰는 사람의 시점을 직접 경험하는 6단계 프로세스
+- [린 스타트업과 피벗](concepts/린-스타트업과-피벗.md) — 에릭 리스의 10가지 피벗 종류와 자기 강점 기반의 방향 전환
+- [사용자 인터뷰 기법](concepts/사용자-인터뷰-기법.md) — 효과적인 인터뷰를 위한 10가지 가이드라인과 다이어리 스터디 활용법
 
 ## 디자인 시스템
 - [BX 디자인과 브랜드 자산 운용](concepts/BX-디자인과-브랜드-자산-운용.md) — BX 디자이너는 브랜드의 시각적 언어와 사용자 경험을 통합하는 역할
@@ -62,6 +65,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [한글 입력 설계](concepts/한글-입력-설계.md) — 자소 빈도 분석에 기반한 한글 자판 설계, 어린이 학습용 키보드 사례 포함
 - [모바일 제스처 UI](concepts/모바일-제스처-UI.md) — Tap·Swipe·Long Tap 등 모바일 동영상 플레이어 제스처 패턴 비교
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
+- [Natural User Interface (NUI)](concepts/Natural-User-Interface-NUI.md) — 신체로 직접 인터랙션하는 인터페이스의 역사·9가지 기술 요소·한계
+- [감정 반응 UI](concepts/감정-반응-UI.md) — 페이스북 좋아요 → 6감정 Reactions 전환 사례와 디자인 결정 분석
 
 ## 웹 개발
 - [CSS Flexbox](concepts/CSS-Flexbox.md) — float를 대체하는 현대적 CSS 레이아웃 방식, flex-container와 flex-item 속성 체계

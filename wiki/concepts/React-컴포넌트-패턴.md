@@ -2,7 +2,7 @@
 type: concept
 domain: "웹 개발"
 name: "React 컴포넌트 패턴"
-sources: ["/1824"]
+sources: ["/1824", "/1646"]
 updated: "2026-04-07"
 ---
 # React 컴포넌트 패턴
@@ -84,6 +84,33 @@ export default withLoading(UserImage, '/api/image');
 
 **장점**: 동일 로직을 여러 컴포넌트에 반복 없이 적용. **단점**: **각 인스턴스의 커스터마이징이 어렵고**, hook 등장 이후 대부분의 사용 사례가 custom hook으로 대체됨. 단독 동작 컴포넌트에 적합.
 
+## React 프로젝트의 기본 구조
+
+**Create React App**으로 생성한 기본 프로젝트의 구조는 다음과 같다:
+
+```
+my-app/
+├── README.md
+├── node_modules/        # npm으로 설치된 모듈들
+├── package.json         # 의존성과 스크립트 명세
+├── public/
+│   ├── index.html       # 페이지 템플릿 (이름 변경 금지)
+│   └── favicon.ico
+└── src/
+    ├── index.js         # 자바스크립트 시작점 (이름 변경 금지)
+    ├── App.js           # 루트 컴포넌트
+    ├── App.css
+    └── ...
+```
+
+**필수 도구**: ① **Node.js** — 브라우저 밖에서 자바스크립트를 실행하는 런타임. React 앱은 브라우저에서 동작하지만 빌드 도구(**바벨**, **웹팩**)가 Node.js 위에서 동작하므로 필수. ② **IDE**(VS Code 권장).
+
+**설치**: `npx create-react-app ./` — `npx`는 npm registry 패키지를 직접 실행하는 도구로, 글로벌 설치 없이 create-react-app을 실행한다.
+
+**진입점 (`src/index.js`)**: `ReactDOM.createRoot(document.getElementById('root'))`로 'root' id를 가진 DOM 노드를 찾아 컴포넌트를 렌더링한다. **React.StrictMode**는 개발 모드에서만 활성화되며 잠재적 문제(deprecated API 사용, 부수 효과 검사 등)를 경고하지만 프로덕션 빌드에는 영향이 없다.
+
+`package.json`의 `scripts`에 정의된 `start`/`build`/`test`/`eject`는 `npm run` 또는 `npm start`로 실행된다.
+
 ## 핵심 내용
 - **Container/Presentational**: 로직과 UI의 책임 분리
 - **Compound**: Context API + Modal.X 형태로 캡슐화 + 자유로운 자식 배치
@@ -98,3 +125,4 @@ export default withLoading(UserImage, '/api/image');
 
 ## 출처
 - [React 디자인 패턴](https://story.pxd.co.kr/1824) — hyejun.lee, UX Engineer 이야기
+- [React 입문: 설치과정과 기본구조 살펴보기](https://story.pxd.co.kr/1646) — jinahgna, UX Engineer 이야기
