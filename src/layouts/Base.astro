@@ -61,6 +61,7 @@ const { title } = Astro.props;
       gap: 1.25rem;
       align-items: baseline;
       flex-wrap: wrap;
+      position: relative;
     }
 
     nav .site-title {
@@ -95,6 +96,52 @@ const { title } = Astro.props;
     nav a.active {
       color: #3b82f6;
       font-weight: 600;
+    }
+
+    /* ── Search ── */
+    .search-wrapper {
+      margin-left: auto;
+      flex-shrink: 1;
+      min-width: 0;
+    }
+
+    .search-wrapper .pagefind-ui {
+      --pagefind-ui-scale: 0.7;
+      --pagefind-ui-primary: #3b82f6;
+      --pagefind-ui-text: #1d1d1f;
+      --pagefind-ui-background: #fff;
+      --pagefind-ui-border: #ebe8dd;
+      --pagefind-ui-border-width: 1px;
+      --pagefind-ui-border-radius: 6px;
+      --pagefind-ui-font: 'KoddiUD OnGothic', -apple-system, system-ui, sans-serif;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__search-input {
+      width: 180px;
+      transition: width 0.2s;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__search-input:focus {
+      width: 260px;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__drawer {
+      position: absolute;
+      right: 0;
+      top: 100%;
+      z-index: 100;
+      background: #fff;
+      border: 1px solid #ebe8dd;
+      border-radius: 8px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+      max-height: 60vh;
+      overflow-y: auto;
+      width: 400px;
+      max-width: 90vw;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__form::before {
+      display: none;
     }
 
     /* ── Main Content ── */
@@ -331,10 +378,26 @@ const { title } = Astro.props;
       <a href="/overview">개요</a>
       <a href="/tags">태그</a>
       <a href="/years">연도별</a>
+      <div id="search" class="search-wrapper"></div>
     </nav>
   </header>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      new PagefindUI({
+        element: '#search',
+        showSubResults: false,
+        showImages: false,
+        translations: {
+          placeholder: '검색...',
+          zero_results: '결과 없음',
+        }
+      });
+    });
+  </script>
   <div class="page-wrapper">
-    <main>
+    <main data-pagefind-ignore>
       <slot />
     </main>
   </div>

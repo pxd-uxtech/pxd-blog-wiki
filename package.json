@@ -3,11 +3,14 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && npx pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^5.7.0",
-    "@astrojs/cloudflare": "^12.3.0"
+    "@astrojs/cloudflare": "^12.3.0",
+    "astro": "^5.7.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.0"
   }
 }

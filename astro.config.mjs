@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://pxd-blog-wiki.pages.dev',
+  site: 'https://story-wiki.pxd.co.kr',
   output: 'static',
 });

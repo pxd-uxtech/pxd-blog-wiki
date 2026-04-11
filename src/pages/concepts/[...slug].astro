@@ -16,7 +16,7 @@ const html = renderConceptContent(content, allSlugs);
 ---
 
 <Base title={name}>
-  <article>
+  <article data-pagefind-body>
     <Fragment set:html={html} />
   </article>
   <p class="date" style="margin-top: 2rem;">최종 업데이트: {updated} | 출처 {sources.length}개</p>
