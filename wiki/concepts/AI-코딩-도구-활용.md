@@ -2,8 +2,8 @@
 type: concept
 domain: "AI와 신기술"
 name: "AI 코딩 도구 활용"
-sources: ["/1830", "/1814", "/1819", "/1825", "/1789", "/1786", "/1813", "/1841", "/1855", "/1844"]
-updated: "2026-04-07"
+sources: ["/1830", "/1814", "/1819", "/1825", "/1789", "/1786", "/1813", "/1841", "/1855", "/1844", "/1854"]
+updated: "2026-04-13"
 ---
 # AI 코딩 도구 활용
 
@@ -40,6 +40,8 @@ updated: "2026-04-07"
 
 **Adobe Make it. Seoul 2025** 컨퍼런스는 생성형 AI가 콘텐츠 창작 워크플로우를 어떻게 바꾸는지 보여주는 사례를 공유했다. **Frame.io**는 클라우드 기반 영상 협업 플랫폼으로, 스튜디오 드래곤이 도입해 촬영 중 즉시 클라우드 업로드 → 원격 팀의 실시간 검수가 가능해졌다. 타임라인 기반 댓글·드로잉·로고 첨부, 포렌식 워터마크, Adobe Premiere 통합 기능을 갖춘다. **AiINN**(이노바션)은 Adobe Firefly의 Object Composites API를 활용해 제품 이미지를 왜곡 없이 합성하는 마케팅 콘텐츠 AI 솔루션이다. **Project NEO**는 기본 도형 조합과 Pathfinder 기능으로 3D 아트워크를 생성하는 Adobe 베타 툴이며, **Firefly Custom Model**은 특정 캐릭터 IP를 80% 충실도로 재현할 수 있는 파인튜닝 기능이다.
 
+
+GitHub에서 AI를 활용한 **PR 리뷰 자동화**도 실무 사례가 늘고 있다. pxd XE 그룹은 GitHub Actions와 Claude API를 연동해 PR 오픈 시점에 자동으로 코드 리뷰를 요청하는 파이프라인을 구축했다. 핵심 흐름은 세 단계로, PR이 오픈되면 **Actions Workflow가 diff를 추출**하고, 추출된 diff를 Claude에 전달해 **코드 품질·보안·로직 오류**를 검토시킨 뒤, 리뷰 코멘트를 **PR에 자동 작성**한다. 팀원이 직접 확인하지 않아도 외부 코드 변경에 대한 기본적인 스크리닝이 가능해졌다. 단, AI 리뷰는 **응용 도메인 지식을 가진 인사가 확인하는 최종 판단**을 해야 한다는 주의사항도 동반된다.
 ## 출처
 - [커서 AI, 코파일럿에 이어 써봤습니다](https://story.pxd.co.kr/1830) — 2025-02-04, bareum.park
 - [도전! AI와 한 팀 되기 #2 UI 디자인](https://story.pxd.co.kr/1814) — 2024-11-22, 임현경
@@ -51,3 +53,4 @@ updated: "2026-04-07"
 - [[다녀왔습니다] Make it. Seoul 2025](https://story.pxd.co.kr/1841) — 2025-04-10, yeji.jeong
 - [커서와 함께 개발하기 (feat. notepads)](https://story.pxd.co.kr/1855) — 2025-09-22, hongdoyoung
 - [바이브 코딩으로 간단한 웹사이트 구현해보기 (실전편)](https://story.pxd.co.kr/1844) — Seulbi Lee, UX Engineer 이야기
+- [GitHub Actions + Claude API를 활용한 PR 리뷰 자동화](https://story.pxd.co.kr/1854) — pxd XE Group
