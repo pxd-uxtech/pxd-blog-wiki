@@ -26,7 +26,9 @@ const sortedYears = [...yearMap.entries()].sort((a, b) => Number(b[0]) - Number(
   <h2><a href="/tags">주요 태그</a> <span class="count">(상위 30개)</span></h2>
   <div class="tag-list">
     {topTags.map(([tag, list]) => (
-      <a href={`/tags/${toSlug(tag)}`} class="tag">{tag} ({list.length})</a>
+      <a href={`/tags/${toSlug(tag)}`} class="tag year-pill">
+        {tag} <span class="pill-count">{list.length}</span>
+      </a>
     ))}
   </div>
 
