@@ -2,28 +2,24 @@
 import Base from '@/layouts/Base.astro';
 import { articles, getTopTags, getYearMap, toSlug } from '@/lib/data';
 import { getConceptPages } from '@/lib/wiki';
-const conceptPages = getConceptPages();
+import ConceptMap from '@/components/ConceptMap.astro';
 
+const conceptPages = getConceptPages();
 const topTags = getTopTags(30);
 const yearMap = getYearMap();
+const sortedYears = [...yearMap.entries()].sort((a, b) => Number(b[0]) - Number(a[0]));
 ---
 
 <Base title="인덱스">
   <h1>pxd 블로그 위키</h1>
-  <p>pxd story 블로그 {articles.length}개 글의 지식을 구조화한 위키입니다.</p>
+  <p>
+    <a href="https://story.pxd.co.kr/" target="_blank" rel="noopener">pxd story 블로그</a> {articles.length}개 글의 지식을 구조화한 위키입니다.
+  </p>
 
   {conceptPages.length > 0 && (
     <>
       <h2><a href="/concepts">개념 위키</a> <span class="count">({conceptPages.length})</span></h2>
-      <div class="card-list">
-        {conceptPages.slice(0, 10).map(p => (
-          <a href={`/concepts/${p.slug}`} class="card">
-            <div class="card-title">{p.name}</div>
-            <div class="card-meta">출처 {p.sources.length}개 · {p.updated}</div>
-          </a>
-        ))}
-      </div>
-      {conceptPages.length > 10 && <p><a href="/concepts">전체 {conceptPages.length}개 보�� →</a></p>}
+      <ConceptMap />
     </>
   )}
 
@@ -35,9 +31,36 @@ const yearMap = getYearMap();
   </div>
 
   <h2><a href="/years">연도별</a></h2>
-  <ul>
-    {[...yearMap.entries()].map(([year, list]) => (
-      <li><a href={`/years/${year}`}>{year}년</a> <span class="count">{list.length}개</span></li>
+  <div class="tag-list year-list">
+    {sortedYears.map(([year, list]) => (
+      <a href={`/years/${year}`} class="tag year-pill">
+        {year}년 <span class="pill-count">{list.length}</span>
+      </a>
     ))}
-  </ul>
+  </div>
 </Base>
+
+<style>
+  .year-list {
+    margin-top: 0.75rem;
+    margin-bottom: 1.5rem;
+  }
+  .year-pill {
+    font-size: 0.82rem;
+    padding: 0.3rem 0.85rem;
+  }
+  .pill-count {
+    display: inline-block;
+    background: #e8e8e8;
+    border-radius: 100px;
+    padding: 0 0.45em;
+    font-size: 0.75em;
+    margin-left: 0.3em;
+    color: #48484a;
+    transition: background 0.15s, color 0.15s;
+  }
+  .year-pill:hover .pill-count {
+    background: rgba(255,255,255,0.25);
+    color: #fff;
+  }
+</style>
