@@ -131,13 +131,53 @@ const { title } = Astro.props;
       top: 100%;
       z-index: 100;
       background: #fff;
-      border: 1px solid #ebe8dd;
-      border-radius: 8px;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+      border: 1px solid #e8e8e8;
+      border-radius: 12px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.12), 0 2px 8px rgba(0,0,0,0.06);
       max-height: 60vh;
       overflow-y: auto;
-      width: 400px;
-      max-width: 90vw;
+      width: 460px;
+      max-width: 92vw;
+      padding: 0.5rem 0;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__results {
+      padding: 0 0.75rem;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__result {
+      border-bottom: 1px solid #f0f0f0;
+      padding: 0.75rem 0.5rem;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__result:last-child {
+      border-bottom: none;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__result-link {
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: #1d1d1f;
+      text-decoration: none;
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__result-link:hover {
+      color: #3b82f6;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__result-excerpt {
+      font-size: 0.78rem;
+      color: #6e6e73;
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    .search-wrapper .pagefind-ui .pagefind-ui__message {
+      padding: 1rem 1.25rem;
+      font-size: 0.82rem;
+      color: #8e8e93;
     }
 
     .search-wrapper .pagefind-ui .pagefind-ui__form::before {
