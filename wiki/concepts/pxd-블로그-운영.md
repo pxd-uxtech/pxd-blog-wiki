@@ -2,8 +2,8 @@
 type: concept
 domain: "UX 커리어"
 name: "pxd 블로그 운영"
-sources: ["/1000", "/1727", "/1699", "/1792", "/1746"]
-updated: "2026-04-11"
+sources: ["/1000", "/728", "/1353", "/1676", "/1727", "/1699", "/1792", "/1746"]
+updated: "2026-04-14"
 ---
 # pxd 블로그 운영
 
@@ -41,3 +41,6 @@ updated: "2026-04-11"
 - [pxd people | "지금 저는 UX를 여행하고 있어요"](https://story.pxd.co.kr/1699) — 임현경 (Hyun Kyung Lim), pxd 다이어리 & 소소한 이야기
 - [소프트웨어 개발 컨설팅회사 Favorite Medium과 pxd, 업무협약(MOU)을 체결](https://story.pxd.co.kr/1792) — pxd story, pxd 뉴스룸
 - [[pxd talks] 가죽 다이어리 만들기](https://story.pxd.co.kr/1746) — eunjeong_pxd, pxd talks
+- [UX 블로그 모아보기 (목록, 리스트)](https://story.pxd.co.kr/728) — pxd, pxd 프로젝트 리뷰
+- [브런치를 하는 피엑스디 사람들](https://story.pxd.co.kr/1353) — pxd, pxd 다이어리 & 소소한 이야기
+- [pxd people | 프롤로그 "어느 날 pxd 사람들이 궁금해졌다"](https://story.pxd.co.kr/1676) — pxd, pxd 다이어리 & 소소한 이야기
