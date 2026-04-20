@@ -2,8 +2,8 @@
 type: concept
 domain: "디자인 시스템"
 name: "UI 가이드라인"
-sources: ["/1063"]
-updated: "2026-04-07"
+sources: ["/1063", "/684"]
+updated: "2026-04-21"
 ---
 # UI 가이드라인
 
@@ -25,6 +25,9 @@ updated: "2026-04-07"
 - **Wearable**: Google Glass, Apple Watch, Samsung Gear S/Gear 2, Android Wear, Sony SmartEyeglass
 - **Other**: iPod nano UI(작은 화면 인터페이스 참고), Google Cast, **Designing Interfaces** 웹사이트(Jenifer Tidwell의 94가지 패턴)
 
+
+**UI 패턴 참고 리소스**: UI 기획에서 패턴과 원칙을 이해하는 것은 건축가가 구조를 이해하는 것과 같이 기본적이고 중요하다. **UI 패턴**은 일반적인 디자인 문제에 대한 광범위한 해결 방안을 제공한다. 온라인에서 참고할 수 있는 주요 리소스로는 Mobile UI design patterns(sixrevisions.com), 모바일 앱 UI 패턴 사이트 모음, 모바일/웹 UI 패턴·쇼케이스·가이드라인 모음 등이 있다. **Designing Interfaces**(Jenifer Tidwell) 웹사이트는 94가지 인터페이스 패턴을 체계적으로 정리한 대표적 참고 자료다.
+
 ## 핵심 내용
 - UI 가이드라인 = OS·플랫폼·제조사의 인터페이스 표준 문서
 - 효과적 학습 3단계: 큰 줄기 → 면밀한 내용 → 비교·활용
@@ -32,6 +35,7 @@ updated: "2026-04-07"
 - 가이드라인은 디자인 결정의 **설득 도구**로도 활용 가능
 - 가장 효과적 학습은 **실제 프로젝트에서 가이드라인을 작성**해보는 것
 - Apple HIG는 가이드라인 자체에 브랜드 정체성을 담은 대표 사례
+- **UI 패턴**: 반복되는 디자인 문제에 대한 검증된 해결 방안으로, 웹사이트·라이브러리 형태로 정리된 참고 리소스가 다수 존재
 
 ## 관련 개념
 - [[디자인 시스템]] — 가이드라인은 디자인 시스템의 토대 문서
@@ -41,3 +45,4 @@ updated: "2026-04-07"
 
 ## 출처
 - [신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서](https://story.pxd.co.kr/1063) — UX 가벼운 이야기
+- [UI 패턴을 다룬 웹사이트 모음](https://story.pxd.co.kr/684) — 2013-04-24, 위승용 uxdragon
