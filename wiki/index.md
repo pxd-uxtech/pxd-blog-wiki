@@ -91,6 +91,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [한글 입력 설계](concepts/한글-입력-설계.md) — 자소 빈도 분석에 기반한 한글 자판 설계, 어린이 학습용 키보드 사례 포함
 - [모바일 제스처 UI](concepts/모바일-제스처-UI.md) — Tap·Swipe·Long Tap 등 모바일 동영상 플레이어 제스처 패턴 비교
 - [모바일 데이터 자동 인식](concepts/모바일-데이터-자동-인식.md) — iOS Data Detector의 전화번호·날짜·장소·링크 자동 감지와 탭 가능한 인터랙션으로 변환하는 맥락 인식 기반 UX
+- [모바일 브라우저 탭 전환 UI](concepts/모바일-브라우저-탭-전환-UI.md) — Tab·Swipe·Visual Tab·커스텀 제스처 4가지 탭 전환 방식 비교와 인터랙션 충돌 회피 원칙
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 - [Natural User Interface (NUI)](concepts/Natural-User-Interface-NUI.md) — 신체로 직접 인터랙션하는 인터페이스의 역사·9가지 기술 요소·한계
 - [감정 반응 UI](concepts/감정-반응-UI.md) — 페이스북 좋아요 → 6감정 Reactions 전환 사례와 디자인 결정 분석
@@ -117,6 +118,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [PWA 프로그레시브 웹 앱](concepts/PWA-프로그레시브-웹-앱.md) — 웹 기술로 네이티브 앱 경험을 제공하는 방식, manifest.json과 Service Worker 기반
 - [React TypeScript 패턴](concepts/React-TypeScript-패턴.md) — React.FC의 문제점(암시적 children, defaultProps 이슈)과 일반 함수 선언 방식 권장 패턴
 - [React 상태 관리](concepts/React-상태-관리.md) — Jotai 아토믹 상태 관리 라이브러리와 React 상태 관리 라이브러리 비교
+- [React 폼 제어](concepts/React-폼-제어.md) — React Hook Form 기반 폼 제어, 제어/비제어 컴포넌트, useForm·register·watch·Controller 핵심 API
 - [SCSS 모듈 시스템](concepts/SCSS-모듈-시스템.md) — @import 대체 문법인 @use와 @forward로 네임스페이스 기반 SCSS 모듈 관리
 - [WebGL과 3D 웹](concepts/WebGL과-3D-웹.md) — 브라우저에서 3D 그래픽을 구현하는 WebGL과 Babylon.js 프레임워크
 - [딥링크](concepts/딥링크.md) — URL이나 값을 호출했을 때 앱을 실행하거나 앱 내 특정 화면으로 이동시키는 기술
