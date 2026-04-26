@@ -1,5 +1,13 @@
 # Wiki 작업 이력
 
+## [2026-04-27] ingest | [pxd talks] 블록체인 기술의 이해와 활용, Subgrid, Container Queries로 UX 향상시키기
+- 업데이트 (2개):
+  - 블록체인-UX-웹3(+/1632 pxd talks 블록체인 기초 섹션 추가)
+  - 현대-CSS-기능(+/1834 Subgrid와 Container Queries UX 향상 섹션 추가)
+- 스킵 (1개): /1790 블록체인-UX-웹3(이미 반영됨)
+- 총 개념 페이지: 165개 (신규 없음)
+
+
 ## [2026-04-27] ingest | View Transitions API로 살펴보는 자연스러운 SPA 화면 전환 방식, 스큐어모피즘: 만져지는 UI로의 변화 과정
 - 신규 생성 (1개): View-Transitions-API(/1851)
 - 업데이트 (1개): 스큐어모피즘(+/596 터치 UI와 HIG 변화, Tangible UI, Metro UI 비교 섹션 추가)
