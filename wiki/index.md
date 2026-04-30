@@ -69,6 +69,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 
 ## 서비스 디자인
 - [서비스 디자인 사례 — JetBlue](concepts/서비스-디자인-사례-JetBlue.md) — 서비스 여정 전체 설계·언행일치 브랜딩·셀프 서비스+인적 지원 조합으로 고객만족 1위 달성한 JetBlue 사례
+- [Spotify UX와 음악 추천 기술](concepts/Spotify-UX와-음악-추천-기술.md) — Collaborative Filtering·Taste Profile·1,387개 서브 장르로 구현한 스포티파이의 맥락 기반 개인화 UX
 
 ## 디자인 시스템
 - [BX 디자인과 브랜드 자산 운용](concepts/BX-디자인과-브랜드-자산-운용.md) — BX 디자이너는 브랜드의 시각적 언어와 사용자 경험을 통합하는 역할
@@ -176,6 +177,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 
 ## 경영과 조직
 - [Good to Great와 위대한 기업의 원칙](concepts/Good-to-Great와-위대한-기업의-원칙.md) — 짐 콜린스의 Good to Great: 단계5 리더십·사람 먼저·고슴도치 개념·규율의 문화 등 도약 기업의 8가지 원칙
+- [스포티파이 모델 애자일 조직구조](concepts/스포티파이-모델-애자일-조직구조.md) — Squad·Tribe·Alliance 3단계 분산 자율 조직과 Mixed Methods UX 리서치 운영 방식
 
 ## 디자인과 예술
 - [그림책 디자인과 시각 스토리텔링](concepts/그림책-디자인과-시각-스토리텔링.md) — 이수지 작가의 시각 스토리텔링 철학: 구멍 많은 이야기, 글 없는 그림책, 경계를 허무는 형식 실험
