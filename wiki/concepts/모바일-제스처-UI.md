@@ -2,8 +2,8 @@
 type: concept
 domain: "UI/인터랙션 설계"
 name: "모바일 제스처 UI"
-sources: ["/1333", "/434", "/513"]
-updated: "2026-04-24"
+sources: ["/1333", "/434", "/513", "/131"]
+updated: "2026-04-29"
 ---
 # 모바일 제스처 UI
 
@@ -63,6 +63,16 @@ updated: "2026-04-24"
 
 핵심 원칙: 사람이 반복적으로 처리해야 하는 단순 조작은 **시스템이 대신 처리**해야 하며, 조작의 정밀도와 속도를 계층적으로 제공하는 것이 좋은 스크롤 UX의 요건이다.
 
+## 플랫폼별 터치 제스처 표준화 — Touch Gesture Reference Guide
+
+**Luke Wroblewski**가 정리한 Touch Gesture Reference Guide는 플랫폼마다 다르게 불리던 터치 제스처 명칭을 **Core Gesture** 개념으로 통일하고, 각 플랫폼의 제스처와 Core Gesture 간 매핑을 한눈에 볼 수 있게 정리한 레퍼런스다.
+
+**Core Gesture 체계**: Tap, Double Tap, Drag, Fling(Flick), Pinch, Spread, Rotate, Press 등의 공통 명칭을 정의하고, iPhone OS·Windows Phone·Palm webOS·Android·OSX(트랙패드·Magic Mouse)·Windows 7 등 각 플랫폼이 이 Core Gesture를 어떻게 부르고 어떤 기능에 매핑하는지를 테이블로 제공한다.
+
+이 가이드가 중요한 이유는 조직마다 같은 동작을 다른 이름으로 부르면서 화면기획서 커뮤니케이션에 혼선이 발생하던 문제를 해결하기 위한 것이다. 예를 들어 iPhone의 'Flick'은 Core Gesture로는 'Fling', Android의 'Drag'는 Core Gesture로도 'Drag'지만 플랫폼마다 설명 방식이 달랐다. 이 가이드는 PDF·EPS·OmniGraffle 스텐실로 제공되어 와이어프레임과 목업 문서에 직접 사용 가능하다.
+
+
 ## 출처
 - [[UI 디테일] 모바일 동영상 플레이어 내 Gesture UI 살펴보기](https://story.pxd.co.kr/1333) — 위승용 uxdragon, UX 가벼운 이야기
 - [터치스크린에서 Drag&Drop은 어렵다?](https://story.pxd.co.kr/434) — UX 가벼운 이야기
+- [Touch Gesture Reference Guide (터치 제스쳐 가이드)](https://story.pxd.co.kr/131) — 2010-05-24, 전성진
