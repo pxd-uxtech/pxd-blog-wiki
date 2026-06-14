@@ -43,7 +43,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [디자인 사고](concepts/디자인-사고.md) — IDEO의 팀 브라운이 체계화한 혁신 방법론
 - [아이디에이션과 수평적 사고](concepts/아이디에이션과-수평적-사고.md) — 에드워드 드 보노의 수평적 사고와 무작위 단어·이미지 연상 기법을 활용한 창의적 아이디어 발상법
 - [디자인 의사결정 프레임워크](concepts/디자인-의사결정-프레임워크.md) — 목표(Goals)·인풋(Inputs)·계획(Plan) 3단계로 창조적 과정과 논리적 추론을 결합하는 팀 기반 의사결정 모델
-- [디자인 컨설팅 프로세스](concepts/디자인-컨설팅-프로세스.md) — 대안 도출, 프레임워크 설계, 컨설턴트 역량(관계적, 기술적, 분석적, 통합적)으로 구성된 디자인 컨설팅의 실무 방법론
+- [디자인 컨설팅 프로세스](concepts/디자인-컨설팅-프로세스.md) — 더블 다이아몬드 기반 문제 정의-해결 구조, 문제와 현상의 구분, Goal-Strategy-Tactics 3레이어 전달법을 포함한 UX 컨설팅 실무 방법론
 - [디자인 통찰과 관점 전환](concepts/디자인-통찰과-관점-전환.md) — 통찰(insight)은 훈련 가능한 기술: 공감·문제 구조화·어피니티 다이어그램·발상기법을 통한 관점 전환 방법론
 - [버스 정보 안내판 정보 설계](concepts/버스-정보-안내판-정보-설계.md) — 서울 BIT 번호 정렬 규칙과 정류장 맥락을 고려한 버스 노선도 리디자인 사례
 - [사용자 여정 분석](concepts/사용자-여정-분석.md) — 사용자가 목적 달성을 위해 거치는 단계와 경험을 파악하는 방법론
@@ -127,6 +127,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [오픈소스 라이선스](concepts/오픈소스-라이선스.md) — MIT·Apache·GPL·LGPL·MPL·BSD 비교, Permissive vs Copyleft 분류
 - [CSS 로딩 애니메이션](concepts/CSS-로딩-애니메이션.md) — 처리 시간 동안 시스템 작동 중임을 알려주는 CSS 기반 피드백 요소
 - [JWT 인증과 인가](concepts/JWT-인증과-인가.md) — Authentication(신원 검증)과 Authorization(권한 부여)의 차이, JWT 구조와 토큰 기반 인증 메커니즘
+- [프론트엔드 보안](concepts/프론트엔드-보안.md) — XSS·CSRF·클릭재킹·민감 데이터 노출 등 프론트엔드 개발 시 주요 보안 위협과 Next.js 환경 대응 방법
 - [Safari 포커스 관리](concepts/Safari-포커스-관리.md) — Safari의 비입력 요소 포커스 비활성화로 인한 스크롤 튕김 버그와 tabindex="-1" 해결책
 - [GitHub Actions와 Slack 연동](concepts/GitHub-Actions와-Slack-연동.md) — GitHub CI/CD 서비스와 Slack 알림 연동
 - [GitHub 칸반보드](concepts/GitHub-칸반보드.md) — GitHub Projects를 활용한 개발팀 업무 시각화와 진척 관리
