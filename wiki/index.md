@@ -111,6 +111,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 - [Natural User Interface (NUI)](concepts/Natural-User-Interface-NUI.md) — 신체로 직접 인터랙션하는 인터페이스의 역사·9가지 기술 요소·한계
 - [감정 반응 UI](concepts/감정-반응-UI.md) — 페이스북 좋아요 → 6감정 Reactions 전환 사례와 디자인 결정 분석
+- [에러 메시지 작성 원칙 4H](concepts/에러-메시지-작성-원칙-4H.md) — Human·Helpful·Humorous·Humble, 불만의 순간을 기쁨으로 바꾸는 에러 메시지 4원칙
 - [햄버거 메뉴 UI](concepts/햄버거-메뉴-UI.md) — 햄버거 메뉴 찬반 논쟁과 탭 바 대안, YouTube 개선 사례
 - [파일 업로드 UX 패턴](concepts/파일-업로드-UX-패턴.md) — 대용량 첨부 파일 정책과 인지 가시화 설계
 - [로그인 UI 패턴](concepts/로그인-UI-패턴.md) — ID·이메일·소셜·전화번호 로그인 방식 비교와 UX 트레이드오프
