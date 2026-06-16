@@ -1,5 +1,9 @@
 # Wiki 작업 이력
 
+## [2026-06-17] ingest | pxd Wallet, 요즘 브랜드 디자이너의 생성형 AI 사용법, WONDER Staking이 최선의 선택을 돕는 방법
+- 업데이트: 블록체인-UX-웹3(+/1715 WEMIX.Fi WONDER Staking 선택 지원 UX — WONDER 랭킹·비교 표, 리워드 운용 선택, 언스테이킹 용어 설계)
+- 스킵: /1790 블록체인-UX-웹3(기존 반영), /1781 브랜드-디자인과-생성형-AI(기존 반영)
+
 ## [2026-06-16] ingest | pxd Wallet, 요즘 브랜드 디자이너의 생성형 AI 사용법, The 4 H's of Writing Error Messages
 - 생성: 에러-메시지-작성-원칙-4H(+/1128 에러 메시지 Human·Helpful·Humorous·Humble 4원칙)
 - 스킵: /1790 블록체인-UX-웹3(기존 반영), /1781 브랜드-디자인과-생성형-AI(기존 반영)
