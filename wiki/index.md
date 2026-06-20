@@ -150,6 +150,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [웹 아키텍처](concepts/웹-아키텍처.md) — 웹서버와 WAS의 구조와 역할
 - [웹 인증과 쿠키](concepts/웹-인증과-쿠키.md) — 서브도메인 쿠키 공유와 iframe 기반 크로스 서비스 세션 유지 기법
 - [웹 접근성과 WAI-ARIA](concepts/웹-접근성과-WAI-ARIA.md) — 모든 사용자가 웹 서비스를 동등하게 이용할 수 있도록 하는 설계 원칙
+- [코어 웹 바이탈과 SEO](concepts/코어-웹-바이탈과-SEO.md) — LCP·FID·CLS 세 지표로 측정하는 Google 페이지 경험 기준, 검색 순위와 비즈니스 성과에 직접 연결
 - [Next.js 레이아웃과 템플릿](concepts/Next.js-레이아웃과-템플릿.md) — layout vs template의 동작 원리 차이와 고급 최적화
 - [Socket.IO와 실시간 통신](concepts/Socket.IO와-실시간-통신.md) — WebSocket 기반 양방향 실시간 통신 라이브러리
 - [커스텀 테이블 컴포넌트](concepts/커스텀-테이블-컴포넌트.md) — Next.js+TypeScript 기반 커스텀 테이블 구현 원칙
