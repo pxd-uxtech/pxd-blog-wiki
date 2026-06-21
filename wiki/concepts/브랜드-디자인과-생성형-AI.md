@@ -3,7 +3,7 @@ type: concept
 domain: "AI와 신기술"
 name: "브랜드 디자인과 생성형 AI"
 sources: ["/1781"]
-updated: "2026-04-07"
+updated: "2026-06-22"
 ---
 # 브랜드 디자인과 생성형 AI
 
