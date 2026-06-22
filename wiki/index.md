@@ -205,6 +205,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 ## 경영과 조직
 - [Good to Great와 위대한 기업의 원칙](concepts/Good-to-Great와-위대한-기업의-원칙.md) — 짐 콜린스의 Good to Great: 단계5 리더십·사람 먼저·고슴도치 개념·규율의 문화 등 도약 기업의 8가지 원칙
 - [OKR 목표 관리 방법론](concepts/OKR-목표-관리-방법론.md) — Objective·Key Result 구조로 야심적 목표를 공격형으로 설정하는 목표관리 방법론 — 구성원 자율성·실패 허용·큰 성과 창출의 원리
+- [Purple Cow와 리마커블 전략](concepts/Purple-Cow와-리마커블-전략.md) — Seth Godin의 보랏빛 소가 온다: 평범함은 위험하고, 무시할 수 없을 만큼 다른 것만이 살아남는다는 리마커블 전략
 - [스포티파이 모델 애자일 조직구조](concepts/스포티파이-모델-애자일-조직구조.md) — Squad·Tribe·Alliance 3단계 분산 자율 조직과 Mixed Methods UX 리서치 운영 방식
 
 ## 디자인과 예술
