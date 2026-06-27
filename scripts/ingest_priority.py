@@ -14,8 +14,10 @@ def get_ingested_urls():
             content = f.read()
         match = re.search(r'sources:\s*\[([^\]]*)\]', content)
         if match:
-            urls = re.findall(r'"(/\d+)"', match.group(1))
-            ingested.update(urls)
+            urls = re.findall(r'"(/?\d+)"', match.group(1))
+            for url in urls:
+                normalized = url if url.startswith("/") else f"/{url}"
+                ingested.add(normalized)
     return ingested
 
 
@@ -28,10 +30,13 @@ def main():
     with open("raw/all_metas.json", encoding="utf-8") as f:
         metas = json.load(f)
 
-    # title → meta 매핑
+    # title → meta 매핑 (URL 정규화: 슬래시 없는 형태도 통일)
     title_to_meta = {}
     for m in metas:
         if m.get("title"):
+            url = m.get("url", "")
+            if url and not url.startswith("/"):
+                m = dict(m, url=f"/{url}")
             title_to_meta[m["title"].strip()] = m
 
     ingested = get_ingested_urls()
