@@ -1,5 +1,9 @@
 # Wiki 작업 이력
 
+## [2026-06-28] ingest | [pxd talks 29] 음악 기획자의 마음, 프로젝트에서 데이터 분석을 활용하면서 느낀 점, UX 리서치의 임팩트를 극대화하는 방법, 글로벌 기업으로 거듭나기 위한 UX 현지화 전략 #3, Project Climbing: PM이 되고자 할 때 알아야 하는 9가지
+- 생성: 영상-음악-기획
+- 업데이트: 데이터-기반-UX-DDUX, UX-리서치-임팩트-관리, UX-현지화-전략, PM-프로젝트-관리
+
 ## [2026-06-28] bugfix | ingest_priority.py URL 정규화 수정
 - 수정: scripts/ingest_priority.py — all_metas.json에 슬래시 없는 URL(1781, 1796 등)이 혼재해 ingested 체크가 실패하던 문제 수정
 - URL 정규화: get_ingested_urls()에서 슬래시 없는 형태도 수집, meta URL도 슬래시 통일 처리
