@@ -157,6 +157,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Socket.IO와 실시간 통신](concepts/Socket.IO와-실시간-통신.md) — WebSocket 기반 양방향 실시간 통신 라이브러리
 - [커스텀 테이블 컴포넌트](concepts/커스텀-테이블-컴포넌트.md) — Next.js+TypeScript 기반 커스텀 테이블 구현 원칙
 - [스토리북 컴포넌트 개발](concepts/스토리북-컴포넌트-개발.md) — Storybook addon 활용 및 컴포넌트 문서화 워크플로우
+- [Vue3 마이그레이션](concepts/Vue3-마이그레이션.md) — Vue2 → Vue3 전환 시 제거된 기능(키코드 수식어·필터·이벤트 버스 $on/$off/$once)과 대체 패턴
 - [슬랙봇 개발](concepts/슬랙봇-개발.md) — Slack RTM API와 외부 오픈 API(날씨, 대기질) 연동 슬랙봇 구현 방법
 - [FED 프론트엔드 UX 워크플로우](concepts/FED-프론트엔드-UX-워크플로우.md) — The0 프로젝트로 본 프론트엔드 개발자의 애자일 UX 프로세스
 - [디자이너 개발자 협업](concepts/디자이너-개발자-협업.md) — 멀티탭 논란 사례: 디자인은 질문, 개발자의 구현 의지가 혁신을 만든다
