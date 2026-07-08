@@ -2,8 +2,8 @@
 type: concept
 domain: "기술과 사회"
 name: "우분투 OS 디자인 철학"
-sources: ["/732"]
-updated: "2026-04-06"
+sources: ["/732", "/743"]
+updated: "2026-07-07"
 ---
 # 우분투 OS 디자인 철학
 
