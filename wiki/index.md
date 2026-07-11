@@ -139,6 +139,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [SVG 차트 구현](concepts/SVG-차트-구현.md) — 라이브러리 없이 polyline·circle로 라인 차트와 파이 차트 직접 구현
 - [웹 컴포넌트](concepts/웹-컴포넌트.md) — 웹 표준 HTMLElement·Shadow DOM 기반 재사용 컴포넌트 제작
 - [React 컴포넌트 패턴](concepts/React-컴포넌트-패턴.md) — Container/Presentational, Compound, HOC 세 가지 React 디자인 패턴
+- [SOLID 원칙과 프론트엔드](concepts/SOLID-원칙과-프론트엔드.md) — 컴포넌트·훅 단위 프론트엔드 설계에 적용하는 SOLID 5원칙: SRP·OCP·LSP·ISP·DIP
 - [오픈소스 라이선스](concepts/오픈소스-라이선스.md) — MIT·Apache·GPL·LGPL·MPL·BSD 비교, Permissive vs Copyleft 분류
 - [CSS 로딩 애니메이션](concepts/CSS-로딩-애니메이션.md) — 처리 시간 동안 시스템 작동 중임을 알려주는 CSS 기반 피드백 요소
 - [JWT 인증과 인가](concepts/JWT-인증과-인가.md) — Authentication(신원 검증)과 Authorization(권한 부여)의 차이, JWT 구조와 토큰 기반 인증 메커니즘
