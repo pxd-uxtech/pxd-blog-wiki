@@ -39,6 +39,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX 정량 평가](concepts/UX-정량-평가.md) — 참가자 수 결정 기준·표본 선정·신뢰 구간 해석으로 사용자 경험을 수치화해 의사결정 근거를 확보하는 방법론
 - [UX 현지화 전략](concepts/UX-현지화-전략.md) — 글로벌 서비스를 위한 현지화(L10N)와 국제화(I18N) 전략, 맥락·기술·언어·법규 네 가지 고려 영역
 - [UX와 UI의 차이](concepts/UX와-UI의-차이.md) — UI는 사람과 정보기기가 접하는 면, UX는 사용자가 제품·서비스를 통해 얻는 총체적 경험
+- [검색 UX 설계](concepts/검색-UX-설계.md) — 통합검색의 컬렉션 나열 대신 소수 소스를 예측 가능한 순서로 배치하는 검색 파레토 법칙, Search User Goals 3분류, 검색어 자동완성 UX
 - [게임 유저 데이터 모델링](concepts/게임-유저-데이터-모델링.md) — MMORPG 행동 로그 기반 행위기반 클러스터링·시퀀스 마이닝·네트워크 분석으로 사용자 유형을 입체적으로 이해하는 방법론
 - [그룹형 SNS UX 설계](concepts/그룹형-SNS-UX-설계.md) — 2012년 NHN 밴드 UX 리뷰로 본 그룹 SNS 기획의 4대 기본기: 친구 유입·속도/안정성·적시 알림·기능 접근성
 - [네비게이션 레이블링](concepts/네비게이션-레이블링.md) — 메뉴·카테고리·링크 텍스트를 설계하는 원칙: 사용자 언어·설명성·상호 배타성·일관성 등 6가지 레이블 품질 기준
@@ -166,6 +167,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [코어 웹 바이탈과 SEO](concepts/코어-웹-바이탈과-SEO.md) — LCP·FID·CLS 세 지표로 측정하는 Google 페이지 경험 기준, 검색 순위와 비즈니스 성과에 직접 연결
 - [Next.js 레이아웃과 템플릿](concepts/Next.js-레이아웃과-템플릿.md) — layout vs template의 동작 원리 차이와 고급 최적화
 - [Next.js 사이트맵 자동화](concepts/Next.js-사이트맵-자동화.md) — next-sitemap 패키지로 sitemap.xml·robots.txt를 빌드 파이프라인에 자동 편입하는 SEO 패턴
+- [Nuxt.js 프레임워크](concepts/Nuxt.js-프레임워크.md) — Vue.js 기반 SSR 프레임워크, 파일 기반 라우팅·자동 코드 분할·SCSS 전역 스타일 연동
 - [Socket.IO와 실시간 통신](concepts/Socket.IO와-실시간-통신.md) — WebSocket 기반 양방향 실시간 통신 라이브러리
 - [커스텀 테이블 컴포넌트](concepts/커스텀-테이블-컴포넌트.md) — Next.js+TypeScript 기반 커스텀 테이블 구현 원칙
 - [스토리북 컴포넌트 개발](concepts/스토리북-컴포넌트-개발.md) — Storybook addon 활용 및 컴포넌트 문서화 워크플로우
