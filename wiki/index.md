@@ -107,6 +107,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UI 가이드라인](concepts/UI-가이드라인.md) — Apple HIG·Material Design 등 UI 가이드라인을 효과적으로 읽고 활용하는 방법
 
 ## UI/인터랙션 설계
+- [안드로이드 위젯 디자인](concepts/안드로이드-위젯-디자인.md) — 유용성-크기 균형, 터치 영역, 숏컷 개념으로 접근하는 안드로이드 위젯 기획 원칙
 - [Pull to Refresh](concepts/Pull-to-Refresh.md) — 화면을 아래로 당겨 새로고침하는 모바일 제스처 UI 패턴, Loren Brichter의 Tweetie에서 시작
 - [원형 디스플레이 UI](concepts/원형-디스플레이-UI.md) — 스마트워치 등 원형 디스플레이의 조형 특성(연속성·집중성·현저성)과 글랜서빌리티 기반 UI 설계 가이드라인
 - [SNS 댓글 UI 설계](concepts/SNS-댓글-UI-설계.md) — 시간순 정렬과 상단 더보기 버튼을 기반으로 한 SNS 댓글 네비게이션 설계 원칙
