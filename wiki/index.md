@@ -169,6 +169,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [FED 프론트엔드 UX 워크플로우](concepts/FED-프론트엔드-UX-워크플로우.md) — The0 프로젝트로 본 프론트엔드 개발자의 애자일 UX 프로세스
 - [디자이너 개발자 협업](concepts/디자이너-개발자-협업.md) — 멀티탭 논란 사례: 디자인은 질문, 개발자의 구현 의지가 혁신을 만든다
 - [Vite와 React 빌드 환경](concepts/Vite와-React-빌드-환경.md) — CRA deprecated 이후 ESM 기반 빠른 빌드 도구 Vite로 React 환경 구성하기
+- [XAML과 WPF](concepts/XAML과-WPF.md) — 닷넷 기반 UI 마크업 언어 XAML과 WinForm 후속 GUI 프레임워크 WPF, 디자인/개발 영역 분리 구조
 
 ## AI와 신기술
 - [AI 시대 디자이너의 역할](concepts/AI-시대-디자이너의-역할.md) — HCI 4단계 진화와 AI 시대 디자이너의 4가지 역할 관점: 기술 이해·AI를 위한 디자인·AI와의 협업·AI 윤리
