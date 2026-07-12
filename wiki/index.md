@@ -86,6 +86,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [에디터 직업론과 콘텐츠 큐레이션](concepts/에디터-직업론과-콘텐츠-큐레이션.md) — 좋아하는 것으로부터 좋은 것을 골라내는 에디터의 본질, 3I 원칙(Inform·Inspire·Entertain)과 팀워크·소명의식
 - [적정기술과 사회적 디자인](concepts/적정기술과-사회적-디자인.md) — 스타일링이 아닌 서비스·시스템으로서의 디자인이 적정기술을 '적정'하게 완성한다: 인간 중심 맥락 이해와 다학제적 통합조정자로서의 디자이너
 - [레고 활용 UX 워크숍 기법](concepts/레고-활용-UX-워크숍-기법.md) — 아이디어 실체화·공동 스토리텔링·놀이화를 돕는 레고, LEGO Serious Play 4단계 프로세스와 pxd 신입사원 팀빌딩 적용 사례
+- [화면 설계서 작성법](concepts/화면-설계서-작성법.md) — 표지·히스토리·목차·인터랙션 가이드·IA·키스크린·플로우 7가지 성분과 Lean/Agile vs UCD/Waterfall 방법론 선택
 
 ## 디자인 일반
 - [스팀펑크 디자인 미학](concepts/스팀펑크-디자인-미학.md) — 19세기 증기 기관 시대의 기계 미학이 SF·영화·게임·제품 디자인·GUI에 적용된 레트로퓨처리즘 양식
@@ -151,6 +152,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [CSS 폰트 기능 설정](concepts/CSS-폰트-기능-설정.md) — font-feature-settings로 OpenType의 합자·스몰캡·스와시·tabular-nums 제어
 - [SVG 차트 구현](concepts/SVG-차트-구현.md) — 라이브러리 없이 polyline·circle로 라인 차트와 파이 차트 직접 구현
 - [웹 컴포넌트](concepts/웹-컴포넌트.md) — 웹 표준 HTMLElement·Shadow DOM 기반 재사용 컴포넌트 제작
+- [React Native와 Expo 앱 개발](concepts/React-Native와-Expo-앱-개발.md) — 디자이너가 React Native + Expo로 직접 만든 날씨/대기질 앱 개발 경험, 엣지 케이스·외적 제약·유통의 중요성
+- [React 컴포넌트 성능 최적화](concepts/React-컴포넌트-성능-최적화.md) — React.memo·useMemo·useCallback 메모이제이션, Dynamic Import, 데이터 fetching 전략과 메모이제이션 남용 주의점
 - [React 컴포넌트 패턴](concepts/React-컴포넌트-패턴.md) — Container/Presentational, Compound, HOC 세 가지 React 디자인 패턴
 - [SOLID 원칙과 프론트엔드](concepts/SOLID-원칙과-프론트엔드.md) — 컴포넌트·훅 단위 프론트엔드 설계에 적용하는 SOLID 5원칙: SRP·OCP·LSP·ISP·DIP
 - [오픈소스 라이브러리 리스크 관리](concepts/오픈소스-라이브러리-리스크-관리.md) — faker.js·colors.js 사태로 본 메인테이너發 공급망 리스크와 버전 고정·모니터링·후원 등 대응 원칙
