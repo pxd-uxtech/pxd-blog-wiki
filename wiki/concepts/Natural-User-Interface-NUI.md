@@ -52,6 +52,7 @@ updated: "2026-07-12"
 - [[프로액티브 AI]] — Invisible UI 철학과 맞닿은 자동 컨텍스트 응답
 - [[암묵적 상호작용과 맥락 기반 알림]] — No UI 철학을 위치·시간 맥락 알림으로 구현한 실제 사례
 - [[CHI 2015 학회와 HCI 연구 트렌드]] — Head Tracking·Finger Gesture NUI가 게임 몰입도를 높인다는 CHI 2015 논문 실험 사례
+- [[시간 위의 디자인]] — "시간 위의 디자인" 개념을 UX 디자인 방법론 관점에서 더 깊이 다루는 페이지
 
 ## 출처
 - [Natural User Interface (NUI)](https://story.pxd.co.kr/731) — UX 가벼운 이야기
