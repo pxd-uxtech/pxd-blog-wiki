@@ -32,6 +32,7 @@ updated: "2026-04-27"
 - [[React 상태 관리]] — 화면 전환 로직과 상태 변경을 연결하는 패턴
 - [[현대 CSS 기능]] — CSS 기반 애니메이션과의 비교 및 보완 관계
 - [[PWA 프로그레시브 웹 앱]] — 네이티브 앱 수준의 화면 전환 경험 구현과 연결
+- [[Resize Observer API]] — pxd XE그룹이 소개한 또 다른 최신 브라우저 표준 Web API
 
 ## 출처
 - [View Transitions API로 살펴보는 자연스러운 SPA 화면 전환 방식](https://story.pxd.co.kr/1851) — 2025-08-25, shushushu, UX Engineer 이야기

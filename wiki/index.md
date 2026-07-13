@@ -177,6 +177,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [React 상태 관리](concepts/React-상태-관리.md) — Jotai 아토믹 상태 관리 라이브러리와 React 상태 관리 라이브러리 비교
 - [React 폼 제어](concepts/React-폼-제어.md) — React Hook Form 기반 폼 제어, 제어/비제어 컴포넌트, useForm·register·watch·Controller 핵심 API
 - [SCSS 모듈 시스템](concepts/SCSS-모듈-시스템.md) — @import 대체 문법인 @use와 @forward로 네임스페이스 기반 SCSS 모듈 관리
+- [Resize Observer API](concepts/Resize-Observer-API.md) — DOM 요소의 크기 변화를 비동기적으로 감시하는 Web API, `resize` 이벤트의 메모리 누수·throttle 문제를 해결하는 성능 친화적 대안
 - [View Transitions API](concepts/View-Transitions-API.md) — 브라우저가 화면 전환 전후 상태를 자동 감지해 자연스러운 애니메이션을 생성하는 웹 표준 API
 - [WebGL과 3D 웹](concepts/WebGL과-3D-웹.md) — 브라우저에서 3D 그래픽을 구현하는 WebGL과 Babylon.js 프레임워크
 - [구글 캘린더 매쉬업과 리마인더 자동화](concepts/구글-캘린더-매쉬업과-리마인더-자동화.md) — 구글 캘린더의 SMS 알림과 구독형 공개 캘린더를 조합해 별도 앱 없이 우산 리마인더를 구현한 초기 매쉬업 사례
@@ -281,6 +282,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [3D 애니메이션과 렌더링 기술](concepts/3D-애니메이션과-렌더링-기술.md) — 빅 히어로 제작 비하인드: 하이페리온 렌더링 엔진과 소프트 로보틱스 기반 캐릭터 설계
 - [USIM 보안](concepts/USIM-보안.md) — AKA 프로토콜 기반 USIM 인증 구조, SKT 해킹 사건으로 본 유심 보안 위협과 대응
 - [마켓 5.0과 디지털 전환](concepts/마켓5.0과-디지털-전환.md) — 필립 코틀러의 마켓 5.0 프레임워크와 나이키·넷플릭스·힐튼·아마존의 디지털 전환 전략
+- [건축과 융합적 인간](concepts/건축과-융합적-인간.md) — 김정후 박사 강연으로 본 융합(convergent)과 분화(divergent), 알도 로시·미스 반 데 로에·리트벨트·알바 알토·노먼 포스터의 건축 원리와 르네상스형 인간
 - [기술 인간화와 디자인 윤리](concepts/기술-인간화와-디자인-윤리.md) — 필립 K. 딕 소설을 통해 본 인간다움의 세 요소(감정이입·개별자성·생명창조)와 AI 편향·디지털 소외를 포함한 UX 설계자의 윤리 책임
 - [소셜 미디어와 기술 윤리](concepts/소셜-미디어와-기술-윤리.md) — '소셜 딜레마' 다큐멘터리를 통해 본 기술 윤리 문제
 - [우분투 OS 디자인 철학](concepts/우분투-OS-디자인-철학.md) — 데비안 기반 리눅스 배포판 우분투의 디자인 철학
