@@ -114,6 +114,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [리테일 매장 경험 디자인](concepts/리테일-매장-경험-디자인.md) — 애플 뉴욕 매장(Grand Plaza점·소호점) 방문기로 본 판매보다 체험을 앞세운 리테일 공간 설계 원리: 소재 대비, 캐주얼한 직원 배치, 상시 교육 프로그램
 - [서비스 디자인 사례 — JetBlue](concepts/서비스-디자인-사례-JetBlue.md) — 서비스 여정 전체 설계·언행일치 브랜딩·셀프 서비스+인적 지원 조합으로 고객만족 1위 달성한 JetBlue 사례
 - [서비스 디자인 사례 — 리니어블](concepts/서비스-디자인-사례-리니어블.md) — 비콘 기반 미아방지 웨어러블 밴드·앱, pxd와의 앱 2.0 리뉴얼 협업 사례
+- [서비스 디자인 사례 — Podo Camera](concepts/서비스-디자인-사례-Podo-Camera.md) — Kickstarter Staff Pick 선정 블루투스 카메라 Podo, pxd·Podo Labs 1개월 협업으로 본 UI·GUI 통합 프로토타이핑 사례
 - [서비스 디자인 씽킹](concepts/서비스-디자인-씽킹.md) — Stickdorn·Schneider의 서비스 디자인 5원칙을 재해석한 "서비스 디자인 − Evidencing = UX, UX − Holistic = UI" 공식
 - [서비스 비즈니스의 원칙](concepts/서비스-비즈니스의-원칙.md) — 데이비드 마이스터의 서비스업 운영 원칙: 만족도=지각-기대 공식, 서비스의 가시화, 회사-직원-소비자 삼각구도, 표준화와 맞춤화의 공존
 - [Spotify UX와 음악 추천 기술](concepts/Spotify-UX와-음악-추천-기술.md) — Collaborative Filtering·Taste Profile·1,387개 서브 장르로 구현한 스포티파이의 맥락 기반 개인화 UX
@@ -152,6 +153,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모바일 제스처 UI](concepts/모바일-제스처-UI.md) — Tap·Swipe·Long Tap 등 모바일 동영상 플레이어 제스처 패턴 비교
 - [모바일 데이터 자동 인식](concepts/모바일-데이터-자동-인식.md) — iOS Data Detector의 전화번호·날짜·장소·링크 자동 감지와 탭 가능한 인터랙션으로 변환하는 맥락 인식 기반 UX
 - [모바일 브라우저 탭 전환 UI](concepts/모바일-브라우저-탭-전환-UI.md) — Tab·Swipe·Visual Tab·커스텀 제스처 4가지 탭 전환 방식 비교와 인터랙션 충돌 회피 원칙
+- [모바일 앱 설정 UI 패턴](concepts/모바일-앱-설정-UI-패턴.md) — iOS HIG의 settings/configuration options 구분과 "80% 니즈 집중" 원칙, pull-to-reveal 숨김 UI, 네이버·다음 지도 반례
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 - [IoT 제품 디자인](concepts/IoT-제품-디자인.md) — 모니터링-제어-최적화-자율화 4단계와 물리적 인터페이스 계승을 중심으로 한 IoT 제품 UX 설계 원칙
 - [Natural User Interface (NUI)](concepts/Natural-User-Interface-NUI.md) — 신체로 직접 인터랙션하는 인터페이스의 역사·9가지 기술 요소·한계

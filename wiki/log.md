@@ -1,5 +1,12 @@
 # Wiki 작업 이력
 
+## [2026-07-15] ingest | 윈도우 7 fitts's law 적용 실패 사례, 스타트업에서의 프로토타이핑 경험, Podo Camera UX 프로젝트 리뷰, 모바일 앱 설정 UI 가이드, [모집] 레고시리어스플레이 공인 퍼실리테이터 과정 모집
+- 생성: 모바일-앱-설정-UI-패턴 (/310 iOS HIG의 settings/configuration options 구분, "80% 니즈 집중" 원칙, pull-to-reveal 숨김 UI 패턴, 네이버·다음 지도 반례)
+- 생성: 서비스-디자인-사례-Podo-Camera (/1036 Kickstarter Staff Pick 블루투스 카메라 Podo UX 프로젝트, pxd·Podo Labs 1개월 협업의 UI·GUI 통합 프로토타이핑 사례)
+- 업데이트: 피츠의-법칙 (+/90 윈도우 7 "바탕화면 보기" 코너 히트박스 실패 사례 — 거리·폭뿐 아니라 손목 운동 방향도 고려해야 함)
+- 업데이트: 프로토타이핑-툴-비교 (+/1184 스타트업 실무 프로토타이핑 목적 3가지, Framer·Proto.io·ProtoPie 실무 평가, 원격 테스트 툴 Lookback·CanvasFlip)
+- 업데이트: 레고-활용-UX-워크숍-기법 (+/812 Per Kristiansen 강사·일정·비용, LSP 3대 전제)
+
 ## [2026-07-15] ingest | [독후감] (사용자를) 생각하게 하지마!, [독후감] This Is Service Design Thinking, 트로이카: 소리, 빛, 시간- 감성을 깨우는 놀라운 상상, [독후감]사람에 대한 100가지 사실, 인터랙션디자인과 시각디자인을 함께 진행하는 수렴적 방법
 - 생성: 서비스-디자인-씽킹 (/511 Stickdorn·Schneider의 서비스 디자인 5원칙을 이재용이 재해석 — "서비스 디자인 − Evidencing = UX, UX − Holistic = UI" 공식)
 - 생성: 수렴적-디자인-프로세스 (/1071 쿠퍼(Cooper)식 목표지향적 디자인 6단계에 인터랙션·시각·산업 디자이너를 병렬 참여시켜 "디자인 언어 원형"으로 수렴하는 방법론)
