@@ -1,5 +1,14 @@
 # Wiki 작업 이력
 
+## [2026-07-15] ingest | UX의 미래는 여기에 있다 - UX for Next Billion Users, [서평]사용성 평가, 이렇게 하라!, Information architecture (IA) 온라인 강의 수강 후기, cheerio, [pxd talks 50] 당신, 문제는 너무 열심히 산다는 것이다. - 하지현 교수
+- 생성: Next-Billion-Users와-비문자-중심-UX (/1261 저문해율 인구를 위한 이미지·음성·영상 중심 UX 3원칙, 인도 사례와 한국 노안 사용자·티몬 라이브 커머스 사례)
+- 생성: UX-온라인-강의-플랫폼 (/1418 Udemy·Coursera·패스트캠퍼스·Educast 온라인 UX 강의 플랫폼 비교)
+- 생성: Cheerio와-Node.js-웹-스크래핑 (/1736 jQuery 유사 API로 HTML을 파싱·추출하는 Node.js 웹 스크래핑 모듈)
+- 생성: 완벽주의와-심리적-여유 (/940 하지현 교수 pxd talks 강연 — 최선·위기의식·완벽주의 3대 강박과 건강한 자기애, 심리적 여유를 위한 5가지 지침)
+- 업데이트: UX-입문-도서 (+/300 스티브 크룩 『사용성 평가, 이렇게 하라!』 서평 추가, [[사용성 비교 평가]] 링크)
+- 업데이트: 시간-위의-디자인 (+/1261 Fabricio Teixeira "Designing Around Time" 재인용 반영)
+- 업데이트: 정보-구조-설계-IA (+/1418 Udemy IA 강의의 4대 시스템 프레임워크, 사용 컨텍스트 분석 5요소 추가)
+
 ## [2026-07-15] ingest | 윈도우 7 fitts's law 적용 실패 사례, 스타트업에서의 프로토타이핑 경험, Podo Camera UX 프로젝트 리뷰, 모바일 앱 설정 UI 가이드, [모집] 레고시리어스플레이 공인 퍼실리테이터 과정 모집
 - 생성: 모바일-앱-설정-UI-패턴 (/310 iOS HIG의 settings/configuration options 구분, "80% 니즈 집중" 원칙, pull-to-reveal 숨김 UI 패턴, 네이버·다음 지도 반례)
 - 생성: 서비스-디자인-사례-Podo-Camera (/1036 Kickstarter Staff Pick 블루투스 카메라 Podo UX 프로젝트, pxd·Podo Labs 1개월 협업의 UI·GUI 통합 프로토타이핑 사례)
