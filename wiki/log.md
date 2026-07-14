@@ -1,5 +1,12 @@
 # Wiki 작업 이력
 
+## [2026-07-15] ingest | Smart Bedside Station 논문 게재, 디자인 에이전시의 색다른 시도 - 기술과의 결합, ●monday design project_06.친절한 디자인- for color Blindness (색맹), 아이폰 스크롤 UI의 고유한 멘탈 모델, Assistor PS - mini tool for GUI guideline
+- 생성: 색맹을-고려한-UI-색상-설계 (/51 단일 visual cue의 위험성, 아이콘·텍스트 병행과 명도 대비를 통한 색맹 접근성 개선 원칙)
+- 생성: 터치-스크롤-UI와-촉각적-멘탈-모델 (/418 아이폰 스크롤의 본능적(visceral) 멘탈 모델, bounce-back·flicking 등 물리 법칙 시뮬레이션)
+- 업데이트: 의료-서비스-디자인 (+/1110 Smart Bedside Station 국제 학술지 Journal of Medical Systems 논문 게재, 더블 다이아몬드 기반 7가지 핵심 서비스)
+- 업데이트: 디자인-에이전시와-인하우스-디자인 (+/959 기술과의 결합으로 대응한 에이전시 사례 — Maya Design, TAT, KWAME Corp., Berg, Artefact Group)
+- 업데이트: 디자인-가이드-문서-자동화-도구 (+/750 Assistor PS 정식 버전 — 레이어 가이더·가이드 메이커·유닛컨버터·라운더·타일러 기능)
+
 ## [2026-07-15] ingest | HCI KOREA 2019 참관 후기 (1/3), 쿠사마 야요이展, 운동하는 디자이너 - 헬스 편, ESG : Environmental, Social & Governance에 관하여, [pxd talks 76] 인간관계와 의사소통을 위한 비폭력대화(NVC교육)
 - 생성: 알고리즘-경험-디자인 (/1392 HCI KOREA 2019 참관 후기 — AI 추천/매칭 알고리즘 UX, 알고리즘 제시 디자인과 피드백을 통한 알고리즘 길들이기)
 - 생성: ESG-경영과-지속가능성 (/1612 ESG에 관하여 — CSR/CSV와의 차이, 투자자·소비자·벤처 시장에서 ESG 부상 배경과 그린워싱)
