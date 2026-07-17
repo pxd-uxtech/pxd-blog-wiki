@@ -2,14 +2,16 @@
 type: concept
 domain: "웹 개발"
 name: "React 폼 제어"
-sources: ["/1732"]
-updated: "2026-04-27"
+sources: ["/1732", "/1778"]
+updated: "2026-07-18"
 ---
 # React 폼 제어
 
 React에서 폼(form) 요소를 제어하는 방법은 크게 **제어 컴포넌트(Controlled Component)**와 **비제어 컴포넌트(Uncontrolled Component)** 두 가지로 나뉜다. 제어 방식은 상태가 React state로 관리되어 모든 입력이 리렌더링을 유발하는 반면, 비제어 방식은 DOM이 직접 값을 관리한다. **React Hook Form**은 비제어 컴포넌트 방식을 기반으로 하여 불필요한 리렌더링을 최소화하면서도 선언적인 유효성 검증 API를 제공하는 라이브러리다.
 
 **React Hook Form**을 채택하는 주요 이유는 세 가지다. 첫째, 외부 종속성이 없는 경량 라이브러리라는 점, 둘째, 재렌더링 횟수를 최소화해 성능이 안정적이라는 점, 셋째, TypeScript를 기본으로 지원한다는 점이다.
+
+**Yup**은 객체 스키마를 선언해 데이터 유효성을 검증하는 라이브러리로, `@hookform/resolvers`의 `yupResolver`를 통해 React Hook Form과 연결된다. `register`의 두 번째 인자에 유효성 규칙을 필드마다 흩어 놓던 방식과 달리, `yup.object().shape({...})`로 스키마를 한곳에 선언해 컴포넌트의 UI 정보와 유효성 검증 로직을 분리할 수 있다. 타입 정의(`string`/`number`/`date`/`boolean`/`array`) 이후 구성 메서드(`required`/`nullable`/`default`/`min`/`max`), 변환 메서드(`trim`/`lowercase`/`ensure`), 검증 메서드(`matches`/`email`/`url`/`positive`)를 체이닝해 필드별 규칙과 커스텀 에러 메시지를 구성한다.
 
 ## 핵심 내용
 
@@ -20,6 +22,9 @@ React에서 폼(form) 요소를 제어하는 방법은 크게 **제어 컴포넌
 - **`handleSubmit`**: 유효성 검증을 모두 통과한 데이터를 콜백으로 전달하는 submit 핸들러 래퍼.
 - **`reset`**: 폼 상태를 초기값으로 되돌린다. submit 성공 후 페이지 새로 고침 없이 폼을 비워야 할 때 사용한다.
 - **`Controller` / `useController`**: 외부 UI 라이브러리처럼 내부적으로 `ref`를 직접 다루기 어려운 컴포넌트를 폼에 통합할 때 사용한다. `Controller`는 폼 요소를 감싸는 래퍼 컴포넌트이고, `useController`는 `useForm`과 `Controller` 기능을 합친 hook이다. `field.onChange`와 `field.value`를 구조 분해해 직접 컴포넌트에 연결한다.
+- **`yupResolver`**: `@hookform/resolvers`가 제공하는 어댑터로, `Yup` 스키마를 `useForm`의 `resolver` 옵션에 연결한다. `mode: 'onChange'`와 함께 쓰면 입력마다 스키마 기반 검증이 실행된다.
+- **Yup 스키마 체이닝**: `yup.object().shape({ 필드: yup.string().trim().required(메시지).max(길이, 메시지).matches(정규식, 메시지) })` 형태로 필드별 검증 규칙과 에러 메시지를 하나의 객체에 선언한다. `test()` 메서드로 정규식 기반 커스텀 검증도 추가할 수 있다.
+- Yup 적용 전에는 폼 UI 정보(라벨, placeholder)와 유효성 검사 규칙(정규식, required, maxLength)이 하나의 배열 객체에 혼재했지만, 적용 후에는 검증 스키마와 UI 정보가 분리되어 코드가 간결해지고 유지보수성이 향상된다.
 
 ## 관련 개념
 - [[React 상태 관리]] — React Hook Form은 폼 전용 상태 관리를 제공해 전역 상태와 역할을 분리
@@ -28,3 +33,4 @@ React에서 폼(form) 요소를 제어하는 방법은 크게 **제어 컴포넌
 
 ## 출처
 - [React 폼 요소 제어하기](https://story.pxd.co.kr/1732) — 2023-11-16, seonju.lee
+- [React-hook-form + Yup 라이브러리](https://story.pxd.co.kr/1778) — 2024-10-11, seonju.lee
