@@ -2,12 +2,14 @@
 type: concept
 domain: "기술과 사회"
 name: "CHI 2015 학회와 HCI 연구 트렌드"
-sources: ["/1095"]
-updated: "2026-07-13"
+sources: ["/1095", "/1091"]
+updated: "2026-07-18"
 ---
 # CHI 2015 학회와 HCI 연구 트렌드
 
-**CHI(Computer-Human Interaction)**는 HCI 분야에서 가장 권위 있는 국제 학회로, 2015년 4월 서울 삼성 COEX에서 아시아 최초로 개최됐다. CHI는 신기술의 응용 분야 연구가 주로 발표되는 학회라 세계 ICT 산업의 트렌드를 가늠하는 지표로도 여겨진다. pxd Innovation Group의 김준·진예송·김예리·홍희승·이가현 연구원이 공동 참관한 CHI 2015의 Paper 세션은 게임 몰입, 신체 기반 인터랙션, 접근성, 웨어러블 등 여러 갈래의 HCI 연구 흐름을 보여준다.
+**CHI(Computer-Human Interaction)**는 HCI 분야에서 가장 권위 있는 국제 학회로, 2015년 4월 서울 삼성 COEX에서 아시아 최초로 개최됐다. CHI는 신기술의 응용 분야 연구가 주로 발표되는 학회라 세계 ICT 산업의 트렌드를 가늠하는 지표로도 여겨진다. pxd는 CHI 2015 참관 후기를 두 편으로 나눠 공유했는데, 1편은 사전 신청제로 진행되는 **Course Program**(전문가 강연)을, 2편은 김준·진예송·김예리·홍희승·이가현 연구원이 공동 참관한 **Paper 세션**을 다룬다.
+
+**Course Program**에서 pxd는 총 5개 강연에 참여했다. Jeff Johnson의 "Designing Websites for Adults 55+"는 장년층의 시각·운동신경·인지 노화를 고려한 웹 디자인 가이드라인(대비가 뚜렷한 텍스트, 넉넉한 클릭 영역과 명확한 피드백, 정보량을 줄인 간결한 화면 구성)을 제시했다. Nicolai Marquardt와 Saul Greenberg의 "Sketching User Experiences" 워크숍은 스케치를 단순한 그림이 아니라 **local maxima**에 갇히지 않고 다양한 대안을 빠르게 탐색해 **global maxima**에 도달하기 위한 창발적 사고 도구로 규정하고, 스피드 스케칭·포토 트레이싱·스토리보드 기법을 실습했다. Mark Billinghurst와 Thad Starner의 "The Glass Class"는 웨어러블 인터페이스 설계 원칙으로 착용 기기가 곧 사용자의 정체성을 드러내는 패션 아이템이라는 점(Design for device), 4초 이내에 처리를 끝내는 마이크로 인터랙션, 흔들리는 화면에서도 한눈에 인지되는 **glanceable** 설계를 꼽았다. Jennifer Pearson과 Simon Robinson의 "Interaction Design for Reading Devices and Apps"는 e-book이 종이책의 수동적 읽기(Passive reading)를 넘어 발췌·메모·재구성이 가능한 능동적 읽기(Active reading)로 진화하고 있음을 Liquid Text 같은 사례로 짚었다. Jeff Johnson의 "Designing with the Mind in Mind"는 UI 디자인 가이드라인의 심리학적 근거를 다뤘는데, 지각은 과거 경험·현재 맥락·미래 목적에 쉽게 편향되며, 색상 지각은 망막의 간상체·추상체 특성의 한계를 받으므로 파스텔이나 작은 컬러 패치로 정보를 구분해서는 안 되고, 중심와(fovea)로 들어오는 시각 정보는 손실 없이, 주변시 정보는 압축되어 처리되므로 중요 정보는 중심 시야 안에 배치해야 한다고 강조했다.
 
 **게임 몰입과 NUI(Natural User Interface)** 관련 세션에서는 몰입감을 정량적으로 검증하려는 시도가 두드러졌다. Head Tracking과 Finger Gesture 기반 NUI를 3D 슈팅게임에 적용한 실험에서는 기존 조이스틱 조작보다 생존 시간과 명중률이 높게 나타나 NUI가 몰입에 유리함을 통계적으로 뒷받침했다. 한편 네트워크 지연(Lag)뿐 아니라 입력장치·화면주사·수직동기 등에서 발생하는 **Local 지연**도 슈팅 정확도를 떨어뜨리는 요인으로 지목되어, 네트워크 지연 보정과 유사한 오프셋 기법으로 게이머의 체감 지연을 최소화하는 보조 시스템이 제안됐다. 시점 연구에서는 원래 3인칭을 선호하던 참가자도 1인칭 시점으로 플레이할 때 더 높은 몰입감을 보고해, 사용자의 취향(preference)과 실제 몰입 경험(immersion)이 다를 수 있음을 시사했다.
 
@@ -17,6 +19,12 @@ updated: "2026-07-13"
 
 ## 핵심 내용
 - **CHI**는 HCI 분야 최고 권위 국제 학회로, 신기술 응용 연구를 통해 ICT 산업 트렌드를 가늠할 수 있음 (2015년 서울 최초 개최)
+- **Course Program**(전문가 강연)과 **Paper 세션**(논문 발표) 두 축으로 구성되며, pxd는 두 편의 후기로 나눠 공유
+- 장년층 웹 디자인은 시각·운동신경·인지 노화를 모두 고려해야 함 (대비·클릭 영역·정보량 간소화)
+- 스케치는 **local maxima**에 갇히지 않고 다양한 대안을 탐색해 **global maxima**를 찾는 창발적 사고 도구
+- 웨어러블 인터페이스는 정체성을 드러내는 패션 요소이자, 4초 이내 처리되는 마이크로 인터랙션과 **glanceable** 설계가 핵심
+- e-book은 수동적 읽기(Passive reading)에서 발췌·재구성이 가능한 능동적 읽기(Active reading)로 진화 중 (Liquid Text 사례)
+- UI 디자인 가이드라인의 심리학적 근거: 지각은 경험·맥락·목적에 편향되고, 중심와 대비 주변시 정보 손실을 고려해 정보를 배치해야 함
 - Head Tracking·Finger Gesture 기반 NUI가 조이스틱보다 3D 슈팅게임 몰입도를 통계적으로 높임
 - 네트워크 지연뿐 아니라 입력·화면 처리에서 발생하는 **Local 지연**도 오프셋 보정 기법으로 완화 가능
 - 1인칭 시점이 3인칭 선호자에게도 더 높은 몰입감을 유발 — 선호(preference)와 몰입(immersion)은 별개
@@ -34,6 +42,8 @@ updated: "2026-07-13"
 - [[IoT 제품 디자인]] — Patina Engraver와 같은 웨어러블 센싱 기기의 UX 설계 원칙
 - [[진화심리학과 디자인]] — 몰입·선호와 실제 경험의 괴리를 다루는 심리학적 관점
 - [[넛지와 다크 패턴]] — Quantified Cats and Dogs가 제기하는 비과학적 기술의 윤리적 경계
+- [[UI 가이드라인]] — Jeff Johnson의 "Designing with the Mind in Mind" 강연이 다루는 UI 가이드라인의 심리학적 근거
 
 ## 출처
 - [[CHI 2015 후기 2/2] Paper로 보는 CHI학회](https://story.pxd.co.kr/1095) — 2015-07-09, 김준·진예송·김예리·홍희승·이가현 (pxd Innovation Group)
+- [[CHI 2015 후기 1/2] Course Program으로 보는 CHI 학회](https://story.pxd.co.kr/1091) — 2015-07-07, 김예리·김준·성희정·정유리 (pxd)
