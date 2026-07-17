@@ -122,6 +122,7 @@ HCI KOREA 2019는 제주국제컨벤션센터(ICC JEJU)에서 개최됐으며, p
 - [[음성 에이전트와 VUI]] — HCI KOREA 2018에서 발표된 WOZ·Amazon Skill 기반 VUI 니즈 발굴 방법론과 짝을 이루는 음성 에이전트 비교 분석
 - [[디자인 시스템]] — HCI KOREA 2020에서 발표 예정이었던 디자인시스템 구축·운영 사례(천민희·노마리아·박재현)
 - [[데이터 기반 UX DDUX]] — HCI KOREA 2020 Data Driven UX 세션(류정우)이 다룬 에이전시 데이터 활용 방식
+- [[아이디에이션과 수평적 사고]] — 2014년 HCI KOREA 학회에서 pxd가 진행한 무작위 물체 연상기법 워크숍 사례
 
 ## 출처
 - [대한민국 HCI-UI-UX의 역사](https://story.pxd.co.kr/534) — 이 재용, UX 가벼운 이야기
