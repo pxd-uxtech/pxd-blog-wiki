@@ -154,6 +154,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [약관 동의 UI](concepts/약관-동의-UI.md) — 필수·선택 약관 구분과 최소 입력 원칙을 적용한 약관 동의 화면 설계
 - [어피니티 버블](concepts/어피니티-버블.md) — pxd가 개발한 업무 도구로, 다수의 텍스트 데이터를 시각적으로 분류
 - [옵티미스틱 UI](concepts/옵티미스틱-UI.md) — 서버 응답을 기다리지 않고 즉시 성공 상태를 표시하는 체감 성능 최적화 패턴
+- [윈도우 8 모던 UI](concepts/윈도우-8-모던-UI.md) — Tile·Live Tile·Charm bar·Semantic Zoom 등 Windows 8 Modern UI 구성요소와 Desktop UI 공존이 낳은 이질감 한계
 - [잠금 화면 해제 UX](concepts/잠금-화면-해제-UX.md) — slide to unlock의 오조작 방지 목적과 아이폰·안드로이드 인체공학 차이, 아이패드2 스마트 커버의 물리적 잠금 해제 대안
 - [지도 UI 드래그 반응성](concepts/지도-UI-드래그-반응성.md) — 드래그 중 맵타일 실시간 갱신 여부로 갈리는 네이버·다음 지도와 구글맵의 체감 반응성 차이
 - [3D 지도 내비게이션 제스처](concepts/3D-지도-내비게이션-제스처.md) — Google Earth·NASA World Wind·서울시 3D GIS·V World 비교로 본 Rotate·Tilt 구분과 포인터 중심 vs 카메라 중심 회전축 설계 원리
@@ -165,6 +166,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모바일 데이터 자동 인식](concepts/모바일-데이터-자동-인식.md) — iOS Data Detector의 전화번호·날짜·장소·링크 자동 감지와 탭 가능한 인터랙션으로 변환하는 맥락 인식 기반 UX
 - [모바일 브라우저 탭 전환 UI](concepts/모바일-브라우저-탭-전환-UI.md) — Tab·Swipe·Visual Tab·커스텀 제스처 4가지 탭 전환 방식 비교와 인터랙션 충돌 회피 원칙
 - [모바일 앱 설정 UI 패턴](concepts/모바일-앱-설정-UI-패턴.md) — iOS HIG의 settings/configuration options 구분과 "80% 니즈 집중" 원칙, pull-to-reveal 숨김 UI, 네이버·다음 지도 반례
+- [모바일 웹 리디자인 사례 — 네이버 블로그](concepts/모바일-웹-리디자인-사례-네이버-블로그.md) — 아이패드 대응 네이버 블로그 리디자인으로 본 가독성(DPI 환산 오류)·이탈률(포고스티킹)·RSI 세 가지 모바일 웹 문제와 해법
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 - [IoT 제품 디자인](concepts/IoT-제품-디자인.md) — 모니터링-제어-최적화-자율화 4단계와 물리적 인터페이스 계승을 중심으로 한 IoT 제품 UX 설계 원칙
 - [Natural User Interface (NUI)](concepts/Natural-User-Interface-NUI.md) — 신체로 직접 인터랙션하는 인터페이스의 역사·9가지 기술 요소·한계
@@ -298,6 +300,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [스포티파이 모델 애자일 조직구조](concepts/스포티파이-모델-애자일-조직구조.md) — Squad·Tribe·Alliance 3단계 분산 자율 조직과 Mixed Methods UX 리서치 운영 방식
 - [애자일 조직 전환](concepts/애자일-조직-전환.md) — Shu-Ha-Ri 학습 단계와 인간적 요소 중심의 애자일 전환, SI 프로젝트(Pure/Hybrid Agile)·자동차 산업(임베디드 시스템) 적용 사례
 - [전설의 리더, 보와 팀 리더십 원칙](concepts/전설의-리더-보와-팀-리더십-원칙.md) — 미시간대 풋볼 감독 보 스캠베클러의 리더십 7원칙(팀 우선·원칙의 조기 확립·기본기·개인에 대한 관심·위기 시 결단 등)
+- [지적자본론과 TSUTAYA 공간 철학](concepts/지적자본론과-TSUTAYA-공간-철학.md) — 마스다 무네아키의 지적자본 개념과 지적인 인재 3자질(디자인 감각·큐레이팅 기술·사명감), TSUTAYA·다케오시립도서관의 지역성·주제 제안형 진열 공간 운영 철학
 - [ESG 경영과 지속가능성](concepts/ESG-경영과-지속가능성.md) — 환경·사회·지배구조(ESG)의 정의와 CSR/CSV와의 차이, 투자자·소비자·벤처 시장에서 ESG가 부상한 배경과 그린워싱 경계
 
 ## 디자인과 예술
