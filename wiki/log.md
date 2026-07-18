@@ -1,5 +1,8 @@
 # Wiki 작업 이력
 
+## [2026-07-19] ingest | 2020 Wanted con. Creative & design 후기 #2, [WEMIX PLAY] Fan Token이 제시하는 새로운 팬덤 경제학, 3D 프린팅과 일상, 디지털 전환기, 제조 산업에서 디자인 시스템 적용에 관하여, 2018 pxd story 결산
+- 업데이트: AI-시대-디자이너의-역할 (+/1529 카카오엔터프라이즈 김은정 — AI 디자이너의 Technology/UI Design 두 축, Product·Visual 측 역할 분류), BX-디자인과-브랜드-자산-운용 (+/1529 CFC 전채리 — 사유가 담긴 아이덴티티 디자인 3단계 Contents-Context-Form, 히포크라타 클리닉 사례), 블록체인-UX-웹3 (+/1664 WEMIX PLAY Fan Token — F2E(Fan to Earn) 모델과 TWAP 기반 하이워터마크 토크노믹스), 3D-프린팅-기술 (+/1515 Sungi Kim의 후속 DIY 사례 — 인덕션 스위치 커버, 책 선반 지지대, 크리스마스 Low-poly 장식), 디자인-시스템 (+/1497 제조업 클라우드 플랫폼의 System-oriented UI → Task-driven UI 전환, Functional/Perception Patterns), pxd-블로그-운영 (+/1367 2018년 결산 — 발행 글 수·방문자 수·Top 18 목록, 다음 해 운영 계획)
+
 ## [2026-07-19] ingest | VUX in car 2편 - 기존의 자동차 음성 명령과 자동차 x AI 스피커의 차이점, 소셜 피드백 플랫폼 '클레비'를 활용한 교육 경험 디자인, [pxd talks 38] Lean UX와 Agile UX - UX디자이너 김수영씨와의 대담, Spectrum Con 2019 후기(2/2), pxd, iF 디자인 어워드 2020 수상
 - 생성: 소셜-피드백-플랫폼과-교육-경험-디자인 (/1136 클레비를 결합한 오프라인 교육 워크샵의 실시간·인터벌 피드백 아카이빙 설계), 디자인-팀-빌딩과-협업-문화 (/1444 프로토파이 디자인팀의 파티 조직 구조와 오피스 아워·디자인 바이 위클리·해피니스 타임)
 - 업데이트: 커넥티드카-음성-UX (+/1279 차량 Voice command 버튼과 AI 스피커의 차이 — 명사 중심 명령에서 문장 중심 대화로의 이동), Lean-UX와-Agile-UX (+/803 김수영 인터뷰 — 회고 주기·백로그 위시리스트·MVP 기준·Local Optimization·Project Facilitator 역할), 디자인-어워드와-수상-사례 (+/1500 iF 디자인 어워드 2020 LG U+ 브라보라이프 수상 사례), BX-디자인과-브랜드-자산-운용 (+/1444 CFC 브랜드 비주얼 랭귀지 개발 프로세스 — Mark/Color/Form/Typography, 한섬 하우스·TSP 737 사례)
