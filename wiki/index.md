@@ -217,6 +217,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [JavaScript Date 라이브러리](concepts/JavaScript-Date-라이브러리.md) — Moment.js, Day.js, date-fns 세 가지 날짜 라이브러리 비교
 - [PWA 프로그레시브 웹 앱](concepts/PWA-프로그레시브-웹-앱.md) — 웹 기술로 네이티브 앱 경험을 제공하는 방식, manifest.json과 Service Worker 기반
 - [React TypeScript 패턴](concepts/React-TypeScript-패턴.md) — React.FC의 문제점(암시적 children, defaultProps 이슈)과 일반 함수 선언 방식 권장 패턴
+- [TypeScript 타입 시스템 기초](concepts/TypeScript-타입-시스템-기초.md) — tsc 컴파일 절차와 기본 타입(boolean·number·배열·any)·interface를 통한 형태 계약 정의 등 TypeScript 입문 개념
 - [React 상태 관리](concepts/React-상태-관리.md) — Jotai 아토믹 상태 관리 라이브러리와 React 상태 관리 라이브러리 비교
 - [React 폼 제어](concepts/React-폼-제어.md) — React Hook Form 기반 폼 제어, 제어/비제어 컴포넌트, useForm·register·watch·Controller 핵심 API
 - [SCSS 모듈 시스템](concepts/SCSS-모듈-시스템.md) — @import 대체 문법인 @use와 @forward로 네임스페이스 기반 SCSS 모듈 관리

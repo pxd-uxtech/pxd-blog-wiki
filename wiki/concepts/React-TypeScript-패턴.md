@@ -26,6 +26,7 @@ updated: "2026-04-06"
 - [[JavaScript Date 라이브러리]] — TypeScript와 함께 활용하는 날짜 라이브러리
 - [[PWA 프로그레시브 웹 앱]] — React 기반 PWA 구현에서의 타입 안전성
 - [[웹 개발 아키텍처]] — 프론트엔드 컴포넌트 설계와 아키텍처의 연관
+- [[TypeScript 타입 시스템 기초]] — 기본 타입·인터페이스 등 TypeScript 언어 자체의 기초 문법
 
 ## 출처
 - [React.FC에 대하여](https://story.pxd.co.kr/1650) — 2022-12-12, 알 수 없는 사용자
