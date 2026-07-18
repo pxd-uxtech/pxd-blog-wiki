@@ -1,5 +1,9 @@
 # Wiki 작업 이력
 
+## [2026-07-19] ingest | VUX in car 2편 - 기존의 자동차 음성 명령과 자동차 x AI 스피커의 차이점, 소셜 피드백 플랫폼 '클레비'를 활용한 교육 경험 디자인, [pxd talks 38] Lean UX와 Agile UX - UX디자이너 김수영씨와의 대담, Spectrum Con 2019 후기(2/2), pxd, iF 디자인 어워드 2020 수상
+- 생성: 소셜-피드백-플랫폼과-교육-경험-디자인 (/1136 클레비를 결합한 오프라인 교육 워크샵의 실시간·인터벌 피드백 아카이빙 설계), 디자인-팀-빌딩과-협업-문화 (/1444 프로토파이 디자인팀의 파티 조직 구조와 오피스 아워·디자인 바이 위클리·해피니스 타임)
+- 업데이트: 커넥티드카-음성-UX (+/1279 차량 Voice command 버튼과 AI 스피커의 차이 — 명사 중심 명령에서 문장 중심 대화로의 이동), Lean-UX와-Agile-UX (+/803 김수영 인터뷰 — 회고 주기·백로그 위시리스트·MVP 기준·Local Optimization·Project Facilitator 역할), 디자인-어워드와-수상-사례 (+/1500 iF 디자인 어워드 2020 LG U+ 브라보라이프 수상 사례), BX-디자인과-브랜드-자산-운용 (+/1444 CFC 브랜드 비주얼 랭귀지 개발 프로세스 — Mark/Color/Form/Typography, 한섬 하우스·TSP 737 사례)
+
 ## [2026-07-19] ingest | [2012 pxd talks 07] Extreme Prototyping : Being Resourceful in Prototyping, Web Safe Area, UX Designer란? - ILUVUXDESIGN(동영상), [HCI Korea 2013] 행동경제학과 UX : 사용자 행동변화 유인하기, Lean UX Lab. 보다 빨리, 자주, 적은 비용으로 실패하기
 - 생성: 익스트림-프로토타이핑과-즉흥연기 (/540 김창준의 애자일 프로토타이핑 워크숍 — CROW 즉흥연기 기법, 도자기 수업 사례, Prospective Hindsight)
 - 업데이트: 반응형-웹-디자인 (+/338 Web Safe Area — RWD 이전 시기의 정적 안전 영역 설계 방식), 행동경제학과-UX (+/687 HCI Korea 2013 우수연사상 튜토리얼 — 현상유지 바이어스·프레이밍 효과·선호 역전의 실전 사례), Lean-UX와-Agile-UX (+/757 pxd 랩 명칭 변천과 커너빈 프레임워크·Probe 개념), UX와-UI의-차이 (+/350 2011년 "UX 디자이너란 무엇인가"에 대한 초기 유머러스한 정의 콘텐츠)
