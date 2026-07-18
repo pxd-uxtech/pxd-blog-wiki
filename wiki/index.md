@@ -65,6 +65,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [버스 정보 안내판 정보 설계](concepts/버스-정보-안내판-정보-설계.md) — 서울 BIT 번호 정렬 규칙과 정류장 맥락을 고려한 버스 노선도 리디자인 사례
 - [블로그 검색 노출과 크롤링 정책](concepts/블로그-검색-노출과-크롤링-정책.md) — 네이버 블로그 검색의 opt-in과 일반 검색엔진의 opt-out 크롤링 정책 차이, 최신 글 가중치가 검색 노출에 미치는 영향
 - [비평적 디자인과 추측적 디자인](concepts/비평적-디자인과-추측적-디자인.md) — SoftDevice의 관찰→아이디에이션→스케칭→실행 개발 주기와 비평적 재조정 개념, Hospital Radio·Toyota Fine-Comfort Ride 사례
+- [빅게임 디자인](concepts/빅게임-디자인.md) — Frank Lantz의 빅게임(Big Game) 정의와 pxd '사도세자의 비밀' 워크숍 기획 사례, 코어 메카닉·상소 찬스 등 게임화 장치
 - [사물 관찰과 제품 디자인 디테일](concepts/사물-관찰과-제품-디자인-디테일.md) — 익숙한 사물을 낯설게 관찰하는 훈련과 제조·구조적 제약 파악을 통한 제품 디자인 디테일 이해, 오프라인 사물 경험이 메타포·스큐어모피즘으로 디지털에 계승되는 원리
 - [사용자 여정 분석](concepts/사용자-여정-분석.md) — 사용자가 목적 달성을 위해 거치는 단계와 경험을 파악하는 방법론
 - [사용자 연구 사례 — mMessenger](concepts/사용자-연구-사례-mMessenger.md) — pxd·SK텔레콤 mMessenger 개발 사용자 연구 사례, 저널링+컨텍스추얼 인쿼리로 실시간 채팅 대신 SMS를 선택하는 이유를 규명, 2010년 ACM interactions 지 소개
@@ -127,6 +128,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [서비스 디자인 사례 — 리니어블](concepts/서비스-디자인-사례-리니어블.md) — 비콘 기반 미아방지 웨어러블 밴드·앱, pxd와의 앱 2.0 리뉴얼 협업 사례
 - [서비스 디자인 사례 — Podo Camera](concepts/서비스-디자인-사례-Podo-Camera.md) — Kickstarter Staff Pick 선정 블루투스 카메라 Podo, pxd·Podo Labs 1개월 협업으로 본 UI·GUI 통합 프로토타이핑 사례
 - [서비스 디자인 씽킹](concepts/서비스-디자인-씽킹.md) — Stickdorn·Schneider의 서비스 디자인 5원칙을 재해석한 "서비스 디자인 − Evidencing = UX, UX − Holistic = UI" 공식
+- [서비스 디자인 툴킷](concepts/서비스-디자인-툴킷.md) — Customer Centered Service Design Toolkit(Process Sheet·Check List·Method Card) 리뷰, pxd 더블 다이아몬드와의 비교
 - [서비스 비즈니스의 원칙](concepts/서비스-비즈니스의-원칙.md) — 데이비드 마이스터의 서비스업 운영 원칙: 만족도=지각-기대 공식, 서비스의 가시화, 회사-직원-소비자 삼각구도, 표준화와 맞춤화의 공존
 - [서비스 프로세스 효율화](concepts/서비스-프로세스-효율화.md) — 가로수길 백반집 관찰 사례로 본 프로세스 사전 설계·선택지 축소·인력의 유연한 협업을 통한 오프라인 서비스 효율화 원칙, 속도와 정중함의 양립
 - [음악 스트리밍 앱 첫화면 UX](concepts/음악-스트리밍-앱-첫화면-UX.md) — 멜론·엠넷·벅스 2012년 첫 화면 비교로 본 Music Follower·Music Browser 두 퍼소나 기반 콘텐츠 우선순위 설계

@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-07-19] ingest | [NILE] NFTFi, DeFi로 더해진 NFT의 가치, 블록체인 기술이 가져다줄 '덕질'의 미래, 현실 세계와 블록체인 세계의 연결 고리, 빅게임 '사도세자의 비밀' 기획 리뷰, 수요자를 위한 서비스디자인 툴킷 Review
+- 생성: 빅게임-디자인 (/1051 Frank Lantz의 빅게임 정의와 pxd '사도세자의 비밀' 워크숍 — 코어 메카닉·상소 찬스), 서비스-디자인-툴킷 (/747 Customer Centered Service Design Toolkit 리뷰 — Process Sheet·Method Card, pxd 더블 다이아몬드와 비교)
+- 업데이트: 블록체인-UX-웹3 (+/1711 NILE NFTFi 대출 구조·팬토큰과 토큰화된 커뮤니티, +/1665 덕질 팬덤과 블록체인, +/1744 Oracle 솔루션 — NBA Dynamic NFT·Otonomi 보험 자동화)
+- 크로스레퍼런스 추가: 빅게임-디자인 ↔ 게임-디자인-워크숍-기법, 빅게임-디자인 ↔ 게이미피케이션, 서비스-디자인-툴킷 ↔ 서비스-디자인-씽킹, 서비스-디자인-툴킷 ↔ 디자인-컨설팅-프로세스
+
 ## [2026-07-19] ingest | 2020 Wanted con. Creative & design 후기 #2, [WEMIX PLAY] Fan Token이 제시하는 새로운 팬덤 경제학, 3D 프린팅과 일상, 디지털 전환기, 제조 산업에서 디자인 시스템 적용에 관하여, 2018 pxd story 결산
 - 업데이트: AI-시대-디자이너의-역할 (+/1529 카카오엔터프라이즈 김은정 — AI 디자이너의 Technology/UI Design 두 축, Product·Visual 측 역할 분류), BX-디자인과-브랜드-자산-운용 (+/1529 CFC 전채리 — 사유가 담긴 아이덴티티 디자인 3단계 Contents-Context-Form, 히포크라타 클리닉 사례), 블록체인-UX-웹3 (+/1664 WEMIX PLAY Fan Token — F2E(Fan to Earn) 모델과 TWAP 기반 하이워터마크 토크노믹스), 3D-프린팅-기술 (+/1515 Sungi Kim의 후속 DIY 사례 — 인덕션 스위치 커버, 책 선반 지지대, 크리스마스 Low-poly 장식), 디자인-시스템 (+/1497 제조업 클라우드 플랫폼의 System-oriented UI → Task-driven UI 전환, Functional/Perception Patterns), pxd-블로그-운영 (+/1367 2018년 결산 — 발행 글 수·방문자 수·Top 18 목록, 다음 해 운영 계획)
 
