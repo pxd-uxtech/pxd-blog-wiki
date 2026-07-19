@@ -130,6 +130,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모빌리티 서비스 유형과 MaaS](concepts/모빌리티-서비스-유형과-MaaS.md) — 이동 니즈 기반 여정 최적화 MaaS 개념과 차량 호출·공유·마이크로모빌리티·대중교통 4유형, 매칭형(우버·타다) vs 검색형(카플랫) 서비스 구분, Citymapper 사례
 - [서비스 디자인 사례 — JetBlue](concepts/서비스-디자인-사례-JetBlue.md) — 서비스 여정 전체 설계·언행일치 브랜딩·셀프 서비스+인적 지원 조합으로 고객만족 1위 달성한 JetBlue 사례
 - [서비스 디자인 사례 — 리니어블](concepts/서비스-디자인-사례-리니어블.md) — 비콘 기반 미아방지 웨어러블 밴드·앱, pxd와의 앱 2.0 리뉴얼 협업 사례
+- [서비스 디자인 사례 — 오사카 회전초밥 부페](concepts/서비스-디자인-사례-오사카-회전초밥-부페.md) — 좌석 배정·음식 배분·문화적 소비 습관을 통해 손님 만족을 해치지 않으면서 이윤을 남기는 오사카 회전초밥 부페의 서비스 설계 트릭
 - [서비스 디자인 사례 — Podo Camera](concepts/서비스-디자인-사례-Podo-Camera.md) — Kickstarter Staff Pick 선정 블루투스 카메라 Podo, pxd·Podo Labs 1개월 협업으로 본 UI·GUI 통합 프로토타이핑 사례
 - [서비스 디자인 씽킹](concepts/서비스-디자인-씽킹.md) — Stickdorn·Schneider의 서비스 디자인 5원칙을 재해석한 "서비스 디자인 − Evidencing = UX, UX − Holistic = UI" 공식
 - [서비스 디자인 툴킷](concepts/서비스-디자인-툴킷.md) — Customer Centered Service Design Toolkit(Process Sheet·Check List·Method Card) 리뷰, pxd 더블 다이아몬드와의 비교
