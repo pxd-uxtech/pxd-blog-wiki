@@ -2,8 +2,8 @@
 type: concept
 domain: "디자인 시스템"
 name: "UI 가이드라인"
-sources: ["/1063", "/684", "/400", "/426"]
-updated: "2026-07-18"
+sources: ["/1063", "/684", "/400", "/426", "/162"]
+updated: "2026-07-23"
 ---
 # UI 가이드라인
 
@@ -25,6 +25,7 @@ updated: "2026-07-18"
 - **Wearable**: Google Glass, Apple Watch, Samsung Gear S/Gear 2, Android Wear, Sony SmartEyeglass
 - **Other**: iPod nano UI(작은 화면 인터페이스 참고), Google Cast, **Designing Interfaces** 웹사이트(Jenifer Tidwell의 94가지 패턴)
 
+**초기 사례(2010년)**: pxd 블로그에도 이런 가이드라인 학습의 초기 사례가 있다. 안드로이드 개발자 사이트(developer.android.com)의 UI Guidelines 카테고리를 소개한 2010년 글은, 가이드라인이 **Icon Design Guidelines**, **Widget Design Guidelines**, **Activity and Task Design Guidelines**, **Menu Design Guidelines** 네 섹션으로 구성되어 있다고 정리했다. 특히 **Activity and Task Design Guidelines**는 안드로이드 UI의 기본 구성 단위인 **'Activity'** 개념을 규정하고 이를 재사용해 기능을 조립하는 방법을 설명한다는 점에서, 아이콘·위젯 같은 GUI 요소를 다루는 다른 세 섹션과 결이 다르다. 글쓴이는 이를 애플 HIG와 비교해보고 싶다는 소회를 남겼는데, 이는 '여러 가이드라인을 비교하며 활용하기' 단계가 실무자에게 자연스럽게 요구되는 학습 동기임을 보여주는 사례다.
 
 **UI 패턴 참고 리소스**: UI 기획에서 패턴과 원칙을 이해하는 것은 건축가가 구조를 이해하는 것과 같이 기본적이고 중요하다. **UI 패턴**은 일반적인 디자인 문제에 대한 광범위한 해결 방안을 제공한다. 온라인에서 참고할 수 있는 주요 리소스로는 Mobile UI design patterns(sixrevisions.com), 모바일 앱 UI 패턴 사이트 모음, 모바일/웹 UI 패턴·쇼케이스·가이드라인 모음 등이 있다. **Designing Interfaces**(Jenifer Tidwell) 웹사이트는 94가지 인터페이스 패턴을 체계적으로 정리한 대표적 참고 자료다.
 
@@ -51,6 +52,7 @@ updated: "2026-07-18"
 - 가이드라인은 디자인 결정의 **설득 도구**로도 활용 가능
 - 가장 효과적 학습은 **실제 프로젝트에서 가이드라인을 작성**해보는 것
 - Apple HIG는 가이드라인 자체에 브랜드 정체성을 담은 대표 사례
+- 2010년 안드로이드 개발자 사이트 UI Guidelines는 Icon/Widget/Activity-Task/Menu 4섹션으로 구성, 그중 Activity and Task Design Guidelines는 'Activity' 단위 자체를 규정
 - **UI 패턴**: 반복되는 디자인 문제에 대한 검증된 해결 방안으로, 웹사이트·라이브러리 형태로 정리된 참고 리소스가 다수 존재
 - 대부분의 회사 디자인 원칙은 **닐슨의 휴리스틱을 재배열**한 수준에 그쳐 독자에게 무시되기 쉬움
 - 가이드라인의 성패는 문구가 아니라 **권위(절차적 정당성에 근거한 영향력)**에 달림
@@ -71,3 +73,4 @@ updated: "2026-07-18"
 - [UI 패턴을 다룬 웹사이트 모음](https://story.pxd.co.kr/684) — 2013-04-24, 위승용 uxdragon
 - [사용자의 80%만을 위해 디자인하라 - Apple Human Interface Guidelines의 역사](https://story.pxd.co.kr/400) — 2011-07-15, 이 재용
 - [왜 어떤 가이드라인은 실패하는가? - 말보다 행동이 중요하다](https://story.pxd.co.kr/426) — 2011-08-25, 이 재용
+- [안드로이드 UI/GUI 가이드라인](https://story.pxd.co.kr/162) — 2010-06-28, 전성진
