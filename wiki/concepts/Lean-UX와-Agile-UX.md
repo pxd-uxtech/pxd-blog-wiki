@@ -2,8 +2,8 @@
 type: concept
 domain: "UX 방법론"
 name: "Lean UX와 Agile UX"
-sources: ["/878", "/832", "/764", "/757", "/803", "/761"]
-updated: "2026-07-20"
+sources: ["/878", "/832", "/764", "/757", "/803", "/761", "/360"]
+updated: "2026-07-24"
 ---
 # Lean UX와 Agile UX
 
@@ -30,6 +30,10 @@ B2B Lean UX가 겪는 특유의 어려움도 있다. ① 특정 문제에 대한
 **책 리뷰 『Lean UX』(Jeff Gothelf, Josh Seiden)**: 이 재용은 이 책이 Lean UX를 '린 스타트업과 UX의 교집합'으로 정의한다고 소개하며, 그 뿌리를 **디자인 사고**·**애자일 개발**·**린 스타트업** 세 방법론에서 찾는다. Lean UX가 실무에 가져오는 진짜 변화는 절차나 문서가 아니라, 디자이너가 홀로 완벽한 문서를 만들어 개발자에게 넘기던 방식에서 전체 팀이 함께 만들고 고치는 협업 방식으로 옮겨가는 **관점 전환(mindset shift)**이다. 이 변화가 정착하려면 산출물(output)이 아닌 매출·회원수 같은 결과물(outcome)을 중시하도록 조직 문화·계약 방식 자체가 바뀌어야 하며, 저자는 waterfall 방식의 상징인 **BDUF(Big Design Up Front)**가 Lean UX 확산과 함께 사라질 것이라 전망한다.
 
 **Proto-Persona와 pxd의 Agile Persona**: 책이 제안하는 **Proto-Persona**는 현장 리서치 없이 팀원들의 가정(assumption)을 바탕으로 스케치·인구통계 정보·pain point·잠재적 해결책 네 요소를 빠르게 정리한 뒤 이후 리서치로 계속 보완해 나가는 기법이다. pxd는 이미 유사한 개념을 **Agile Persona**라는 이름으로 제시해 왔는데, 문제와 해결책을 철저히 분리하는 전통적 퍼소나 기법과 달리 Proto-Persona는 처음부터 잠재적 해결책까지 포함한다는 차이가 있다.
+
+**Agile Persona의 원형 — 2011년 pxd의 3주 프로젝트 사례**: 이 재용은 2011년, 폭포수식 [[사용자 중심 디자인|UCD]]에 익숙한 UI 디자이너가 개발자들 사이에 빠르게 확산되던 Agile Process에 어떻게 대응해야 하는지를 고민하며 해외 사례를 조사했다. 당시 해외 문헌들은 Agile 환경의 문제로 ① 디자인 역할의 불명확함, ② 요구사항·컨셉 탐색 단계의 부재, ③ 미완성 상태에서 안정화보다 기능 추가 욕구가 앞서는 경향, ④ 그로 인한 품질 저하를 지적했고 **"Agile is good for refining, not defining"**(Agile은 다듬는 데는 좋지만 처음 정의하는 데는 도움이 안 된다)는 결론으로 수렴했다. 이를 바탕으로 이 재용은 세 가지 원칙 — 디자인팀이 개발팀과 완전히 한 팀이 될 것, 프로젝트 초반에 최소한의 사용자 조사·모델링을 할 것, 부지런히 참고 사례를 모아 빠르게 프로토타입을 반복할 것 — 을 제시했다.
+
+이 원칙을 실제 3주짜리 프로젝트에 적용한 것이 **Agile Persona** 기법의 시초다. 전통적인 'user interview → modeling(critical characteristics) → persona → strategy' 순서를 뒤집어 ① **peer interview**(프로젝트 팀원 2~4명에게 "너는 어때?"라고 묻는 1~2시간짜리 약식 인터뷰) → ② **persona assumption**(대략의 퍼소나 감 잡기) → ③ **questionnaire**(key critical characteristics를 4~7개 체크형 문항으로 구성해 응답 즉시 퍼소나 패턴을 판별할 수 있도록 설계한 설문지) → ④ **user interview**(패턴이 궁금한 응답자를 불러 추가 질문) 순서로 진행해, 첫 주 안에 리서치와 퍼소나·전략 수립을 마쳤다. 둘째 주에는 외부 인원 5명을 초청해 프로젝트 구성원 포함 8명이 각자 프레임웍 2개씩(총 15개)을 그려 발표하는 **Framework Sketch Workshop**을 열고, 퍼소나의 과업을 가장 잘 해결한 프레임웍·안정적이고 익숙한 구조의 프레임웍·서비스 고유 컨셉을 가장 잘 보여주는 프레임웍 3개를 선정해 팀원들이 각각 발전시킨 뒤 다시 2개로 통합했다. 셋째 주에는 GUI 팀이 워크숍 단계부터 참여해 스타일링을 병행하는 **Rapid Design Styling**으로 디자인 시안을 완성했다. 이 재용은 이런 압축된 프로세스가 성공하려면 진행자가 사용자 조사·UI 설계 경험은 물론 도메인 지식까지 풍부해야 오류나 시행착오를 피할 수 있다는 점을 가장 중요한 전제 조건으로 꼽았다.
 
 **MVP를 둘러싼 논쟁**: 이 재용은 책이 제시하는 **MVP(Minimum Viable Product)**에서 '학습(learning) 목적'과 '시장 가치 전달(value delivery)' 두 초점이 뒤섞여 있다고 비판한다. 학습이 목적이라면 그것은 MVP가 아니라 **프로토타입**이어야 하며, 검증되지 않은 것을 실사용자 시장에 내놓는 일은 비윤리적이라는 입장이다. 특히 책이 제시하는 가짜 신청 버튼, 가짜 광고, 눌러도 반응 없는 '공갈 버튼' 같은 위장형 MVP 기법에 대해서는 사용자를 속이는 행위라며 강하게 반박하고, MVP는 언제나 실제 가치를 전달하며 시장에서 살아남을 수 있어야 하고 학습·테스트가 목적이면 별도의 프로토타입(혹은 'prototype MVP')을 만들어야 한다고 결론짓는다. Lean UX의 리서치는 사전이 아닌 사후에, 다른 직군과 협업하며 지속적으로 이루어진다는 점이 전통적 UX 리서치와의 차이이며, 저자가 제안하는 **3-12-1 시스템**(매주 목요일 낮 12시 전까지 3명의 사용자를 인터뷰)이 이 지속적 피드백 루틴의 구체적 실천 방법이다.
 
@@ -63,6 +67,9 @@ B2B Lean UX가 겪는 특유의 어려움도 있다. ① 특정 문제에 대한
 - End-user 접근이 막힌 B2B 환경에서는 Mock-interview·컨소시엄 협력·컨설턴트 채용으로 리서치 우회
 - Lean UX 책의 정의: Design Thinking + Agile + Lean Startup의 교집합, 핵심은 관점 전환(mindset shift)
 - Proto-Persona: 가정 기반 4요소(스케치/인구통계/pain point/잠재적 해결책)로 만드는 퍼소나, pxd의 Agile Persona와 유사
+- **Agile Persona 원형(2011)**: peer interview → persona assumption → questionnaire → user interview 순으로 전통적 퍼소나 프로세스를 뒤집어 1주일 안에 리서치·전략을 완료
+- Framework Sketch Workshop(외부 인원 포함 8명이 프레임웍 15개 스케치 후 3개로 압축) → Rapid Design Styling(GUI팀 조기 합류)으로 3주 내 디자인 시안 완성
+- 압축된 Agile Persona 프로세스가 성공하려면 진행자의 사용자 조사·UI 설계·도메인 지식이 풍부해야 함
 - MVP는 학습이 아닌 시장 가치 전달이 본질 — 가짜 버튼 등 위장 MVP는 비윤리적이라는 비판
 - 3-12-1 시스템: 매주 목요일 정오 전 3명 사용자 인터뷰로 지속적 피드백 확보
 - BDUF(Big Design Up Front)는 Lean UX 확산과 함께 사라질 관행으로 전망됨
@@ -84,6 +91,7 @@ B2B Lean UX가 겪는 특유의 어려움도 있다. ① 특정 문제에 대한
 - [[애자일 조직 전환]] — Lean UX·Agile UX가 실무에서 뿌리내리기 위한 조직 문화·마인드셋 차원의 전제 조건
 - [[PM 프로젝트 관리]] — UX 디자이너의 Project Facilitator 역할과 비교할 수 있는 전통적 PM 역할론
 - [[UX와 UI의 차이]] — Lean UX 연재의 출발점이 된 UX 태동기 논의와 직접 연결되는 개념
+- [[사용자 중심 디자인]] — 2011년 Agile Persona 사례가 대응하고자 했던 전통적 UCD 접근, 같은 저자의 후속 글과도 이어짐
 
 ## 출처
 - [[pxd talks 46] Lean UX & Agile UX :: 소개와 실제 적용사례](https://story.pxd.co.kr/878) — 2014-02-25, onsoo.jeong
@@ -92,3 +100,4 @@ B2B Lean UX가 겪는 특유의 어려움도 있다. ① 특정 문제에 대한
 - [Lean UX Lab. 보다 빨리, 자주, 적은 비용으로 실패하기](https://story.pxd.co.kr/757) — 2013-07-18, 無異
 - [[pxd talks 38] Lean UX와 Agile UX - UX디자이너 김수영씨와의 대담](https://story.pxd.co.kr/803) — 2013-11-28, 알 수 없는 사용자
 - [왜 LeanUX인가?](https://story.pxd.co.kr/761) — 2013-08-02, 이 재용
+- [Agile과 UCD (User Centered Design)](https://story.pxd.co.kr/360) — 2011-04-22, 이 재용
