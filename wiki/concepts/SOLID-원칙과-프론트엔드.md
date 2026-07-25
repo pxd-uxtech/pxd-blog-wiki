@@ -24,6 +24,7 @@ updated: "2026-07-12"
 ## 관련 개념
 - [[React 컴포넌트 패턴]] — Container/Presentational, Compound, HOC 등 SOLID 원칙을 구현하는 구체적 React 패턴
 - [[디자인 시스템]] — 재사용 가능하고 확장 가능한 컴포넌트 설계라는 목표를 공유
+- [[테스트-코드-작성-전략]] — 작은 책임 단위로 나뉜 함수·컴포넌트가 유닛 테스트를 용이하게 만드는 연결점
 
 ## 출처
 - [프론트엔드와 SOLID 원칙](https://story.pxd.co.kr/1756) — 2024-02-27, UX Engineer 이야기
