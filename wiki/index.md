@@ -230,6 +230,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [CSS Flexbox](concepts/CSS-Flexbox.md) — float를 대체하는 현대적 CSS 레이아웃 방식, flex-container와 flex-item 속성 체계
 - [현대 CSS 기능](concepts/현대-CSS-기능.md) — Container Query·Subgrid·Cascade Layers·:has() 선택자·View Transitions 등 디자인 시스템 시대의 CSS 신기능
 - [CSS 폰트 기능 설정](concepts/CSS-폰트-기능-설정.md) — font-feature-settings로 OpenType의 합자·스몰캡·스와시·tabular-nums 제어
+- [DFS 알고리즘과 재귀적 콘텐츠 파서](concepts/DFS-알고리즘과-재귀적-콘텐츠-파서.md) — 약관 JSON을 깊이 우선 탐색(DFS) 재귀 함수로 순회해 렌더링하는 방식으로 버전별 조건 분기 기술 부채를 해소한 콘텐츠 파서 사례
 - [SVG 차트 구현](concepts/SVG-차트-구현.md) — 라이브러리 없이 polyline·circle로 라인 차트와 파이 차트 직접 구현
 - [웹 컴포넌트](concepts/웹-컴포넌트.md) — 웹 표준 HTMLElement·Shadow DOM 기반 재사용 컴포넌트 제작
 - [React Native와 Expo 앱 개발](concepts/React-Native와-Expo-앱-개발.md) — 디자이너가 React Native + Expo로 직접 만든 날씨/대기질 앱 개발 경험, 엣지 케이스·외적 제약·유통의 중요성
