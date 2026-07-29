@@ -155,6 +155,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [서비스 디자인 사례 — Podo Camera](concepts/서비스-디자인-사례-Podo-Camera.md) — Kickstarter Staff Pick 선정 블루투스 카메라 Podo, pxd·Podo Labs 1개월 협업으로 본 UI·GUI 통합 프로토타이핑 사례
 - [서비스 디자인 씽킹](concepts/서비스-디자인-씽킹.md) — Stickdorn·Schneider의 서비스 디자인 5원칙을 재해석한 "서비스 디자인 − Evidencing = UX, UX − Holistic = UI" 공식
 - [서비스 디자인 툴킷](concepts/서비스-디자인-툴킷.md) — Customer Centered Service Design Toolkit(Process Sheet·Check List·Method Card) 리뷰, pxd 더블 다이아몬드와의 비교
+- [서비스디자인 컨퍼런스 2011](concepts/서비스디자인-컨퍼런스-2011.md) — 국내 제1회 서비스디자인 컨퍼런스 참관기, 미하엘 엘호프(KISD)의 People·Process·Physical Evidence와 Sensuality·Sociality·Security, 국내 서비스 디자인 개념 초기 수용기의 혼란
 - [서비스 비즈니스의 원칙](concepts/서비스-비즈니스의-원칙.md) — 데이비드 마이스터의 서비스업 운영 원칙: 만족도=지각-기대 공식, 서비스의 가시화, 회사-직원-소비자 삼각구도, 표준화와 맞춤화의 공존
 - [서비스 프로세스 효율화](concepts/서비스-프로세스-효율화.md) — 가로수길 백반집 관찰 사례로 본 프로세스 사전 설계·선택지 축소·인력의 유연한 협업을 통한 오프라인 서비스 효율화 원칙, 속도와 정중함의 양립
 - [음악 스트리밍 앱 첫화면 UX](concepts/음악-스트리밍-앱-첫화면-UX.md) — 멜론·엠넷·벅스 2012년 첫 화면 비교로 본 Music Follower·Music Browser 두 퍼소나 기반 콘텐츠 우선순위 설계
