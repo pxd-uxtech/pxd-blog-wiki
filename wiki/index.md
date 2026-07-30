@@ -86,6 +86,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [사용자 행동 패턴](concepts/사용자-행동-패턴.md) — 반복되는 행동의 규칙성을 발견하고 맥락을 이해하는 UX 리서치의 핵심 개념
 - [센스메이킹과 인문학적 비즈니스 리서치](concepts/센스메이킹과-인문학적-비즈니스-리서치.md) — 크리스티안 마두스베르그·미켈 라스무센의 『우리는 무엇을 하는 회사인가?』: 디폴트 사고 vs 센스메이킹 대비, 현상학·민족지학·귀추법 세 방법론적 뿌리, 스포츠 용품·콜로플라스트 사례로 본 명료함의 순간
 - [수렴적 디자인 프로세스](concepts/수렴적-디자인-프로세스.md) — 쿠퍼(Cooper)식 목표지향적 디자인 6단계에서 인터랙션·시각·산업 디자이너를 병렬 협업시켜 "디자인 언어 원형"으로 수렴시키는 방법론
+- [스마트폰 스피커홀 위치와 통화 사용성](concepts/스마트폰-스피커홀-위치와-통화-사용성.md) — 갤럭시 S3 스피커홀 정렬 논란과 "form follows function or not" 질문, 12명 대상 rapid UT로 밝힌 귓바퀴 연골 통증·소음차단-명료도 요구 충돌
 - [아이트래킹](concepts/아이트래킹.md) — 시선 추적 기술로 사용자의 시각적 주의 패턴을 분석하는 UX 리서치 방법론
 - [운전 중 스마트폰 사용 행태](concepts/운전-중-스마트폰-사용-행태.md) — 서울대 UX 연구실의 Machine Log Data + Behavior Data 기반 Deep Data Analysis, 운전 중 스마트폰 사용 5가지 세션 분류(Cycle Thru·Come up with·Active Pursuing·Conversing·Defer)
 - [원격 사용자 조사](concepts/원격-사용자-조사.md) — 해외 등 물리적으로 먼 사용자를 모더레이팅 유무에 따라 원격으로 조사하는 방법론과 도구 선택 기준
@@ -112,6 +113,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [사용자 인터뷰 기법](concepts/사용자-인터뷰-기법.md) — 효과적인 인터뷰를 위한 10가지 가이드라인, 다이어리 스터디, 전문가 인터뷰 기법(pre-mortem·프레임 깨기)
 - [해외 사용자 조사 프로세스](concepts/해외-사용자-조사-프로세스.md) — 현지 업체 선정, 리쿠르팅, 동시통역, 랩업 등 출장형 해외 사용자 조사의 5단계 프로세스와 실무 용어(스크리너/치터/no-show)
 - [해외 클라이언트 UX 프로젝트 협업](concepts/해외-클라이언트-UX-프로젝트-협업.md) — 신기술 검증을 위해 해외 클라이언트와 진행한 Discover-Define-Develop-Validate-Deliver UX 프로세스와 Wizard of Oz 프로토타이핑, 클라이언트 소통 노하우
+- [해외 UX 컨퍼런스 큐레이션](concepts/해외-UX-컨퍼런스-큐레이션.md) — 2018/19년 참가할 만한 해외 UX 컨퍼런스 8곳(UI/UX Conference China·EURO IA·Service Design Global Conference·Interaction Conference 등) 큐레이션, 참가 3대 효용(업계 흐름·네트워킹·자기 점검)
 - [현장 관찰 리서치 방법론](concepts/현장-관찰-리서치-방법론.md) — 얀 칩체이스의 창발적 행위 포착·극단적 사용자·직접 체험·한계치 맵 등 현장 기반 리서치 원칙
 - [프로토타이핑 툴 비교](concepts/프로토타이핑-툴-비교.md) — 시나리오 검증 vs 인터랙션 확인 목적에 따른 Flinto·InVision·Proto.io·Origami·Framer 툴 선택 가이드
 - [UX 성숙도 모델](concepts/UX-성숙도-모델.md) — NN/g 8단계·InVision 5단계 등 조직의 UX 현재 위치 진단
