@@ -2,8 +2,8 @@
 type: concept
 domain: "UX 방법론"
 name: "UX 성숙도 모델"
-sources: ["/1506", "/1604"]
-updated: "2026-07-20"
+sources: ["/1506", "/1604", "/1563"]
+updated: "2026-08-03"
 ---
 # UX 성숙도 모델
 
@@ -29,7 +29,7 @@ updated: "2026-07-20"
 
 **Yury Vetrov의 3단계 모델**: Operational(팀 단위 역할) → Tactical(원칙·가이드라인 수립) → Strategic(시장 차별화 전략).
 
-**UX Alliance의 6가지 항목 모델**은 위 조직 단위 모델들이 회사 전체의 성숙도를 진단하는 데는 유용하지만, **디자인 리더** 개인이 구체적으로 어떤 문제에 도전해야 하는지 판단하는 다차원 기준으로는 부족하다는 문제의식에서 나왔다. Research(리서치 팀 규모와 프로세스의 체계적 확장), Design(사용자 행동 변화라는 Outcome 중심의 목표 설정), People(팀원의 디자인 스킬·경력 향상 매니징), Culture(지속적 학습과 안전한 실험 환경, 사용자 피드백 메커니즘), Metrics(디자인 작업 성공 지표 정의), Strategy(미래 사용자 경험에 대한 비전 수립) 6개 축으로 구성된다.
+**UX Alliance의 6가지 항목 모델**은 위 조직 단위 모델들이 회사 전체의 성숙도를 진단하는 데는 유용하지만, **디자인 리더** 개인이 구체적으로 어떤 문제에 도전해야 하는지 판단하는 다차원 기준으로는 부족하다는 문제의식에서 나왔다. Research(리서치 팀 규모와 프로세스의 체계적 확장), Design(사용자 행동 변화라는 Outcome 중심의 목표 설정), People(팀원의 디자인 스킬·경력 향상 매니징), Culture(지속적 학습과 안전한 실험 환경, 사용자 피드백 메커니즘), Metrics(디자인 작업 성공 지표 정의), Strategy(미래 사용자 경험에 대한 비전 수립) 6개 축으로 구성된다. 이 모델은 2020년 12월 UX Masterclass 2020(주관: 인도 PeepalDesign)의 "Design Maturity Model: Why should organizations care?" 세션에서 UX 얼라이언스의 캐나다·스위스·폴란드 대표(Joelle Stemp, Florian Egger, Wojtek Chojnacki)가 처음 소개했다. 이 세션은 위 6개 축을 기준으로 인터뷰·서베이·성숙도 점수·로드맵·수행계획으로 이어지는 컨설팅 과정을 제시했으며, [[UX 얼라이언스 글로벌 네트워크]] 회원사들이 공동 개발했다.
 
 ### 디자인 리더(Design Leader)와 UX 성숙도
 
@@ -58,7 +58,9 @@ updated: "2026-07-20"
 - [[디자인 경영과 혁신 사례]] — 디자인이 비즈니스 전략으로 작동하는 높은 성숙도 단계의 사례
 - [[ResearchOps]] — 리서치 조직의 성숙도를 끌어올리기 위한 운영 체계, UX 성숙도의 한 축
 - [[원격 사용자 조사]] — 팬데믹 이후 원격 리서치 확산이 조직의 UX 성숙도에 미친 영향
+- [[UX Masterclass 2020 컨퍼런스]] — UX Alliance 6가지 항목 모델이 처음 발표된 컨퍼런스, 다른 세션들에 대한 종합 리뷰
 
 ## 출처
 - [UX 성숙도 진단을 통해 조직의 현 위치 파악하기](https://story.pxd.co.kr/1506) — 2021-01-08, Seungyoon Lee
 - [UXMC 2021:Design for the Future, Design for All #3](https://story.pxd.co.kr/1604) — 2021-12-06, nayeong.k
+- [UX Masterclass 2020: The Changing Faces of UX: Global Perspective](https://story.pxd.co.kr/1563) — 2021-01-05, Seungyoon Lee

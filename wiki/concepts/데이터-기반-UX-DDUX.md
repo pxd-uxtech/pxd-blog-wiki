@@ -94,6 +94,7 @@ DDUX적 관점이 실제 조직에서 어떻게 문화로 정착하는지를 보
 - [[행동경제학과 UX]] — 초개인화 마케팅 메시지에 적용된 행동경제학 기법과 대규모 A/B 테스트 검증 사례
 - [[블록체인 UX와 웹3]] — DeFi 스왑 서비스에서 이용 방식 파악 → 가설 수립 → 기능 개선 → 히트맵·퍼널 검증으로 이어지는 DDUX 사이클 실제 사례
 - [[대한민국 HCI-UI-UX 역사]] — 이 사례가 발표된 HCI KOREA 2019 학술대회의 전체 역사와 pxd 발표 이력
+- [[UX Masterclass 2020 컨퍼런스]] — pxd 류정우가 Data-driven User Modeling & Evidence-based Design 세션에서 소개한 DDUX 실무 경험
 
 ## 출처
 - [[pxd talks 95] Data Driven UX](https://story.pxd.co.kr/1545) — pxd story (신은비 작성)

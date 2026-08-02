@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-03] ingest | 웹 리서치할때 유용한 사이트_oldapps.com, iphone VoiceOver - 눈 가리고 아이폰, [모집] 2015 레고시리어스플레이 공인 퍼실리테이터 과정 모집, 월간 디자인 UX 디자인 특집 -UX 디자인의 현재와 미래를 보여주다., UX Masterclass 2020: The Changing Faces of UX: Global Perspective
+- 생성: 웹-아카이브-리서치-도구 (/45 oldapps.com·Wayback Machine으로 과거 버전을 추적하는 리서치 도구), VoiceOver와-모바일-스크린리더-UX (/105 iPhone VoiceOver 스크린 리더를 직접 체험한 사용기), UX-Masterclass-2020-컨퍼런스 (/1563 인디 영의 "사고 방법" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI, UX Alliance Design Maturity Model, 류정우의 Data-driven User Modeling)
+- 업데이트: 레고-활용-UX-워크숍-기법 (+/976 2015년 2회차 퍼실리테이터 과정 모집 공고), 디자인-에이전시와-인하우스-디자인 (+/1172 Deloitte Digital·뉴욕타임스·Cooper·존 마에다-Dalberg Design 사례), UX-성숙도-모델 (+/1563 Design Maturity Model 세션 발표자·세션명 상세), UX-얼라이언스-글로벌-네트워크 (+크로스레퍼런스), 데이터-기반-UX-DDUX (+크로스레퍼런스), 멘탈-모델-리서치-방법 (+크로스레퍼런스)
+- 크로스레퍼런스 추가: 웹-아카이브-리서치-도구 ↔ UI와-디바이스-역사/UX-리서치-유형, VoiceOver와-모바일-스크린리더-UX ↔ 웹-접근성과-WAI-ARIA/모바일-제스처-UI, UX-Masterclass-2020-컨퍼런스 ↔ UX-얼라이언스-글로벌-네트워크/UX-성숙도-모델/데이터-기반-UX-DDUX/멘탈-모델-리서치-방법/데이터-기반-퍼소나/Next-Billion-Users와-비문자-중심-UX/AI를-위한-UI-패턴과-UX
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보)
+
 ## [2026-08-03] ingest | [독후감] 남의 마음을 흔드는 건 다 카피다, An Exciting Time To be a Wizard, 구글과 애플의 미니멀리즘 베끼기 경쟁, Typography_Intro, 영감을 주는 3개의 글
 - 생성: 위자드-오브-오즈-프로토타이핑 (/1454 AR 글라스 사례로 본 WOZ 기법의 Discover/Define/Deliver 단계별 적용)
 - 업데이트: 글쓰기-기술 (+/1570 좋은 카피라이터의 3대 자질 — 공감능력·내면의 단단함·꼼꼼함), UI와-디바이스-역사 (+/174 사파리·IE·크롬 브라우저 툴바 미니멀리즘 경쟁을 통한 수렴), 타이포그래피와-서체-디자인 (+/480 에밀 루더 『타이포그래피 교과서』 철학), UX-블로그-리소스-큐레이션 (+/1212 앨런 쿠퍼 블로그 3편 큐레이션 — 14단계 UX 프로세스·위기지학·알렉산더식 디자인)

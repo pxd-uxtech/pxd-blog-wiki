@@ -55,6 +55,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
+- [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [Spectrum Con 2019 컨퍼런스](concepts/Spectrum-Con-2019-컨퍼런스.md) — 원티드×디자인 스펙트럼 공동 주최 컨퍼런스, 라인(이정영)의 디자이너 역할 확장과 조직 대응, 쿠팡(조나단 정)의 비즈니스 드리븐 디자인 사례
 - [SAP Executive Summit 2019 컨퍼런스](concepts/SAP-Executive-Summit-2019-컨퍼런스.md) — '혁신과 클라우드' 주제의 SAP 행사 후기, 두산중공업·SK하이닉스의 디자인 씽킹·애자일 적용과 제조업 서비스화·플랫폼 비즈니스 전환 사례
@@ -94,6 +95,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [아이트래킹](concepts/아이트래킹.md) — 시선 추적 기술로 사용자의 시각적 주의 패턴을 분석하는 UX 리서치 방법론
 - [운전 중 스마트폰 사용 행태](concepts/운전-중-스마트폰-사용-행태.md) — 서울대 UX 연구실의 Machine Log Data + Behavior Data 기반 Deep Data Analysis, 운전 중 스마트폰 사용 5가지 세션 분류(Cycle Thru·Come up with·Active Pursuing·Conversing·Defer)
 - [원격 사용자 조사](concepts/원격-사용자-조사.md) — 해외 등 물리적으로 먼 사용자를 모더레이팅 유무에 따라 원격으로 조사하는 방법론과 도구 선택 기준
+- [웹 아카이브 리서치 도구](concepts/웹-아카이브-리서치-도구.md) — oldapps.com·Wayback Machine으로 애플리케이션·웹사이트의 과거 버전을 추적해 변화 추이로 트렌드를 가늠하는 리서치 도구
 - [윷놀이 UX와 뒷도 규칙 모호성](concepts/윷놀이-UX와-뒷도-규칙-모호성.md) — 지역마다 다른 '뒷도' 규칙 논쟁으로 본 인터랙티브 시스템의 에지 케이스 설계 원칙
 - [의료 서비스 디자인](concepts/의료-서비스-디자인.md) — 메이요 클리닉 사례로 보는 환자 중심 서비스 철학과 경험 신호(기능적·기계적·인간적) 설계
 - [익스트림 프로토타이핑과 즉흥연기](concepts/익스트림-프로토타이핑과-즉흥연기.md) — 김창준의 애자일 프로토타이핑 워크숍: 짧은 계획과 즉각 실행·피드백을 반복하는 문제해결 접근, 즉흥연기 CROW 기법과 Prospective Hindsight
@@ -403,6 +405,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [디자인 어워드와 수상 사례](concepts/디자인-어워드와-수상-사례.md) — Red Dot Best of the Best 기준과 pxd Bedside Station 수상 경험으로 본 국제 디자인 어워드의 전략적 가치
 
 ## 접근성과 보조기술
+- [VoiceOver와 모바일 스크린리더 UX](concepts/VoiceOver와-모바일-스크린리더-UX.md) — iPhone VoiceOver 스크린 리더의 훑기-포커싱·더블탭 실행 조작 모델을 직접 눈 감고 체험한 사용기, 이름("손쉬운 사용")과 실제 작동의 불일치가 만드는 사용자 혼란
 - [보완대체 의사소통 AAC](concepts/보완대체-의사소통-AAC.md) — 언어 표현 장애를 보완·대체하는 의사소통 수단, My First AAC·마이토키 국내 사례
 
 ## 기술과 사회
