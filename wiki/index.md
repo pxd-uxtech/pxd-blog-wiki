@@ -120,6 +120,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [해외 UX 컨퍼런스 큐레이션](concepts/해외-UX-컨퍼런스-큐레이션.md) — 2018/19년 참가할 만한 해외 UX 컨퍼런스 8곳(UI/UX Conference China·EURO IA·Service Design Global Conference·Interaction Conference 등) 큐레이션, 참가 3대 효용(업계 흐름·네트워킹·자기 점검)
 - [현장 관찰 리서치 방법론](concepts/현장-관찰-리서치-방법론.md) — 얀 칩체이스의 창발적 행위 포착·극단적 사용자·직접 체험·한계치 맵 등 현장 기반 리서치 원칙
 - [프로토타이핑 툴 비교](concepts/프로토타이핑-툴-비교.md) — 시나리오 검증 vs 인터랙션 확인 목적에 따른 Flinto·InVision·Proto.io·Origami·Framer 툴 선택 가이드
+- [위자드 오브 오즈 프로토타이핑](concepts/위자드-오브-오즈-프로토타이핑.md) — 실제로 작동하지 않는 기술을 사람이 뒤에서 조작해 진짜처럼 느끼게 하는 WOZ 기법, AR 글라스 사례로 본 Discover/Define/Deliver 단계별 적용
 - [UX 성숙도 모델](concepts/UX-성숙도-모델.md) — NN/g 8단계·InVision 5단계 등 조직의 UX 현재 위치 진단
 - [동기강화 상담과 조직관리](concepts/동기강화-상담과-조직관리.md) — MI 기법을 조직관리와 PM 코칭에 적용하는 방법
 - [제조업 서비스화와 UX](concepts/제조업-서비스화와-UX.md) — TAM 기술 수용 모형과 지각된 유용성·사용 용이성
