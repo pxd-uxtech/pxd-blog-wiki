@@ -242,6 +242,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 ## 웹 개발
 - [증분 정적 재생성 (ISR)](concepts/증분-정적-재생성-ISR.md) — Next.js에서 SSG와 SSR의 중간 지점을 메워 빌드 이후에도 페이지 단위로 주기적 재생성을 가능케 하는 렌더링 전략
 - [CSS Flexbox](concepts/CSS-Flexbox.md) — float를 대체하는 현대적 CSS 레이아웃 방식, flex-container와 flex-item 속성 체계
+- [CSS Grid](concepts/CSS-Grid.md) — display: grid 기반 2차원 격자 레이아웃, grid-template-areas와 IE 지원 한계
 - [현대 CSS 기능](concepts/현대-CSS-기능.md) — Container Query·Subgrid·Cascade Layers·:has() 선택자·View Transitions 등 디자인 시스템 시대의 CSS 신기능
 - [CSS 폰트 기능 설정](concepts/CSS-폰트-기능-설정.md) — font-feature-settings로 OpenType의 합자·스몰캡·스와시·tabular-nums 제어
 - [DFS 알고리즘과 재귀적 콘텐츠 파서](concepts/DFS-알고리즘과-재귀적-콘텐츠-파서.md) — 약관 JSON을 깊이 우선 탐색(DFS) 재귀 함수로 순회해 렌더링하는 방식으로 버전별 조건 분기 기술 부채를 해소한 콘텐츠 파서 사례
@@ -273,6 +274,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [딥링크](concepts/딥링크.md) — URL이나 값을 호출했을 때 앱을 실행하거나 앱 내 특정 화면으로 이동시키는 기술
 - [반응형 웹 디자인](concepts/반응형-웹-디자인.md) — 하나의 HTML로 다양한 해상도에 대응하는 RWD 기법, Fluid Grids·Flexible Images·CSS3 Media Queries와 960/1140 Grid 논쟁
 - [브라우저 기반 개발 환경](concepts/브라우저-기반-개발-환경.md) — Code-Server로 VS Code를 브라우저에서 구동해 장소·기기 제약 없이 원격 개발하는 방법
+- [Docker와 개발 환경 표준화](concepts/Docker와-개발-환경-표준화.md) — node 버전 파편화 해소를 위한 Docker 도입, nvm과의 비교, Windows WSL2 진입 장벽
 - [브라우저 렌더링 파이프라인](concepts/브라우저-렌더링-파이프라인.md) — DOM·CSSOM·렌더 트리·레이아웃·페인트·컴포지트 6단계와 리플로우·리페인트 최소화 전략
 - [크로스브라우저 호환성](concepts/크로스브라우저-호환성.md) — 액티브엑스 등 특정 브라우저 전용 기술 의존과 조용히 실패하는(silent failure) UX의 위험성, 2011년 다나와 IE 종속 사례
 - [로컬터널과 개발환경](concepts/로컬터널과-개발환경.md) — localtunnel로 로컬 개발 서버를 외부에서 접근 가능하게 터널링하는 방법
