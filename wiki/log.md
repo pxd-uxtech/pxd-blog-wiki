@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-03] ingest | 한국 건축 예찬 - 땅의 깨달음, 에러에 대처하는 UI人의 자세-미친UI 사례2, 서비스 디자인의 시작 - Designing Services That Deliver, Usability Test Lab Review, Lean UX Conference 후기
+- 생성: 사용성-테스트-랩-구성 (/81 Test Room·Observation Room 두 구역으로 나뉘는 UT Lab 물리적 구성, 전 세계 31개 랩 사례, 웹 분야의 원격 리서치·필드의 Ethnographic Method로 확산되는 추세)
+- 업데이트: 현대미술-설치작가와-전시 (+/1146 이재용의 리움미술관 한국건축 사진전 관람기), 에러-메시지-작성-원칙-4H (+/267 2010년 "구체적 대상 명시" 원칙 — Ben Rowe의 4H 프레임워크보다 앞선 사례), 서비스-디자인-씽킹 (+/377 Shostack의 Service Blueprint·Line of Visibility·Tangible Evidence — 서비스 디자인의 기원), Lean-UX와-Agile-UX (+/980 pxd 첫 Lean UX 컨퍼런스 후기(2014) — 이지현/김수영/김희선/김수 발표 및 좌담회)
+- 크로스레퍼런스 추가: 프로토타이핑-툴-비교/원격-사용자-조사/사용성-비교-평가의 "관련 개념" 섹션에 사용성-테스트-랩-구성·서비스-디자인-씽킹·Lean-UX와-Agile-UX로의 역방향 링크 추가
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리
+
 ## [2026-08-03] ingest | CSS3 Grid 사용기, [pxd talks 43] 디자인 바깥에서 바라보는 디자인, Docker 적용기, 월간디자인 5월호 - 놀이터 프로젝트 소개, 완소 UI 신입사원을 위한 Must Have_5 Items_다섯번째
 - 생성: CSS-Grid (/1611 display: grid 기반 2차원 격자 레이아웃, grid-template-areas와 IE 지원 한계), Docker와-개발-환경-표준화 (/1618 node 버전 파편화 해소를 위한 Docker 도입 배경, nvm과의 비교, Windows WSL2·VS Code Dev Container 성능 이슈)
 - 업데이트: 디자인-사고 (+/845 pxd talks 43 주재우 교수의 "디자인 vs 마케팅" 프레임 비교, Roger Martin·Tim Brown 정의, Business Model Canvas), 컨텍스추얼-인쿼리 (+/1168 월간디자인 매거진에 소개된 '놀이터 UX 프로젝트' 사례 보강), UX-디자이너-성장과-리더십 (+/608 "완소 UI 신입사원을 위한 Must Have" 5편 — 진정성 있는 클라이언트 관계, 경청 후 소신 선택 원칙)
