@@ -3,7 +3,7 @@ type: concept
 domain: "UX 커리어"
 name: "UX 엔지니어 직무와 XE 그룹"
 sources: ["/1614"]
-updated: "2026-07-12"
+updated: "2026-08-05"
 ---
 # UX 엔지니어 직무와 XE 그룹
 
@@ -32,6 +32,7 @@ pxd에서 UX Engineer로 일하는 장점은 **UX 전문가 집단(기획자·�
 - [[디자이너 개발자 협업]] — UX Engineer와 디자이너 간 협업에서 요구되는 태도
 - [[신규 입사자 온보딩]] — 코드 리뷰·멘토링 중심의 신입 성장 구조와 맞닿는 온보딩 설계
 - [[Resize Observer API]] — XE그룹 기술 블로그에서 소개한 Web API 학습 공유 사례
+- [[Intersection Observer API]] — XE그룹 기술 블로그에서 소개한 또 다른 Web API 학습 공유 사례
 - [[View Transitions API]] — XE그룹 기술 블로그에서 소개한 또 다른 Web API 학습 공유 사례
 - [[DFS 알고리즘과 재귀적 콘텐츠 파서]] — XE그룹 블로그에서 공유된 알고리즘 실무 적용 사례
 

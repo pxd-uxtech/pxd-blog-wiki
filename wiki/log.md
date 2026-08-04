@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-05] ingest | [채용] pxd와 함께 할 인재를 찾습니다., [pxd talks 82] 블록체인의 현재와 디자이너의 가능성, [독후감] 디자이너, 고객에게 말하다, [독후감] The Entrepreneur's Guide to Customer Development, Intersection Observer API
+- 생성: Intersection-Observer-API (/1698 뷰포트 교차 여부를 비동기 감시하는 Web API — Lazy load·인피니티 스크롤 구현, options(root/rootMargin/threshold)와 callback 엔트리 속성)
+- 업데이트: pxd-채용-프로세스 (+/285 2011년 채용 공고 — 2단계 서류/실무면접 구조, 이후 2018/2020년 3단계 구조로의 진화 대비), 블록체인-UX-웹3 (+/1311 2018년 pxd talks 82 — 중앙화 vs 탈중앙화, 1세대/2세대 블록체인 구분, "신뢰를 위한 디자인" 역할론), 비즈니스-생산성과-직업관-도서 (+/1188 몬테이로 후속작 서평 확장 — "디자인은 예술이 아니라 문제 해결 과학"), 린-스타트업과-피벗 (+/773 고객 개발 4단계, C-P-S 가정 vs 퍼소나, 깔때기 가정)
+- 크로스레퍼런스 추가: Intersection-Observer-API ↔ Resize-Observer-API/React-컴포넌트-성능-최적화/UX-엔지니어-직무와-XE-그룹, 비즈니스-생산성과-직업관-도서 ↔ 디자인-경영과-혁신-사례, 린-스타트업과-피벗 ↔ Jobs-to-be-Done
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보)
+
 ## [2026-08-05] ingest | 아이패드2 눌러서 한방에 잠금해제 hack, [WEMIX BURN] 생태계 중심에서 타오르는 블랙홀, [pxd talks 64] Hey Chris: 미국/한국 대기업/스타트업의 디자이너 업무 비교, [pxd webtoon] 1화 : pxd모닝, 피엑스디가 스타트업과 협력합니다.
 - 생성: 미국-스타트업-디자이너-업무-문화 (/1147 야후 시니어 UX디자이너 송민승의 ZocDoc·Yahoo News Digest·Yahoo Aviate 경험으로 본 미국 스타트업 vs 한국 대기업 의사결정 속도·호칭 문화·리서치 방식 비교)
 - 업데이트: 잠금-화면-해제-UX (+/406 아이패드2 스마트 커버 개폐 불편과 홀 센서 DIY 하드웨어 해킹 잠금 해제 사례), 블록체인-UX-웹3 (+/1702 WEMIX BURN의 Mass/Batch/Auto Burn 소각 프로그램과 블랙홀 BI 디자인 근거), 디자이너-창업과-스타트업 (+/1038 pxd 스타트업 협력 모델 Plan A~E와 캘릭스 M·어시스터·WowPeople·트루밸런스·포도 카메라·리니어블 포트폴리오), pxd-블로그-운영 (+/1230 pxd 웹툰 1화 pxd모닝)

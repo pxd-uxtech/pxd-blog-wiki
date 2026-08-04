@@ -283,6 +283,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [React 상태 관리](concepts/React-상태-관리.md) — Jotai 아토믹 상태 관리 라이브러리와 React 상태 관리 라이브러리 비교
 - [React 폼 제어](concepts/React-폼-제어.md) — React Hook Form 기반 폼 제어, 제어/비제어 컴포넌트, useForm·register·watch·Controller 핵심 API
 - [SCSS 모듈 시스템](concepts/SCSS-모듈-시스템.md) — @import 대체 문법인 @use와 @forward로 네임스페이스 기반 SCSS 모듈 관리
+- [Intersection Observer API](concepts/Intersection-Observer-API.md) — 뷰포트와 타깃 요소의 교차(노출) 여부를 비동기 감시하는 Web API, `scroll` 이벤트의 성능 부담을 대체하는 Lazy load·인피니티 스크롤 구현 수단
 - [Resize Observer API](concepts/Resize-Observer-API.md) — DOM 요소의 크기 변화를 비동기적으로 감시하는 Web API, `resize` 이벤트의 메모리 누수·throttle 문제를 해결하는 성능 친화적 대안
 - [View Transitions API](concepts/View-Transitions-API.md) — 브라우저가 화면 전환 전후 상태를 자동 감지해 자연스러운 애니메이션을 생성하는 웹 표준 API
 - [WebGL과 3D 웹](concepts/WebGL과-3D-웹.md) — 브라우저에서 3D 그래픽을 구현하는 WebGL과 Babylon.js 프레임워크

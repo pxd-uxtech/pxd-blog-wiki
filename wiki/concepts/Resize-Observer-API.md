@@ -3,7 +3,7 @@ type: concept
 domain: "프론트엔드 개발"
 name: "Resize Observer API"
 sources: ["/1735"]
-updated: "2026-07-14"
+updated: "2026-08-05"
 ---
 # Resize Observer API
 
@@ -24,6 +24,7 @@ pxd XE그룹의 hyejun.lee는 **약관 자동화 코드**를 구현하던 중 �
 
 ## 관련 개념
 - [[View Transitions API]] — pxd XE그룹이 소개한 또 다른 최신 브라우저 표준 Web API
+- [[Intersection Observer API]] — 요소의 뷰포트 노출 여부를 감시하는 선행 Web API, 이 글이 연장선으로 언급
 - [[UX 엔지니어 직무와 XE 그룹]] — 이 글의 저자가 속한 조직과 기술 블로그 시리즈
 - [[React 컴포넌트 성능 최적화]] — 불필요한 리렌더링을 줄이는 성능 최적화 맥락과 연결
 - [[브라우저 렌더링 파이프라인]] — 레이아웃·리사이즈 감지가 렌더링 성능에 미치는 영향

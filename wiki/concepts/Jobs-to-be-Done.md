@@ -3,7 +3,7 @@ type: concept
 domain: "UX 이론"
 name: "Jobs to Be Done"
 sources: ["/25"]
-updated: "2026-05-01"
+updated: "2026-08-05"
 ---
 # Jobs to Be Done
 
@@ -26,6 +26,7 @@ JTBD는 UX 방법론과 구조적으로 매우 유사하다. Job을 정의하는
 - [[행동경제학과 UX]] — 사용자 의사결정과 선택 행동을 이해하는 상호 보완적 프레임
 - [[Good-to-Great와 위대한 기업의 원칙]] — 비즈니스 혁신을 다루는 경영학적 관점의 교차점
 - [[제품 디자인 사례 — TFD 투명 플렉서블 디스플레이]] — Weak Signal을 JTBD의 대안적 표현으로 활용해 미래 제품을 디자인한 pxd 프로젝트 사례
+- [[린 스타트업과 피벗]] — 같은 저자가 소개한 고객 개발(Customer Development)의 C-P-S 가정과 Job 정의가 모두 고객의 근본 문제를 명시적으로 한정 짓는 접근
 
 ## 출처
 - [Jobs To Be Done (JTBD)](https://story.pxd.co.kr/25) — 2012-10-24, 이 재용
