@@ -14,6 +14,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Jobs to Be Done](concepts/Jobs-to-be-Done.md) — 특정 상황에서 고객이 해결해야 할 근본 문제(Job)를 중심으로 혁신 기회를 발견하는 클레이튼 크리스텐슨 기반 방법론
 - [UI 근본 문제와 UX 핵심 4단계](concepts/UI-근본-문제와-UX-핵심-4단계.md) — 인터페이스 대역폭과 인간 주의력이라는 두 제약자원의 배분 문제로 본 UI, 욕망→반복의 재미→통제감→다시 오는 욕망의 4단계 순환 모델로 본 UX
 - [UX 5단계 요소 모델](concepts/UX-5단계-요소-모델.md) — 휴 더벌리의 Strategy→Scope→Structure→Skeleton→Surface 5단계 UX iceberg 모델, Co-UX(M2M vs Man to Man) 구분, 혁신 확산 이론 기반 은행 채널 세분화
+- [UX 디자이너를 위한 20가지 원칙](concepts/UX-디자이너를-위한-20가지-원칙.md) — Whitney Hess가 정리하고 전성진이 실무 해석을 덧붙인 UX 디자이너 5대 핵심 가이드와 20가지 세부 원칙, "능력 있고 상냥한 좋은 사람"이라는 인성적 결론
 - [메타인지와 디자인 학습](concepts/메타인지와-디자인-학습.md) — 존 플라벨의 메타인지(사고에 대한 사고) 개념과 기획-점검-조절 3단계, 개인·팀(시니어-주니어) 차원의 디자인 학습 실천법
 - [밀러의 매직 넘버](concepts/밀러의-매직-넘버.md) — 1956년 조지 밀러가 발표한, 인간의 단기 기억 용량은 7±2개라는 법칙
 - [모델 휴먼 프로세서](concepts/모델-휴먼-프로세서.md) — 인간의 지각·인지·운동 시스템으로 구성된 1983년 Card·Moran·Newell의 인지 모델
@@ -55,6 +56,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
+- [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [Spectrum Con 2019 컨퍼런스](concepts/Spectrum-Con-2019-컨퍼런스.md) — 원티드×디자인 스펙트럼 공동 주최 컨퍼런스, 라인(이정영)의 디자이너 역할 확장과 조직 대응, 쿠팡(조나단 정)의 비즈니스 드리븐 디자인 사례
