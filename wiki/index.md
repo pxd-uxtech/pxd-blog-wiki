@@ -59,6 +59,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
+- [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
+- [DTALKS 샌프란시스코 디자인 세미나](concepts/DTALKS-샌프란시스코-디자인-세미나.md) — 2015년 D.Camp 세미나: 우버식 목적 최적화 화면·Material Design 리소스 확산으로 본 샌프란시스코 디자인 트렌드, 한국-미국 디자이너 협업 문화 비교
 - [Spectrum Con 2019 컨퍼런스](concepts/Spectrum-Con-2019-컨퍼런스.md) — 원티드×디자인 스펙트럼 공동 주최 컨퍼런스, 라인(이정영)의 디자이너 역할 확장과 조직 대응, 쿠팡(조나단 정)의 비즈니스 드리븐 디자인 사례
 - [SAP Executive Summit 2019 컨퍼런스](concepts/SAP-Executive-Summit-2019-컨퍼런스.md) — '혁신과 클라우드' 주제의 SAP 행사 후기, 두산중공업·SK하이닉스의 디자인 씽킹·애자일 적용과 제조업 서비스화·플랫폼 비즈니스 전환 사례
 - [Wanted con 2020 컨퍼런스](concepts/Wanted-con-2020-컨퍼런스.md) — 원티드 주최 디자인 컨퍼런스, 쿠팡 조나단 정의 "The power of Unlearning": Simplicity·Consistency·Innovation 세 가지 관점을 데이터로 relearning하는 사례
@@ -238,6 +240,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모바일 웹 리디자인 사례 — 네이버 블로그](concepts/모바일-웹-리디자인-사례-네이버-블로그.md) — 아이패드 대응 네이버 블로그 리디자인으로 본 가독성(DPI 환산 오류)·이탈률(포고스티킹)·RSI 세 가지 모바일 웹 문제와 해법
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 - [IoT 제품 디자인](concepts/IoT-제품-디자인.md) — 모니터링-제어-최적화-자율화 4단계와 물리적 인터페이스 계승을 중심으로 한 IoT 제품 UX 설계 원칙
+- [IoT 핵심 기술 용어](concepts/IoT-핵심-기술-용어.md) — 센싱(MEMS·GeoFencing)·네트워크(Beacon·Zigbee·5G·IPv6)·서비스 인터페이스(딥러닝·HomeKit·Physical Web) 세 축으로 정리한 IoT 기술 용어 사전
 - [Natural User Interface (NUI)](concepts/Natural-User-Interface-NUI.md) — 신체로 직접 인터랙션하는 인터페이스의 역사·9가지 기술 요소·한계
 - [감정 반응 UI](concepts/감정-반응-UI.md) — 페이스북 좋아요 → 6감정 Reactions 전환 사례와 디자인 결정 분석
 - [에러 메시지 작성 원칙 4H](concepts/에러-메시지-작성-원칙-4H.md) — Human·Helpful·Humorous·Humble, 불만의 순간을 기쁨으로 바꾸는 에러 메시지 4원칙

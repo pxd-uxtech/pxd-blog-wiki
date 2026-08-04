@@ -3,7 +3,7 @@ type: concept
 domain: "UX 교육과 커뮤니티"
 name: "UX World 2013 컨퍼런스"
 sources: ["/752"]
-updated: "2026-07-25"
+updated: "2026-08-05"
 ---
 # UX World 2013 컨퍼런스
 
@@ -35,6 +35,7 @@ updated: "2026-07-25"
 - [[BX 디자인과 브랜드 자산 운용]] — 신명섭(Plus X)의 YG 엔터테인먼트 브랜드 경험 전략 사례
 - [[디자인 컨설팅 프로세스]] — 김지현(삼성SDS)이 소개한 B2B UX 컨설팅 4단계와 비교되는 다른 컨설팅 프로세스 사례들
 - [[UXCamp Seoul 2011 세미나 리뷰]] · [[Service Experience 2013 컨퍼런스]] — 유사한 형식의 국내외 UX 컨퍼런스 참관기
+- [[UX World 2014 컨퍼런스]] — 이듬해 열린 동일 행사 후기, 국내 UX 컨퍼런스의 계보
 
 ## 출처
 - [[컨퍼런스] UX World 2013 'The Power of Making a Difference' 후기](https://story.pxd.co.kr/752) — 2013-07-09, 알 수 없는 사용자
