@@ -53,6 +53,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX 연출과 모션 디자인 원칙](concepts/UX-연출과-모션-디자인-원칙.md) — 디즈니 애니메이션 12원칙 기반 UX 모션 설계: 피드백·피드포워드·공간인식·사용자포커스·브랜드톤의 5원칙
 - [UX 정량 평가](concepts/UX-정량-평가.md) — 참가자 수 결정 기준·표본 선정·신뢰 구간 해석으로 사용자 경험을 수치화해 의사결정 근거를 확보하는 방법론
 - [UX 현지화 전략](concepts/UX-현지화-전략.md) — 글로벌 서비스를 위한 현지화(L10N)와 국제화(I18N) 전략, 맥락·기술·언어·법규 네 가지 고려 영역
+- [Future Conference 2018과 UX 디자이너의 역할](concepts/Future-Conference-2018과-UX-디자이너의-역할.md) — Addy Lee(구글)의 파트너십 3원칙, 최지호(네이버 웨일)의 조사 없는 UX 디자인과 '파급력 우선' 전환, Jason Kim(인스타그램)의 미션 기반 Discover-Design-Deliver 프로세스
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
@@ -318,6 +319,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [스토리북 컴포넌트 개발](concepts/스토리북-컴포넌트-개발.md) — Storybook addon 활용 및 컴포넌트 문서화 워크플로우
 - [Vue3 마이그레이션](concepts/Vue3-마이그레이션.md) — Vue2 → Vue3 전환 시 제거된 기능(키코드 수식어·필터·이벤트 버스 $on/$off/$once)과 대체 패턴
 - [슬랙봇 개발](concepts/슬랙봇-개발.md) — Slack RTM API와 외부 오픈 API(날씨, 대기질) 연동 슬랙봇 구현 방법
+- [Closed API와 Augmented Browsing](concepts/Closed-API와-Augmented-Browsing.md) — 이름만 '오픈'인 API가 필요한 정보를 내주지 않을 때 브라우저 확장으로 공개 정보를 가공해 보완하는 2011년 티스토리 팀블로그 저자별 모아보기 구현 사례
 - [Cheerio와 Node.js 웹 스크래핑](concepts/Cheerio와-Node.js-웹-스크래핑.md) — jQuery와 유사한 API로 HTML을 파싱·추출하는 Node.js 웹 스크래핑 모듈, axios + cheerio.load() 사용 흐름
 - [FED 프론트엔드 UX 워크플로우](concepts/FED-프론트엔드-UX-워크플로우.md) — The0 프로젝트로 본 프론트엔드 개발자의 애자일 UX 프로세스
 - [디자이너 개발자 협업](concepts/디자이너-개발자-협업.md) — 멀티탭 논란 사례: 디자인은 질문, 개발자의 구현 의지가 혁신을 만든다
@@ -383,6 +385,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX 엔지니어 직무와 XE 그룹](concepts/UX-엔지니어-직무와-XE-그룹.md) — pxd XE(eXperience Engineering)그룹의 업무 범위·재량근로제 기반 업무 방식·필요 역량으로 본 UX Engineer 직무
 - [비폭력대화(NVC)](concepts/비폭력대화-NVC.md) — 마샬 로젠버그의 비폭력대화 모델: 기린/자칼 비유와 관찰-느낌-욕구-부탁 4단계 대화법, pxd talks NVC 교육 실습 사례
 - [재능발휘 제도와 사내 취미 지원](concepts/재능발휘-제도와-사내-취미-지원.md) — 직원 취미생활을 회사가 직접 지원하는 pxd 복지 제도, "직원이 행복해야 pxd도 행복하다"는 철학과 꽃꽂이(플라워 클래스) 사례
+- [pxd Wii 스포츠대회와 사내 친목 문화](concepts/pxd-Wii-스포츠대회와-사내-친목-문화.md) — Wii·키넥트 모션 게임 기반 사내 체육대회, 승부보다 평소 교류가 적던 동료와 친해지는 계기로서의 조직문화 장치
 - [차 문화와 다도](concepts/차-문화와-다도.md) — pxd talks 87 티 스타일링 세미나: 다도의 기원과 음양오행 기반 차 분류, 녹차·홍차·보이차 가공법 차이와 다구 재질별 시음 실습
 - [크리스마스 리스 만들기와 플로리스트 공예](concepts/크리스마스-리스-만들기와-플로리스트-공예.md) — pxd talks 79 크리스마스 리스 만들기 세미나: 리스의 3대 기원(결혼식·강림절·장례식)과 소재·제작·보관 규칙
 - [핸드드립 커피와 추출 이론](concepts/핸드드립-커피와-추출-이론.md) — pxd talks 81 커피 세미나: 드립 커피의 역사, 드리퍼·드립 서버·드립 포트 도구, 추출 기준표와 나선형 주법
