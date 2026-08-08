@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-08] ingest | 모두의 가드닝, 학생과 주민의 가드닝 커뮤니티, 인공지능(AI), 인간의 선택을 묻다, 2019 pxd Story 결산, [2012 pxd talks 01] 정보 시각화(Information Visualization), [pxd talks 93] 다크매터와 트로이의 목마
+- 생성: 서비스-디자인-사례-모두의-가드닝 (/871 게릴라 가드닝을 학생-주민 협업형 커뮤니티로 재해석한 산학협력 서비스 디자인 사례), AI-로봇-윤리와-자율-무기 (/1334 앨런 윈필드의 자동화세·로봇 윤리 3대 쟁점, 로날드 아킨의 치명적 자율 무기 논의), 정보-시각화 (/466 2012년 pxd talks 첫 세션 — 강규영의 정보 시각화 강연), 다크매터와-트로이의-목마 (/1475 이승호 교수의 공공 서비스 디자인 전략 프레임워크, 핀란드 Low2no·Participation Game·Design for Government 사례)
+- 업데이트: pxd-블로그-운영 (+/1487 2019년 결산 — 연례 결산 통계, 블로그 스킨/홈페이지 개편, 인스타그램 개설)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (단, /1487은 403이라 Wayback Machine 스냅샷으로 확보)
+
 ## [2026-08-07] ingest | Future Conference 2018 후기, 제2회 Wii 스포츠대회를 마치고, 가든하다 이야기, Smart Bedside Station 관련 신문 기사, 티스토리 작성자별 모아보기 (Break-in API)
 - 생성: Future-Conference-2018과-UX-디자이너의-역할 (/1338 Addy Lee·최지호·Jason Kim 세 세션으로 본 UX 디자이너의 조직 내 역할), pxd-Wii-스포츠대회와-사내-친목-문화 (/368 Wii·키넥트 사내 체육대회와 조직문화), Closed-API와-Augmented-Browsing (/380 닫힌 API 문제와 브라우저 확장 기반 Augmented Browsing 개념)
 - 업데이트: 리테일-매장-경험-디자인 (+/927 가든하다 가드닝 편집숍 사례), 의료-서비스-디자인 (+/1064 Smart Bedside Station 동아일보 보도), Future-Conference-2019와-글로벌-프로덕트-UX/인스타그램-디자인-프로세스/재능발휘-제도와-사내-취미-지원/좋은-동료의-특징/Cheerio와-Node.js-웹-스크래핑/블로그-검색-노출과-크롤링-정책/pxd-블로그-운영 (+크로스레퍼런스)
