@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-10] ingest | 'Socializing'을 도와주는 UI, [퍼온글] 윈도우 모바일 7 UI 디자인 & 인터랙션 가이드, UXMC 2021: Design for the Future, Design for All #2, 런칭! 스타트업 생존을 위한 UX시나리오, UX 정말 가볍고 단순한 생각
+- 생성: Socializing을-유도하는-제품-디자인 (/363 Void watch·네스카페 캡슐 머신·메신저 프로필 등 본연의 기능을 넘어 대화를 유발하는 제품·UI 설계 원칙)
+- 업데이트: 윈도우-8-모던-UI (+/156 WP7 디자인 가이드가 Windows 8 Modern UI의 Tile·터치 타깃 규격의 원형임을 반영), 유니버셜-디자인 (+/1602 Kohler·Somia 인도네시아 무슬림 위생기기 디자인 사례), UX-리서치-유형 (+/1602 Sutherland Labs의 포용적 리서치 4단계 편향 방지 프레임워크), 데이터-기반-퍼소나 (+/1081 B.J. Fogg Social Actor 개념과 UX 시나리오 방법론, SURVIVAL UX TOOLKIT 2번째 강좌), UX와-UI의-차이 (+/77 2010년 사내 UX/UI 정의 논쟁의 가장 이른 기록, PXD="People X Device" 사명 유래), Purple-Cow와-리마커블-전략/사물-관찰과-제품-디자인-디테일/그룹형-SNS-UX-설계 (+크로스레퍼런스)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보)
+
 ## [2026-08-09] ingest | [pxd talks 85] Remote Work, 2019 덴버대학교 학생들의 pxd 방문기, [NILE] 탈중앙화 자율 조직 DAO의 토대 NEITH Protocol, 서울역 '여가의 새발견'展 - 레고와 코카콜라, [UI 인사이트] 루크 로블르스키의 블로그로 배우기
 - 생성: Favorite-Medium과-글로벌-원격-근무-문화 (/1351 4개국 분산 오피스 Favorite Medium의 글로벌 원격 근무 방식, 슬랙·G-Suite·자체 툴 SIXPAQ 협업 사례), 해외-대학생-pxd-방문-교류 (/1419 덴버대학교 산업디자인 전공 학생들의 신진섭 교수 인솔 연례 pxd 방문 교류 프로그램)
 - 업데이트: 블록체인-UX-웹3 (+/1675 NEITH Protocol 7개 스마트 컨트랙트로 본 DAO 뼈대), 현대미술-설치작가와-전시 (+/680 '여가의 새발견'展 레고·코카콜라 수집품 전시 관람기), UX-블로그-리소스-큐레이션 (+/364 루크 로블르스키 블로그 큐레이션, 『웹 폼 디자인』), 재택근무-PM-협업/pxd-채용-프로세스/UI-패턴-원칙-도서 (+크로스레퍼런스)

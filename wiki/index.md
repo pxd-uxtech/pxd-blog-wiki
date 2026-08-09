@@ -12,6 +12,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Desire Path와 거꾸로 UX](concepts/Desire-Path와-거꾸로-UX.md) — 공원 잔디밭 오솔길과 pxd 컵 보관함 사례로 본 Desire Path, 의도와 다른 사용자 행동을 규제가 아닌 숨겨진 니즈의 신호로 보는 거꾸로 UX 사고방식
 - [ISO UI 표준](concepts/ISO-UI-표준.md) — ISO 9241·13407·9241-210으로 이어지는 사용성과 UX의 국제 표준 계보
 - [Jobs to Be Done](concepts/Jobs-to-be-Done.md) — 특정 상황에서 고객이 해결해야 할 근본 문제(Job)를 중심으로 혁신 기회를 발견하는 클레이튼 크리스텐슨 기반 방법론
+- [Socializing을 유도하는 제품 디자인](concepts/Socializing을-유도하는-제품-디자인.md) — Void watch·네스카페 캡슐 머신·메신저 프로필처럼 본연의 기능을 넘어 대화를 유발하는 부가적 스토리를 심는 제품·UI 설계 원칙
 - [UI 근본 문제와 UX 핵심 4단계](concepts/UI-근본-문제와-UX-핵심-4단계.md) — 인터페이스 대역폭과 인간 주의력이라는 두 제약자원의 배분 문제로 본 UI, 욕망→반복의 재미→통제감→다시 오는 욕망의 4단계 순환 모델로 본 UX
 - [UX 5단계 요소 모델](concepts/UX-5단계-요소-모델.md) — 휴 더벌리의 Strategy→Scope→Structure→Skeleton→Surface 5단계 UX iceberg 모델, Co-UX(M2M vs Man to Man) 구분, 혁신 확산 이론 기반 은행 채널 세분화
 - [UX 디자이너를 위한 20가지 원칙](concepts/UX-디자이너를-위한-20가지-원칙.md) — Whitney Hess가 정리하고 전성진이 실무 해석을 덧붙인 UX 디자이너 5대 핵심 가이드와 20가지 세부 원칙, "능력 있고 상냥한 좋은 사람"이라는 인성적 결론
