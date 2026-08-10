@@ -2,8 +2,8 @@
 type: concept
 domain: "디자인 시스템"
 name: "UI 가이드라인"
-sources: ["/1063", "/684", "/400", "/426", "/162", "/992"]
-updated: "2026-07-27"
+sources: ["/1063", "/684", "/400", "/426", "/162", "/992", "/469"]
+updated: "2026-08-10"
 ---
 # UI 가이드라인
 
@@ -26,6 +26,8 @@ updated: "2026-07-27"
 - **Other**: iPod nano UI(작은 화면 인터페이스 참고), Google Cast, **Designing Interfaces** 웹사이트(Jenifer Tidwell의 94가지 패턴)
 
 **초기 사례(2010년)**: pxd 블로그에도 이런 가이드라인 학습의 초기 사례가 있다. 안드로이드 개발자 사이트(developer.android.com)의 UI Guidelines 카테고리를 소개한 2010년 글은, 가이드라인이 **Icon Design Guidelines**, **Widget Design Guidelines**, **Activity and Task Design Guidelines**, **Menu Design Guidelines** 네 섹션으로 구성되어 있다고 정리했다. 특히 **Activity and Task Design Guidelines**는 안드로이드 UI의 기본 구성 단위인 **'Activity'** 개념을 규정하고 이를 재사용해 기능을 조립하는 방법을 설명한다는 점에서, 아이콘·위젯 같은 GUI 요소를 다루는 다른 세 섹션과 결이 다르다. 글쓴이는 이를 애플 HIG와 비교해보고 싶다는 소회를 남겼는데, 이는 '여러 가이드라인을 비교하며 활용하기' 단계가 실무자에게 자연스럽게 요구되는 학습 동기임을 보여주는 사례다.
+
+**공식 가이드라인으로의 진화 — Android Design(2011)**: 2010년 developer.android.com의 UI Guidelines가 Icon/Widget/Activity-Task/Menu 섹션별로 흩어져 있던 것과 달리, 구글은 2011년 안드로이드 4.0 아이스크림 샌드위치(ICS) 출시에 맞춰 **Android Design**이라는 정식 명칭의 통합 스타일 가이드를 새로 공개했다. 이 가이드는 스마트폰·태블릿 모두에 최적화된 UI를 만들도록 돕는다는 목표 아래 **Style**(디바이스와 디스플레이, 테마, 타이포그래피, 색상, 문체 등), **Patterns**(내비게이션, 선택, 알림, 스와이프 뷰, 호환성 등), **Building Blocks**(텍스트 필드, 스크롤, 버튼, 다이얼로그, 탭, 리스트 등) 세 영역으로 재구성됐다는 점에서, 산발적 카테고리 나열이던 이전 버전보다 진일보한 문서 구조를 보여준다. 국내에는 한글 번역본(klutzy.github.com/android-design-ko)도 함께 소개됐으며, 구글이 이 가이드를 정기적으로 업데이트하겠다고 밝힌 것은 안드로이드 UI 가이드라인이 파편적 카테고리 문서에서 지속 관리되는 **공식 표준 문서**로 자리잡는 전환점이었다.
 
 **UI 패턴 참고 리소스**: UI 기획에서 패턴과 원칙을 이해하는 것은 건축가가 구조를 이해하는 것과 같이 기본적이고 중요하다. **UI 패턴**은 일반적인 디자인 문제에 대한 광범위한 해결 방안을 제공한다. 온라인에서 참고할 수 있는 주요 리소스로는 Mobile UI design patterns(sixrevisions.com), 모바일 앱 UI 패턴 사이트 모음, 모바일/웹 UI 패턴·쇼케이스·가이드라인 모음 등이 있다. **Designing Interfaces**(Jenifer Tidwell) 웹사이트는 94가지 인터페이스 패턴을 체계적으로 정리한 대표적 참고 자료다.
 
@@ -57,6 +59,7 @@ updated: "2026-07-27"
 - 가장 효과적 학습은 **실제 프로젝트에서 가이드라인을 작성**해보는 것
 - Apple HIG는 가이드라인 자체에 브랜드 정체성을 담은 대표 사례
 - 2010년 안드로이드 개발자 사이트 UI Guidelines는 Icon/Widget/Activity-Task/Menu 4섹션으로 구성, 그중 Activity and Task Design Guidelines는 'Activity' 단위 자체를 규정
+- 2011년 구글이 안드로이드 4.0(ICS) 출시에 맞춰 공개한 **Android Design**은 Style·Patterns·Building Blocks 3영역으로 재구성된 정식 통합 가이드로, 이후 정기 업데이트되는 공식 표준 문서로 자리잡음
 - **UI 패턴**: 반복되는 디자인 문제에 대한 검증된 해결 방안으로, 웹사이트·라이브러리 형태로 정리된 참고 리소스가 다수 존재
 - 대부분의 회사 디자인 원칙은 **닐슨의 휴리스틱을 재배열**한 수준에 그쳐 독자에게 무시되기 쉬움
 - 가이드라인의 성패는 문구가 아니라 **권위(절차적 정당성에 근거한 영향력)**에 달림
@@ -82,3 +85,4 @@ updated: "2026-07-27"
 - [왜 어떤 가이드라인은 실패하는가? - 말보다 행동이 중요하다](https://story.pxd.co.kr/426) — 2011-08-25, 이 재용
 - [안드로이드 UI/GUI 가이드라인](https://story.pxd.co.kr/162) — 2010-06-28, 전성진
 - [[HCI KOREA 2015 후기 1/2] 성공적인 스마트TV 표준 가이드라인 만들기 발표 후기](https://story.pxd.co.kr/992) — 2015-01-15, 알 수 없는 사용자
+- [안드로이드 디자인 : Android 4.0 ICS 디자인 가이드](https://story.pxd.co.kr/469) — 2012-02-17, 알 수 없는 사용자
