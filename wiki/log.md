@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-12] ingest | [애니메이션]_한 텀 쉬고가는 애니메이션, [해외교육] Cooper Service Design Immersive, [정보디자인] details matter / 네이버 그린윈도우, iOS7을 닮은 Wallpaper앱. flur:Wallpaper for iOS7, 훈데르트바서展-놓치면 엄청난 후회
+- 생성: 모션-그래픽-애니메이션과-영감-큐레이션 (/672 런던 애니메이션 스튜디오 Animade의 모션 그래픽 작업을 소개한 pxd '영감 동영상' 시리즈), 앱-개발-사례-flur-Wallpaper (/872 pxd LeanUX Lab의 배경화면 앱 flur:Wallpaper 개발기, Lean UX 이론과 실무의 괴리)
+- 업데이트: 서비스-디자인-씽킹 (+/1336 Cooper Service Design Immersive 워크숍 실습 사례 — Discover-Describe-Determine-Develop-Deliver 5단계), 정보-디자인-원칙 (+/98 네이버 그린윈도우 웹킷 포커스 아웃라인 겹침 문제), 현대미술-설치작가와-전시 (+/345 훈데르트바서 유기적 건축·생태주의 소개), 스톱모션-애니메이션과-영감-큐레이션/시네마그래프와-디자인-영감-큐레이션/어포던스/래피드-퍼소나-워크숍/Safari-포커스-관리/Lean-UX와-Agile-UX/앱-개발-사례-Bucket-Labs-Phoster (+크로스레퍼런스)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보)
+
 ## [2026-08-11] ingest | [pxd talks 45] 비즈니스를 이해하고 사용자 경험 설계를 창조하는 서비스 디자이너, 투표? 웹3.0과 무슨 상관이 있죠?, [한국 인지과학 학술대회] 사용자 행동을 이해하고, 공감하는 User Modeling workshop 후기, 100세 시대를 위한 디자인 세미나 참석 후기, [한국 인지과학 학술대회] 수평-수직 사고 기법을 활용한 intensive workshop 후기
 - 생성: 브랜드-이해와-크리에이티브-전략 (/873 한광영의 pxd talks 45회 강연 — 브랜드 플랫폼 4단계와 공감대 형성을 위한 8가지 크리에이티브 전략), 래피드-퍼소나-워크숍 (/721 반나절 만에 만드는 간이 퍼소나 방법론, 2013년 한국 인지과학 학술대회 User Modeling 워크샵), 고령친화-디자인과-100세-시대 (/874 Age Friendly 개념과 시니어를 문제 해결의 주체로 세우는 고령친화 디자인 원칙)
 - 업데이트: 블록체인-UX-웹3 (+/1658 DAO 투표 메커니즘 — Quadratic/Square Root/Conviction Voting, 시빌 공격 방어), 아이디에이션과-수평적-사고 (+/723 2013 한국 인지과학 학술대회 수평-수직 사고 워크샵), BX-디자인과-브랜드-자산-운용/전략적-UX-디자인/디자인-에이전시와-인하우스-디자인/UX-디자이너를-위한-20가지-원칙 (+크로스레퍼런스)

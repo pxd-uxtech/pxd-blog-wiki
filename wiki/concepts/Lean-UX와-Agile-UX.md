@@ -111,6 +111,7 @@ exelab의 김희선은 스타트업 성공 확률이 낮은 현실에서, 있으
 - [[UX와 UI의 차이]] — Lean UX 연재의 출발점이 된 UX 태동기 논의와 직접 연결되는 개념
 - [[사용자 중심 디자인]] — 2011년 Agile Persona 사례가 대응하고자 했던 전통적 UCD 접근, 같은 저자의 후속 글과도 이어짐
 - [[프로토타이핑 툴 비교]] — 2014 Lean UX 컨퍼런스의 린 프로토타이핑 세션에서 언급된 Origami·Framer 등 도구의 상세 비교
+- [[앱 개발 사례 — flur:Wallpaper]] — pxd LeanUX Lab이 실제로 Lean UX 프로세스를 온전히 따르지 못한 채 빠르게 출시를 강행한 실전 사례
 
 ## 출처
 - [[pxd talks 46] Lean UX & Agile UX :: 소개와 실제 적용사례](https://story.pxd.co.kr/878) — 2014-02-25, onsoo.jeong
