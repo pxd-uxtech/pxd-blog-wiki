@@ -2,8 +2,8 @@
 type: concept
 domain: "디자인 산업"
 name: "Favorite Medium과 글로벌 원격 근무 문화"
-sources: ["/1351"]
-updated: "2026-08-09"
+sources: ["/1351", "/1362"]
+updated: "2026-08-14"
 ---
 # Favorite Medium과 글로벌 원격 근무 문화
 
@@ -14,6 +14,12 @@ updated: "2026-08-09"
 업무 방식 측면에서는 가벼운 대화는 **슬랙**, 직접 논의가 필요한 사안은 **화상 회의**로 구분하고, **G-Suite·Trello·Jira** 같은 온라인 프로젝트 매니지먼트 툴로 누가 어떤 일을 했는지 업무 히스토리를 투명하게 관리한다. 캐주얼한 데일리 미팅으로 팀원 간 일상을 공유하고, R&D Sharing·MADE THIS 같은 신기술·신제품 공유 미팅을 정기적으로 운영하며, 이 과정에서 자체 개발한 팀원 디렉토리·일정 관리 툴 **SIXPAQ**을 실제 업무에 사용한다. 이런 장치들의 공통된 목적은 물리적으로 떨어져 있어도 팀원들이 공통 관심사를 공유하고 구체화할 수 있다는 확신, 그리고 '누군가는 어딘가에서 함께 일한다'는 정서적 연결감을 유지하는 데 있다.
 
 Favorite Medium은 원격 근무에 낯선 클라이언트에게도 자신들이 일하는 방식을 먼저 설명하고 설득하는 과정을 거친다. Favorite Medium 부사장 Brett Webb의 표현을 빌리면 **"Remote working is a requirement, not a choice(원격 근무는 선택이 아닌 필수다)"**라는 인식이 조직 전체에 자리 잡고 있다.
+
+2018년 12월, Favorite Medium은 이 세션에 대한 자체 후기를 영문으로 작성해 pxd story에도 그대로 소개했다(작성: 서지선, Senior Creative Director). 이 글에 따르면 FM 직원들은 실제로 **14개국에 거주**하며 유럽·APAC·북미 클라이언트를 응대하고, 대면 근무가 일반적인 한국 시장에 원격 근무 노하우를 공유해달라는 pxd의 요청으로 이 강연에 초청됐다. FM은 Automattic·Trello·GitLab·InVision 같은 원격 분산팀 선구 기업들을 참고 사례로 들었고, 유럽·북미·남미·아시아 4개 대륙에 팀이 흩어진 실제 프로젝트 경험을 공유했다.
+
+이 후기 글은 FM이 정리한 **원격 협업 4원칙**을 구체적으로 소개한다. ①소통이 핵심 — 매일 팀 스탠드업 화상 회의로 업무 현황과 목표를 공유하고, 슬랙·회의록·녹화 영상으로 논의를 중앙화해 누구나 시차 없이 따라잡을 수 있게 한다. ②용도에 맞는 툴 사용 — 전반적 협업은 G Suite·Slack, 프로젝트 관리는 Jira·Trello·MeisterTask, 디자인 협업은 Sketch·Figma·InVision·Zeplin·Mural, 엔지니어 협업은 GitLab·GitHub·HockeyApp으로 영역별 툴을 구분한다. ③책무를 가시화 — 자체 개발 툴 SIXPAQ으로 프로젝트 배정·투입 시간·팀 가용성을 모두가 볼 수 있게 한다. ④결속력 있는 문화 구축 — R&D Sharing Meeting(사내 R&D 공유), FM Made This(프로젝트 론칭 발표), 분기별 전사 타운홀(Q&A 포함)을 정기 운영하고 가끔 오프라인으로도 모인다.
+
+Slido를 통한 청중 Q&A도 흥미로운 통찰을 남겼다. "원격지 인력이 태만할 때 어떻게 하나"는 질문에는 매일 스탠드업으로 서로의 진행 상황을 확인하기 때문에 눈에 띄지 않게 태만하기 어렵다고 답했고, "주니어는 멘토링을 못 받아 힘들지 않냐"는 질문에는 정기 업데이트되는 온라인 교육 과정 목록을 운영하며 연차보다 배우려는 태도가 더 중요하다고 답했다. 새 툴 도입에 대한 거부감은 크지 않은 편으로, 대부분 클라이언트 요청을 계기로 시도해보고 전사 도입 전에는 장기간의 검증 과정을 거친다고 설명했다.
 
 ## 핵심 내용
 - **Favorite Medium**: 한국·싱가포르·일본·미국 4개국 오피스를 둔 디지털 프로덕트 랩, 약 40명이 여러 나라에서 원격 근무
@@ -26,6 +32,10 @@ Favorite Medium은 원격 근무에 낯선 클라이언트에게도 자신들이
 - 캐주얼 데일리 미팅, R&D Sharing·MADE THIS 등 정기 공유 미팅으로 정서적 유대 형성
 - 원격 근무에 낯선 클라이언트에게는 일하는 방식을 먼저 설명·설득하는 절차를 거침
 - 핵심 문장: **"Remote working is a requirement, not a choice"** (Brett Webb, Favorite Medium VP)
+- FM 직원은 실제로 **14개국에 거주**하며 유럽·APAC·북미 클라이언트 응대(사무실 4개국보다 근무자 분포가 더 넓음)
+- 참고 사례: Automattic, Trello, GitLab, InVision 등 원격 분산팀 선구 기업
+- **원격 협업 4원칙**: ①데일리 스탠드업+슬랙/회의록/녹화로 소통 중앙화 ②협업/PM/디자인/엔지니어링 용도별 툴 구분 ③SIXPAQ으로 책무 가시화 ④R&D Sharing·FM Made This·분기 타운홀로 문화 결속
+- Q&A 인사이트: 데일리 스탠드업이 태만 방지 역할, 온라인 교육 목록으로 주니어 성장 지원, 신규 툴은 클라이언트 요청 + 장기 검증 절차로 도입
 
 ## 관련 개념
 - [[재택근무 PM 협업]] — pxd 내부 팀이 실천한 재택 근무 시 PM의 소통·일정 관리 노하우와 비교되는 사례
@@ -36,3 +46,4 @@ Favorite Medium은 원격 근무에 낯선 클라이언트에게도 자신들이
 
 ## 출처
 - [[pxd talks 85] Remote Work](https://story.pxd.co.kr/1351) — 2018-11-30, Frank Kim
+- [How Favorite Medium's globally distributed team works together](https://story.pxd.co.kr/1362) — 2018-12-17, 서지선 (Jisun Suh, Favorite Medium)
