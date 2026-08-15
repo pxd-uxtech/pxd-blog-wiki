@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-15] ingest | [독후감]초난감 기업의 조건, Interaction Models, 'FED'로 UX하기, 2018 HCI학회 피엑스디 세션 소개, Designing for the Digital Age : Chapter1. 각자 생각하는 UX와 UI의 정의!?!
+- 생성: 초난감-기업의-조건과-IT-업계-실패-사례 (/82 릭 채프먼 『In Search of Stupidity』 — 성공 공식 비판, 멍청한 짓을 하지 않는 것과 경쟁자의 실수가 성공의 실질 조건이라는 역발상)
+- 업데이트: 키스크린과-인터랙션-프레임웍 (+/223 휴 두버리 "Models of Models" 이론, /388 프로세스의 선행 이론적 뿌리), UX와-UI의-차이 (+/70 2010-03-31 UI 스터디 도서 강독 토론, 기존 최초 기록보다 앞선 시점으로 정정), FED-프론트엔드-UX-워크플로우 (+/1594 'FED로 UX하기' 시리즈명의 조직명 변천사 기원), 대한민국-HCI-UX-역사 (+/1291 HCI KOREA 2018 세션 소개 — 챗봇 UX·Data Driven UX Design Process 등 4개 발표)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회, /70은 403이라 Wayback Machine 스냅샷(2012-04-22)으로 추가 우회
+
 ## [2026-08-14] ingest | [pxd talks 72] 중국 IT의 현재 : 디자이너 시선으로 보는 알리바바와 텐센트, How Favorite Medium's globally distributed team works together, [pxd talks 92] 책장 동기화하기, [pxd talks 34] 왜 게임이 사람의 마음을 움직이는가, [심리학 산책 7] 미디어 방정식 : 독서 토론회 스케치
 - 생성: 중국-IT-대기업-문화와-디자인-트렌드 (/1207 BAT 성장 배경, 광군제·위챗 수치, 관리자/전문가 이원화 커리어 트랙), 매직-서클과-LXD (/784 놀공발전소 피터공의 게임 정의 Rules+Player=Play, 매직 서클, LXD 개념), 책장-동기화하기와-디자이너의-젠더-감수성 (/1474 디자이너 김린의 페미니즘 이동식 서가와 pxd 구성원 7인의 1:1 책 추천 워크숍)
 - 업데이트: Favorite-Medium과-글로벌-원격-근무-문화 (+/1362 FM 측 관점의 원격 협업 4원칙, Slido Q&A 인사이트), 미디어-방정식과-CASA (+/782 독서 토론회로 본 CASA 실제 사례들 — Clippy·매킨토시 Happy/Sad Mac 등)
