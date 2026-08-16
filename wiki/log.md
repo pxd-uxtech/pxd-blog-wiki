@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-17] ingest | [해외교육]2014 Cooper U's Visual Interface Design Practicum, [소소한 이야기] 컨셉트 음료 - The Magic, [애니메이션]_한 텀 쉬고가는 애니메이션_2_SNC, 스마트 조명 LIFX와 스노우피크의 Hozuki 그리고 IoT 조금, [채용] pxd 2016년 상반기 채용 안내 - UX디자이너
+- 생성: Cooper-Visual-Interface-Design-워크숍 (/1003 2014년 샌프란시스코 Cooper사 워크숍 후기 — Research→Translate→Archetype→Document 4단계 Visual Interface Design Process), 제품-디자인-사례-컨셉트-음료 (/676 순수 미네랄워터+Cap 장치로 영양성분을 선택 첨가하는 컬러비타민워터 컨셉, 실제 특허출원까지 이어진 사례)
+- 업데이트: 모션-그래픽-애니메이션과-영감-큐레이션 (+/699 런던 스튜디오 SNC/Sebas & Clim 영감 동영상 소개), IoT-제품-디자인 (+/934 LIFX vs Hozuki 비교 — 디지털 vs 아날로그 IoT 제품 초기 분류), pxd-채용-프로세스 (+/1161 2016년 상반기 신입 공고 — 재직자 인터뷰 병기 관행 최초 확인 시점을 2016년으로 정정), 제품-디자인-사례-iMac-스탠드·디자인-특허-전략·데이터-기반-퍼소나·서비스-디자인-씽킹 (신규 개념과의 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가로 story.pxd.co.kr 직접 fetch 우회
+- 총 개념 페이지: 464개
+
 ## [2026-08-17] ingest | 구글 - Next Billion Users Initiative, 스티브 잡스의 위기 관리: 통계 숫자와 고객 경험, Brainstorm-it. pxd가 만든 브레인스토밍 전용 접착식 메모지, [해외교육]2013 SDN Global Design Workshop in Berlin (2/2), 2019 웹 트렌드 컨퍼런스 후기
 - 생성: 통계-프레이밍과-고객-경험-은폐 (/191 스티브 잡스의 아이폰4 안테나게이트 위기 관리 사례 — 평균화된 통계로 개별 고객 경험을 희석하는 커뮤니케이션 패턴, 정성 조사 우선의 근거), 2019-웹-트렌드-컨퍼런스 (/1398 한화 금융 브랜드 LifePlus 웹사이트 기획 사례 — 7가지 웹 기획 전략)
 - 업데이트: Next-Billion-Users와-비문자-중심-UX (+/1270 구글 NBU 팀 신설, 페이스북 2G Tuesdays, Immersion Trip 리서치 기법), 아이디에이션과-수평적-사고 (+/720 pxd 자체 제작 접착식 메모지 'Brainstorm-it!' — 무작위 투입 기법의 물리적 구현), 디자인-컨설팅-프로세스 (+/830 SDN×KIDP 글로벌 디자인 워크숍(베를린) — Birgit Mager 주도 Exploration-Synthesis-Creation-Fine tuning 4단계), 현장-관찰-리서치-방법론·UX-정량-평가·UX-리서치-유형 (신규 개념과의 크로스레퍼런스 추가)

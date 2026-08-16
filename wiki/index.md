@@ -65,6 +65,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
+- [Cooper Visual Interface Design 워크숍](concepts/Cooper-Visual-Interface-Design-워크숍.md) — 2014년 샌프란시스코 Cooper사 워크숍 후기: Research→Translate→Archetype→Document 4단계 Visual Interface Design Process와 Goal-directed Design의 근거·비전 확보 방식
 - [DTALKS 샌프란시스코 디자인 세미나](concepts/DTALKS-샌프란시스코-디자인-세미나.md) — 2015년 D.Camp 세미나: 우버식 목적 최적화 화면·Material Design 리소스 확산으로 본 샌프란시스코 디자인 트렌드, 한국-미국 디자이너 협업 문화 비교
 - [헤럴드 디자인 포럼 컨퍼런스](concepts/헤럴드-디자인-포럼-컨퍼런스.md) — 2012년 헤럴드 디자인 포럼 Day 1 후기: 안도 타다오·하라 켄야·오준식·장 샤오강 강연으로 본 아시아 디자인 정체성과 디자인의 사회적 책임
 - [Spectrum Con 2019 컨퍼런스](concepts/Spectrum-Con-2019-컨퍼런스.md) — 원티드×디자인 스펙트럼 공동 주최 컨퍼런스, 라인(이정영)의 디자이너 역할 확장과 조직 대응, 쿠팡(조나단 정)의 비즈니스 드리븐 디자인 사례
@@ -176,6 +177,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [제품 디자인 사례 — pxd 이동식 책장](concepts/제품-디자인-사례-pxd-이동식-책장.md) — GUI 디자이너를 위한 사내 공용 도서 책장을 리스트→운영방침→컬러 레이블 관리 시스템으로 단계적으로 완성한 pxd 다이어리 사례
 - [제품 디자인 사례 — pxd 일러스트레이션 달력](concepts/제품-디자인-사례-pxd-일러스트레이션-달력.md) — 개인 취미로 그린 일러스트를 엽서형 달력으로 자체 제작, SNS 공개 후 사내 확산을 거쳐 회사 지원으로 클라이언트 배포용 굿즈까지 확장된 상향식 pxd 다이어리 사례
 - [제품 디자인 사례 — TFD 투명 플렉서블 디스플레이](concepts/제품-디자인-사례-TFD-투명디스플레이.md) — LGD 주축 국책과제에서 pxd가 담당한 미래 디스플레이 활용 시나리오 설계, Weak Signal 기반 맥락조사와 투명 디스플레이 4대 활용 유형
+- [제품 디자인 사례 — 컨셉트 음료](concepts/제품-디자인-사례-컨셉트-음료.md) — 순수 미네랄워터에 뚜껑 Cap 장치로 영양성분을 선택 첨가하는 컬러비타민워터 컨셉, 사내 공유 후 실제 특허출원으로 이어진 pxd 다이어리 사례
 - [타이포그래피와 서체 디자인](concepts/타이포그래피와-서체-디자인.md) — 고바야시 아키라 세미나로 본 자간·커닝 중심 서체 설계 원칙, 글자 파생 제작 프로세스, 다국어 기업서체 디렉션 역할
 - [편집 디자인과 정보 접근성](concepts/편집-디자인과-정보-접근성.md) — 가이드 캐릭터·독자 여정 기반 챕터 구성·일러스트 활용으로 낯선 정보의 진입 장벽을 낮추는 편집 설계 원칙
 
