@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-17] ingest | A New Perspective on Service Design Knowledge and Hair Salons, 리움 10주년 기념전 - 교감, 완소 UI 신입사원을 위한 Must Have_5 Items_첫번째, 퍼소나로 완성하는 인터랙션 디자인 : Chapter 14 (1/2). 시각 인터페이스 디자인, 안드로이드 체크박스 디자인 fail
+- 생성: 플랫폼-UI-컨벤션-불일치 (/305 안드로이드 체크박스 디자인 fail — dimmed 체크 표시의 플랫폼 간 의미 반전, 단말 제조사별 커스터마이징과 색맹 접근성 문제)
+- 업데이트: 서비스-디자인-씽킹 (+/924 Vargo·Lusch 서비스 중점적 논리(SDL)와 SDL-20/20 프레임웍), 현대미술-설치작가와-전시 (+/945 리움 10주년 기념전 '교감' 리뷰), UX-디자이너-성장과-리더십 (+/306 "완소 UI 신입사원" 1편 — 인간복사기 기법), UI-패턴-원칙-도서 (+/427 About Face 3 기반 2011년 pxd 내부 UI 스터디 챕터 발표), 색맹을-고려한-UI-색상-설계·안드로이드-위젯-디자인 (신규 개념과의 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회. /427은 story.pxd.co.kr·pxdstory.tistory.com 모두 403이라 Wayback Machine 스냅샷으로 추가 우회
+- 총 개념 페이지: 467개
+
 ## [2026-08-17] ingest | [채용] pxd 2018년 하반기 GUI 디자이너 채용 안내, [pxd talks 24] 산업 혁명과 물질:관념의 이분법 - 글로벌 정치경제 연구소 홍기빈 소장, pxd 2013 Calendar, [NILE] Covenant Date, 또 다른 NFT 경험이 실현되는 날, 디디에 망코보니 Playing with Colors展
 - 생성: 물질-관념-이분법과-상징-소비 (/659 홍기빈 소장의 산업혁명과 물질:관념 이분법 강연 — 희소성의 법칙·한계효용 체감의 법칙·상징 소비·변신 욕망), 제품-디자인-사례-pxd-달력카드 (/611 2013년 pxd GUX Design Center 탁상 달력 카드 — 1년 전체 조망·음각 가이드선·자석 받침대)
 - 업데이트: pxd-채용-프로세스 (+/1325 2018년 하반기 GUI 디자이너 채용 공고 — 같은 날 게재된 UX/UI 트랙과 별도 운영되는 GUI 트랙 채용), 블록체인-UX-웹3 (+/1759 NEITH Altar의 Covenant Claim — NFT 소각을 의식화한 UX 연출), 현대미술-설치작가와-전시 (+/665 디디에 망코보니 'Playing with Colors' 전시)
