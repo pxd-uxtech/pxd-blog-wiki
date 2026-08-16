@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-17] ingest | HCI KOREA 2017 참관 후기 (1/2), 트루밸런스 UX 디자이너(기획자) 채용 공고, [도서] UX / UI 신간 소식 (2016~2017), [We Want You] 경력-GUI디자이너분을 모십니다., 귀와 입만 사용하는 UX: 아마존 에코
+- 생성: 없음 (5개 글 모두 기존 개념 페이지에 병합)
+- 업데이트: 대한민국-HCI-UX-역사 (+/1210 HCI KOREA 2017 1/2편 — 아마존 AWS 클라우드, IBM Watson 유저 리서치, 원더스 퀵 물류서비스 창업, 삼성카드 UX 조직 고군분투기), pxd-채용-프로세스 (+/1133 2015년 트루밸런스(밸런스히어로) 채용 대행 — ALIVE/매버릭보다 앞선 최초 확인 사례, +/586 2012년 GUX디자인센터 GUI 디자이너 채용 공고), UX-입문-도서 (+/1271 2016~2017 UX/UI 신간 10종 큐레이션), AI-스피커-VUX-설계-원칙 (+/1125 아마존 에코 "귀와 입만 사용하는 UX" 사례 분석)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보). 1번 에이전트는 컴퓨터 절전으로 응답이 중단돼 재개(resume)해 완료함
+
 ## [2026-08-17] ingest | [UI 디테일] Personal Network Service 'Path', [독후감] UX Design Communication, KIDP Design Driven Innovation 세미나 후기, [소소한 이야기]페이스북의 시간카드, Experience Digital China 후기
 - 생성: KIDP-Design-Driven-Innovation-세미나 (/1417 KIDP-WDO 이사진 초청 세미나 — 멕시코·터키 디자인 산업 환경 대비, 삼성 디자인 철학 'Be Bold, Resonate with Soul'과 One UI), 카드-UI-디자인과-SNS-시간-소비 (/895 2014년 카드 타입 UI 확산 트렌드와 '무언가 더 있다'는 암시가 SNS 피드 소비 시간을 잠식하는 피로사회적 역설)
 - 업데이트: UI-디테일-비교와-지속적-개선 (+/312 Path 앱 'Personal' 컨셉 UI 디테일 리뷰 — 던바의 수 이론 인용), UX-입문-도서 (+/2 『UX Design Communication』 번역서 비평 독후감), 중국-IT-대기업-문화와-디자인-트렌드 (+/1287 Kaizor Innovation 'Experience Digital China' 투어 현장 체험기 — 위챗 QR·Red Packet·Didi Chuxing·Mobike/Ofo)
