@@ -242,6 +242,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [3D 지도 내비게이션 제스처](concepts/3D-지도-내비게이션-제스처.md) — Google Earth·NASA World Wind·서울시 3D GIS·V World 비교로 본 Rotate·Tilt 구분과 포인터 중심 vs 카메라 중심 회전축 설계 원리
 - [브라우저 마우스 제스처](concepts/브라우저-마우스-제스처.md) — 크롬플러스·네이버 툴바·파이어폭스 Fire Gesture 비교로 본 마우스 제스처 방향 조합과 서비스 간 파편화 문제, 모바일 웹 확장 화두
 - [차량 UX 디자인 프로세스](concepts/차량-UX-디자인-프로세스.md) — 전동화·라이드셰어링·커넥티드 3대 트렌드와 정보설계 뼈대구조·안전·국가별 제약 중심의 자동차 UX 설계 프로세스, 프로토타입 3목적과 버튼 vs 터치스크린 선택 기준
+- [카드 UI 디자인과 SNS 시간 소비](concepts/카드-UI-디자인과-SNS-시간-소비.md) — 2014년 카드 타입 UI 확산 트렌드와, '무언가 더 있다'는 암시가 SNS 피드 소비 시간을 잠식하는 피로사회적 역설
 - [커넥티드카 음성 UX](concepts/커넥티드카-음성-UX.md) — place-ona 개념으로 본 주행 중 음성 인터랙션 우세 조건과 의사결정 최소화·화면 보조채널 설계 원칙
 - [키보드 단축키와 인체공학](concepts/키보드-단축키와-인체공학.md) — 윈도우 Ctrl과 맥 Command의 조합키 위치 차이가 손가락에 미치는 부담, KeyTweak 키 매핑 교정과 에브리데이 UX
 - [키오스크 UI 설계](concepts/키오스크-UI-설계.md) — 큰 화면, 터치 입력, 공개 장소라는 키오스크 특성에 맞는 UI 설계
@@ -439,6 +440,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 
 ## 디자인 산업
 - [Favorite Medium과 글로벌 원격 근무 문화](concepts/Favorite-Medium과-글로벌-원격-근무-문화.md) — 한국·싱가포르·일본·미국 4개국 오피스를 둔 디지털 프로덕트 랩 Favorite Medium의 pxd talks 85회 발표, 슬랙·G-Suite·자체 툴 SIXPAQ 기반 글로벌 원격 협업 방식
+- [KIDP Design Driven Innovation 세미나](concepts/KIDP-Design-Driven-Innovation-세미나.md) — 한국디자인진흥원(KIDP)-WDO 이사진 초청 세미나: 멕시코·터키 디자인 산업의 문화적 자본과 정책 대비, 삼성 디자인 철학 'Be Bold, Resonate with Soul'과 One UI
 - [UX 얼라이언스 글로벌 네트워크](concepts/UX-얼라이언스-글로벌-네트워크.md) — 26개국 독립 UX 컨설팅사 네트워크 UXalliance, pxd의 2018년 대한민국 대표 회원사 가입과 국내외 양방향 사용자 조사 협업
 - [디자인 에이전시와 인하우스 디자인](concepts/디자인-에이전시와-인하우스-디자인.md) — 디자인 중요성 증가 → 인하우스 전환 → 에이전시 위축의 역설, 미국 디지털 에이전시 3물결과 한국 현황
 - [디자이너 창업과 스타트업](concepts/디자이너-창업과-스타트업.md) — Evan Sharp·김봉진 등 디자이너 창업 사례와 Designer Fund, 에이전시 스핀오프로 이어지는 디자인 산업 선순환 구조

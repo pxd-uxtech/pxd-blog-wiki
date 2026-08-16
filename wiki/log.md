@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-17] ingest | [UI 디테일] Personal Network Service 'Path', [독후감] UX Design Communication, KIDP Design Driven Innovation 세미나 후기, [소소한 이야기]페이스북의 시간카드, Experience Digital China 후기
+- 생성: KIDP-Design-Driven-Innovation-세미나 (/1417 KIDP-WDO 이사진 초청 세미나 — 멕시코·터키 디자인 산업 환경 대비, 삼성 디자인 철학 'Be Bold, Resonate with Soul'과 One UI), 카드-UI-디자인과-SNS-시간-소비 (/895 2014년 카드 타입 UI 확산 트렌드와 '무언가 더 있다'는 암시가 SNS 피드 소비 시간을 잠식하는 피로사회적 역설)
+- 업데이트: UI-디테일-비교와-지속적-개선 (+/312 Path 앱 'Personal' 컨셉 UI 디테일 리뷰 — 던바의 수 이론 인용), UX-입문-도서 (+/2 『UX Design Communication』 번역서 비평 독후감), 중국-IT-대기업-문화와-디자인-트렌드 (+/1287 Kaizor Innovation 'Experience Digital China' 투어 현장 체험기 — 위챗 QR·Red Packet·Didi Chuxing·Mobike/Ofo)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보). 참고: /2 원문 확인 중 기존 /1 항목의 발행일 표기(2009-07-14)가 실제(2009-07-13)와 하루 어긋난 것을 발견 — 이번 회차 범위 밖이라 수정하지 않음, 다음 회차에서 검토 필요
+
 ## [2026-08-14] ingest (지연 복구) | 스팀펑크아트 展, [가로수길 전시] '색감+공간 = 공감전시', [심리학 산책 10] 오래된 연장통 : 독서 토론회 스케치, [독후감] 무엇이 세상을 바꿀 것인가? - 인사이트 노동자
 - 생성: 인사이트-노동자 (/553 BCG 리치 레서의 인사이트 노동자 개념 — 지식 노동 자동화 이후 비판적 사고·공감이 핵심이 되는 미래 노동자상)
 - 업데이트: 스팀펑크-디자인-미학 (+/900 2014년 예술의 전당 '스팀펑크아트展' 국내 첫 소개 전시), 제품-디자인-사례-pxd-일러스트레이션-달력 (+/1196 신한솔 퇴사 후 개인전 '색감+공간 = 공감전시'), 진화심리학과-디자인 (+/846 전중환 교수 초청 독서 토론회 — 쇼핑 성별차·NUI·로빈 던바 휴대폰 연구), 현대미술-설치작가와-전시 (+크로스레퍼런스: 스팀펑크 디자인 미학)
