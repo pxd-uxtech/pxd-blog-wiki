@@ -27,6 +27,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [진화심리학과 디자인](concepts/진화심리학과-디자인.md) — 대칭성·평균성·아기 스키마 등 진화심리학으로 설명하는 아름다움과 귀여움의 원리
 - [초협력자와 협력의 진화](concepts/초협력자와-협력의-진화.md) — 마틴 노왁의 《초협력자》: 진화의 세 번째 규칙 협력, 포괄적합도(rb>c)와 직접·간접 상호성 등 협력의 진화 메커니즘
 - [터치 스크롤 UI와 촉각적 멘탈 모델](concepts/터치-스크롤-UI와-촉각적-멘탈-모델.md) — 스크롤바 제거로 콘텐츠를 실체처럼 느끼게 하는 아이폰 스크롤의 본능적(visceral) 멘탈 모델, bounce-back·flicking 등 물리 법칙을 흉내 낸 촉각적 UI 설계
+- [통계 프레이밍과 고객 경험 은폐](concepts/통계-프레이밍과-고객-경험-은폐.md) — 스티브 잡스의 아이폰4 안테나게이트 위기 관리 사례로 본, 평균화된 통계 숫자로 개별 고객의 실제 경험을 희석시키는 커뮤니케이션 패턴과 정성 조사 우선의 근거
 - [튜링 테스트와 인간다움](concepts/튜링-테스트와-인간다움.md) — 브라이언 크리스천의 『The Most Human Human』: 튜링 테스트와 Most Human Human상, Phonagnosia·Eudaimonia·마인드 업로딩으로 본 인간다움의 조각들
 - [프록세믹스와 공간 인류학](concepts/프록세믹스와-공간-인류학.md) — 에드워드 홀의 공간 인류학 이론: 인간의 거리 4단계(밀접·개인·사회·공적)와 사회구심적·사회원심적 공간 개념
 - [포카요케](concepts/포카요케.md) — 도요타 품질 기법을 UX에 적용한 오류 방지 설계 원칙
@@ -58,6 +59,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2018과 UX 디자이너의 역할](concepts/Future-Conference-2018과-UX-디자이너의-역할.md) — Addy Lee(구글)의 파트너십 3원칙, 최지호(네이버 웨일)의 조사 없는 UX 디자인과 '파급력 우선' 전환, Jason Kim(인스타그램)의 미션 기반 Discover-Design-Deliver 프로세스
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
+- [2019 웹 트렌드 컨퍼런스](concepts/2019-웹-트렌드-컨퍼런스.md) — 더즈인터랙티브의 한화 금융 브랜드 'LifePlus' 웹사이트 기획 사례로 본 7가지 웹 기획 전략(Life as a Service·Bold Typography·Broken-Grid Layout 등)
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
