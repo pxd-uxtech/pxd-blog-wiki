@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-17] ingest | [채용] pxd 2018년 하반기 GUI 디자이너 채용 안내, [pxd talks 24] 산업 혁명과 물질:관념의 이분법 - 글로벌 정치경제 연구소 홍기빈 소장, pxd 2013 Calendar, [NILE] Covenant Date, 또 다른 NFT 경험이 실현되는 날, 디디에 망코보니 Playing with Colors展
+- 생성: 물질-관념-이분법과-상징-소비 (/659 홍기빈 소장의 산업혁명과 물질:관념 이분법 강연 — 희소성의 법칙·한계효용 체감의 법칙·상징 소비·변신 욕망), 제품-디자인-사례-pxd-달력카드 (/611 2013년 pxd GUX Design Center 탁상 달력 카드 — 1년 전체 조망·음각 가이드선·자석 받침대)
+- 업데이트: pxd-채용-프로세스 (+/1325 2018년 하반기 GUI 디자이너 채용 공고 — 같은 날 게재된 UX/UI 트랙과 별도 운영되는 GUI 트랙 채용), 블록체인-UX-웹3 (+/1759 NEITH Altar의 Covenant Claim — NFT 소각을 의식화한 UX 연출), 현대미술-설치작가와-전시 (+/665 디디에 망코보니 'Playing with Colors' 전시)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (403 없이 5건 모두 정상 확보)
+- 총 개념 페이지: 467개
+
 ## [2026-08-17] ingest | [pxd webtoon] 프롤로그 : 나는 뱁새다, [pxd talks 52] 창의적으로 살아가기 – 류재현 감독, [pxd talks 58] 밝히면서 일하고 감추면서 즐긴다 - '슬기와 민'의 디자이너 최성민, 2013 pxd story 인기글 모음, pxd, iF 디자인 어워드 수상
 - 생성: 없음 (5개 글 모두 기존 개념 페이지에 병합)
 - 업데이트: pxd-블로그-운영 (+/1222 pxd 웹툰 프롤로그, +/943 pxd talks 52 류재현 감독 강연 — 클럽데이 공생공존 모델·3-3-10 법칙, +/1072 pxd talks 58 '슬기와 민' 최성민 강연, +/858 2013 pxd story 인기글 모음), 디자인-어워드와-수상-사례 (+/867 Smart Bedside Station iF 디자인 어워드 수상 — Red Dot·iF 2관왕 서사 완성)
