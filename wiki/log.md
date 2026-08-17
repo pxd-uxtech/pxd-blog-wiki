@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-18] ingest | [채용] pxd 2018년 GUI 경력 디자이너 채용 안내, 2013 pxd story 포스트 모음, [독후감] UX for Lean Startups 본문, 재택이 꿀잼인 이유, 오후 2시의 pxd Jam Live, [pxd talks] NFT로 바라보는 세상
+- 생성: 없음 (전량 기존 개념 페이지 병합)
+- 업데이트: pxd-채용-프로세스 (+/1308 2018년 3월 GUI 경력 디자이너 채용 공고 — 6월 공고보다 석 달 앞서 확립된 채용 파일명 규칙·GUI 트랙 지원 양식 확인), pxd-블로그-운영 (+/852 2014-01-02 "2013 pxd story 포스트 모음" — 큐레이션 결산에 앞서 발행된 아카이브형 글모음, 2012·2019년과 동일한 이원화 관행 재확인), 린-스타트업과-피벗 (+/779 Laura Klein 『UX for Lean Startups』 서평 — Validate-Design-Product 3단계, Pain-Driven Design, Local Maxima 비판), pxd-Wii-스포츠대회와-사내-친목-문화 (+/1504 코로나19 재택근무기 슬랙 기반 퀴즈봇·랜덤 배달음식 이벤트 'pxd Jam Live'), 블록체인-UX-웹3 (+/1631 성소라 작가 강연 — NFT 정의·역사(2014 Seven on Seven, 2021 소더비/크립토펑크)·크리에이터 이코노미·BAYC 저작권 사례)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회
+- 총 개념 페이지: 475개 (변동 없음, 전량 기존 병합)
+
 ## [2026-08-18] ingest | [BC.0x02] 안전한 생태계를 위한 감사 서비스, [참고사이트] infosthetics.com 정보의 다양한 시각화, [채용] 2015 pxd 채용 안내, 2019 pxd talks 모음, 2014년, 새해 복 많이 받으세요 :)
 - 생성: 없음 (전량 기존 개념 페이지 병합)
 - 업데이트: 블록체인-UX-웹3 (+/1701 스마트 컨트랙트 감사·보험 서비스: CertiK·Hacken·Sherlock 등), 정보-시각화 (+/145 infosthetics.com 참고 사이트 추천), pxd-채용-프로세스 (+/822 2013년 채용 안내 — 임원 면접 3단계 구조가 2013년부터 확인됨, 모집 분야 3분류), pxd-블로그-운영 (+/1480 2019 pxd talks 모음글, +/854 새해 인사 포스트)
