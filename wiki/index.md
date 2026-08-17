@@ -60,8 +60,11 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2018과 UX 디자이너의 역할](concepts/Future-Conference-2018과-UX-디자이너의-역할.md) — Addy Lee(구글)의 파트너십 3원칙, 최지호(네이버 웨일)의 조사 없는 UX 디자인과 '파급력 우선' 전환, Jason Kim(인스타그램)의 미션 기반 Discover-Design-Deliver 프로세스
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
+- [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
 - [2019 웹 트렌드 컨퍼런스](concepts/2019-웹-트렌드-컨퍼런스.md) — 더즈인터랙티브의 한화 금융 브랜드 'LifePlus' 웹사이트 기획 사례로 본 7가지 웹 기획 전략(Life as a Service·Bold Typography·Broken-Grid Layout 등)
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
+- [UXCamp Seoul 2012 세미나 리뷰](concepts/UXCamp-Seoul-2012-세미나-리뷰.md) — 2012년 KGIT에서 열린 UXCamp Seoul 4th 후기: 마술과 UX 접목(노병욱), 수평적 사고 기반 목표 설정(정기원), Auditory UI 4요소·촉각/청각 피드백 연구, 반응카드법 기반 감성 평가
+- [UXCamp Seoul 2014 세미나 리뷰](concepts/UXCamp-Seoul-2014-세미나-리뷰.md) — 2014년 서울크리에이티브랩 'behind the curtain' 주제로 열린 UXCamp Seoul 5th 후기: 레고 매뉴얼 디테일과 UX 글쓰기 팁(우상훈), 커뮤니티 디자인, Assistor PS 도구, 모바일 브로셔 시장
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
@@ -204,6 +207,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [서비스디자인 컨퍼런스 2011](concepts/서비스디자인-컨퍼런스-2011.md) — 국내 제1회 서비스디자인 컨퍼런스 참관기, 미하엘 엘호프(KISD)의 People·Process·Physical Evidence와 Sensuality·Sociality·Security, 국내 서비스 디자인 개념 초기 수용기의 혼란
 - [서비스 비즈니스의 원칙](concepts/서비스-비즈니스의-원칙.md) — 데이비드 마이스터의 서비스업 운영 원칙: 만족도=지각-기대 공식, 서비스의 가시화, 회사-직원-소비자 삼각구도, 표준화와 맞춤화의 공존
 - [서비스 프로세스 효율화](concepts/서비스-프로세스-효율화.md) — 가로수길 백반집 관찰 사례로 본 프로세스 사전 설계·선택지 축소·인력의 유연한 협업을 통한 오프라인 서비스 효율화 원칙, 속도와 정중함의 양립
+- [아시아 배달앱과 팬데믹 대응](concepts/아시아-배달앱과-팬데믹-대응.md) — 고젝·스위기·쿠팡이츠의 코로나19 대응 비교: 자체 안전망 강화, Swiggy wallet 전면 디지털 결제 전환, 비대면 결제 기본값화, 위생 커뮤니케이션과 심리적 웰빙
 - [앱 개발 사례 — Bucket Labs Phoster](concepts/앱-개발-사례-Bucket-Labs-Phoster.md) — 포토+포스터 합성 앱 Phoster 개발기: 3인 소수팀 협업 구조와 빠른 프로토타이핑으로 해외 앱스토어 상위권에 오른 국내 앱 개발 성공 사례
 - [앱 개발 사례 — flur:Wallpaper](concepts/앱-개발-사례-flur-Wallpaper.md) — pxd LeanUX Lab이 Cloudia 이후 짧은 기간에 만든 배경화면 앱 flur:Wallpaper 개발기, Lean UX 이론과 실무의 괴리 및 Apple 앱 심사 리젝션 2회 경험
 - [음악 스트리밍 앱 첫화면 UX](concepts/음악-스트리밍-앱-첫화면-UX.md) — 멜론·엠넷·벅스 2012년 첫 화면 비교로 본 Music Follower·Music Browser 두 퍼소나 기반 콘텐츠 우선순위 설계
@@ -378,6 +382,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [음성 에이전트와 VUI](concepts/음성-에이전트와-VUI.md) — 구글·시리·빅스비·클로바·누구·알렉사 6종 음성 에이전트의 칫챗 대응 방식 비교와 VUI 정체성 설계
 - [알고리즘 경험 디자인](concepts/알고리즘-경험-디자인.md) — AI 추천/매칭 알고리즘을 마주할 때 사용자가 느끼는 당혹감과 UX 디자이너의 역할: 알고리즘 제시 디자인과 명시적/묵시적 피드백을 통한 알고리즘 길들이기
 - [머신러닝 학습 방식과 GAN](concepts/머신러닝-학습-방식과-GAN.md) — 지도·비지도·강화 학습 3분류와 생성 모델·분류 모델이 경쟁하며 학습하는 GAN 원리, 온글잎 폰트 생성 사례로 본 남세동 대표의 pxd talks 강연
+- [제너레이티브 디자인과 유전자 알고리즘](concepts/제너레이티브-디자인과-유전자-알고리즘.md) — HCI KOREA 2015 이건명 발표, 유전자 알고리즘으로 디자인 생성·평가·반영을 자동화하는 Automated Generative Design, 반지 디자인 사례로 본 취향 기반 추천
 
 ## UX 커리어
 - [GUI 디자이너 직무와 pxd 업무방식](concepts/GUI-디자이너-직무와-pxd-업무방식.md) — 포트폴리오·인터뷰 준비부터 pxd 4D 프로세스·수평적 협업 문화까지, GUI 디자이너의 직무와 입사 경험

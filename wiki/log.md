@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-18] ingest | [세미나] UX Camp seoul 5th 후기, [세미나] UX Camp Seoul 4th 후기, 아시아의 배달앱이 코로나시대를 이겨내는 방법, UX Conference London 2019 후기 (2/2), [HCI KOREA 2015 후기 2/2] 참관 후기
+- 생성: UXCamp-Seoul-2012-세미나-리뷰 (/550 2012년 KGIT UXCamp Seoul 4th 후기 — 마술과 UX, 수평적 사고 목표 설정, Auditory UI, 반응카드법), UXCamp-Seoul-2014-세미나-리뷰 (/888 2014년 UXCamp Seoul 5th 후기 — 레고 매뉴얼 디테일·UX 글쓰기(우상훈), 커뮤니티 디자인, Assistor PS), UX-Conference-London-2019 (/1401 사이코그래픽·3중뇌 가설 기반 개인화 UX, 마케팅-UX 협업 공간 설계), 아시아-배달앱과-팬데믹-대응 (/1548 고젝·스위기·쿠팡이츠의 코로나19 대응 비교), 제너레이티브-디자인과-유전자-알고리즘 (/995 HCI KOREA 2015 이건명 발표, 유전자 알고리즘 기반 Automated Generative Design)
+- 업데이트: UXCamp-Seoul-2011-세미나-리뷰 (2012/2014 회차 크로스레퍼런스 추가), IoT-제품-디자인 (+/995 HCI KOREA 2015 IoT 키노트 — Smart Things/IoT 구분, Personal/Public/Industry IoT 분류 병합), 프로토타이핑-툴-비교 (+/995 littleBits IoT 프로토타이핑 워크숍 병합), 알고리즘-경험-디자인·2019-UX-London-컨퍼런스·UX-얼라이언스-글로벌-네트워크·원격-사용자-조사 (신규 개념 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회
+- 총 개념 페이지: 487개 (신규 5개 추가)
+
 ## [2026-08-18] ingest | SKP Tcloud GUI Design, 온라인UX강의 구조조정, The Psychologist's View of UX Design, [컨퍼런스 발표] 통합적 디자인연구를 위한 디자인 정보분류체계, Siri, Personal Assistant?
 - 생성: GUI-디자인-사례-SKP-Tcloud (/517 SKP N-스크린 클라우드 스토리지 Tcloud의 Web·iPhone·Android·iPad GUI 디자인 사례, GUI Lab·UI Lab 역할 분담), 디자인-정보분류체계 (/461 2011년 한국디자인학회 논문 기반 컨퍼런스 발표, 다차원 구조형 분류법이 실제 학회 논문 분류체계로 채택된 사례), 웨인쉔크의-UX-심리-원칙 (/139 수잔 웨인쉔크의 UX 심리학 7원칙 — 점진적 공개·사회적 검증·변화맹·원시뇌/감성적 뇌)
 - 업데이트: UX-온라인-강의-플랫폼 (+/1098 pxd 자체 강좌 '스타트업 생존을 위한 UX' 구조조정 사례 — 강좌 분리·가격 인하·수강기간 무제한화·미니렉처 도입), 음성-에이전트와-VUI (+/36 시리 2010년 초기 출시·애플 인수 히스토리), GUI-디자이너-직무와-pxd-업무방식 (신규 개념 [[GUI 디자인 사례 SKP Tcloud]] 크로스레퍼런스 추가)
