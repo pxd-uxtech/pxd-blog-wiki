@@ -62,6 +62,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
 - [2019 웹 트렌드 컨퍼런스](concepts/2019-웹-트렌드-컨퍼런스.md) — 더즈인터랙티브의 한화 금융 브랜드 'LifePlus' 웹사이트 기획 사례로 본 7가지 웹 기획 전략(Life as a Service·Bold Typography·Broken-Grid Layout 등)
+- [UXCamp Seoul 2010 세미나 리뷰](concepts/UXCamp-Seoul-2010-세미나-리뷰.md) — 2010년 서울대에서 열린 UXcampSeoul 바캠프 후기, pxd 한상택의 "Problem Driven Goal Directed Design, 아이폰 웹어플 리디자인" 발표
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
 - [UXCamp Seoul 2012 세미나 리뷰](concepts/UXCamp-Seoul-2012-세미나-리뷰.md) — 2012년 KGIT에서 열린 UXCamp Seoul 4th 후기: 마술과 UX 접목(노병욱), 수평적 사고 기반 목표 설정(정기원), Auditory UI 4요소·촉각/청각 피드백 연구, 반응카드법 기반 감성 평가
 - [UXCamp Seoul 2014 세미나 리뷰](concepts/UXCamp-Seoul-2014-세미나-리뷰.md) — 2014년 서울크리에이티브랩 'behind the curtain' 주제로 열린 UXCamp Seoul 5th 후기: 레고 매뉴얼 디테일과 UX 글쓰기 팁(우상훈), 커뮤니티 디자인, Assistor PS 도구, 모바일 브로셔 시장
@@ -159,6 +160,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [피라미드 원칙과 논리적 글쓰기](concepts/피라미드-원칙과-논리적-글쓰기.md) — 바바라 민토 『논리의 기술』의 피라미드 원칙: 수직적·수평적 관계, 연역·귀납 추론, MECE 원칙 기반 논리적 글쓰기 구조화 기법
 - [에디터 직업론과 콘텐츠 큐레이션](concepts/에디터-직업론과-콘텐츠-큐레이션.md) — 좋아하는 것으로부터 좋은 것을 골라내는 에디터의 본질, 3I 원칙(Inform·Inspire·Entertain)과 팀워크·소명의식
 - [온라인 리치텍스트 에디터](concepts/온라인-리치텍스트-에디터.md) — Iframe·Markdown·Inline·Medium 4가지 온라인 에디터 유형과 글쓰기 집중·스타일 통일·WYSIWYG 완성도라는 변화의 세 동인
+- [온라인 주문 프로세스 UX](concepts/온라인-주문-프로세스-UX.md) — 피자 주문 과정을 순서도로 분석해 메뉴 미결정 상태의 과도한 옵션이 결정을 방해하는 지점을 짚은 2010년 초기 UX 사례
 - [에버노트 사진찍기 기능](concepts/에버노트-사진찍기-기능.md) — 사진·문서·POST-IT 3대 모드로 아날로그 메모·화이트보드를 매체별 스캔 알고리즘으로 디지털화하는 에버노트 기능
 - [적정기술과 사회적 디자인](concepts/적정기술과-사회적-디자인.md) — 스타일링이 아닌 서비스·시스템으로서의 디자인이 적정기술을 '적정'하게 완성한다: 인간 중심 맥락 이해와 다학제적 통합조정자로서의 디자이너
 - [레고 활용 UX 워크숍 기법](concepts/레고-활용-UX-워크숍-기법.md) — 아이디어 실체화·공동 스토리텔링·놀이화를 돕는 레고, LEGO Serious Play 4단계 프로세스와 pxd 신입사원 팀빌딩 적용 사례

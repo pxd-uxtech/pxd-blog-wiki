@@ -28,6 +28,7 @@ updated: "2026-07-24"
 - [[CHI 2015 학회와 HCI 연구 트렌드]] — 4년 뒤 CHI 2015의 "Sketching User Experiences" 워크숍(local/global maxima)과 비교되는 초기 스케치 UX 논의
 - [[사용성 비교 평가]] — 경쟁 제품을 나란히 두고 비교하는 최신 실무 방법론과, 이 세미나의 iPad·갤럭시탭·종이책 비교 연구가 같은 문제의식을 공유
 - [[웹 접근성과 WAI-ARIA]] — 이 세미나의 장애인 사용자 경험 논의(ALT, 스킵 네비게이션)가 이후 WAI-ARIA 같은 기술 표준으로 구체화됨
+- [[UXCamp Seoul 2010 세미나 리뷰]] — 1년 전 열린 이전 회차, pxd 한상택의 발표 소식
 - [[UXCamp Seoul 2012 세미나 리뷰]] — 1년 뒤 열린 4th 회차 후기
 - [[UXCamp Seoul 2014 세미나 리뷰]] — 3년 뒤 열린 5th 회차 후기
 
