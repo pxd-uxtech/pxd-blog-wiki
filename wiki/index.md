@@ -59,6 +59,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX 현지화 전략](concepts/UX-현지화-전략.md) — 글로벌 서비스를 위한 현지화(L10N)와 국제화(I18N) 전략, 맥락·기술·언어·법규 네 가지 고려 영역
 - [Future Conference 2018과 UX 디자이너의 역할](concepts/Future-Conference-2018과-UX-디자이너의-역할.md) — Addy Lee(구글)의 파트너십 3원칙, 최지호(네이버 웨일)의 조사 없는 UX 디자인과 '파급력 우선' 전환, Jason Kim(인스타그램)의 미션 기반 Discover-Design-Deliver 프로세스
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
+- [IDG Business Impact & Big Data 컨퍼런스](concepts/IDG-Business-Impact-Big-Data-컨퍼런스.md) — 이마트 오미현의 우수고객 관리→마이크로 트렌드 CRM 전환 사례와 넷플릭스 조슈아 팍스의 실시청 데이터 기반 개인화 추천·포스터 알고리즘
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
 - [2019 웹 트렌드 컨퍼런스](concepts/2019-웹-트렌드-컨퍼런스.md) — 더즈인터랙티브의 한화 금융 브랜드 'LifePlus' 웹사이트 기획 사례로 본 7가지 웹 기획 전략(Life as a Service·Bold Typography·Broken-Grid Layout 등)
@@ -179,6 +180,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [스팀펑크 디자인 미학](concepts/스팀펑크-디자인-미학.md) — 19세기 증기 기관 시대의 기계 미학이 SF·영화·게임·제품 디자인·GUI에 적용된 레트로퓨처리즘 양식
 - [일러스트레이션 패브릭 소품 제작](concepts/일러스트레이션-패브릭-소품-제작.md) — 디지털 프린팅으로 일러스트를 패브릭에 옮겨 월행잉→캔버스 액자→파우치→인형 순으로 시행착오를 거친 사이드 프로젝트 사례
 - [제품 디자인 사례 — 그림자 파라솔](concepts/제품-디자인-사례-그림자-파라솔.md) — 감온변색 안료로 나무 그늘의 일렁이는 질감을 재현하는 파라솔 컨셉, 일상 관찰에서 출발한 pxd 다이어리 아이디어 스케치
+- [제품 디자인 사례 — 보이스 몽타주](concepts/제품-디자인-사례-보이스-몽타주.md) — 범죄수사의 음성 몽타주 분석 관행에서 착안, 통화·녹음 목소리를 분석해 얼굴을 자동 생성하는 pxd '소소한 이야기' 아이디어 스케치
 - [제품 디자인 사례 — iMac 스탠드](concepts/제품-디자인-사례-iMac-스탠드.md) — 거북목 방지를 위한 개인적 불편에서 출발해 상용 스탠드 구매, 이후 '거울 반사' 컨셉 iMagic Stand로 아이디에이션이 확장된 pxd 다이어리 사례
 - [제품 디자인 사례 — Money Printed Tissue](concepts/제품-디자인-사례-Money-Printed-Tissue.md) — 집들이 선물 화장지에 지폐 도안을 인쇄한 서류가방·사과 상자 모양 곽티슈 컨셉, 일상 관찰에서 출발한 pxd 다이어리 아이디어 스케치
 - [제품 디자인 사례 — pxd 달력카드](concepts/제품-디자인-사례-pxd-달력카드.md) — 1년 전체를 한 장에 담아 지난 날도 계속 조망하게 하는 pxd GUX Design Center의 2013년 탁상 달력 카드, 음각 가이드선·목표 체크 공간·자석 받침대 거치 구조로 완성한 소량 제작 굿즈 사례
