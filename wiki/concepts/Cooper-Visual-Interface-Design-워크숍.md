@@ -26,6 +26,7 @@ updated: "2026-08-17"
 - [[서비스 디자인 씽킹]] — Cooper가 2018년 진행한 Service Design Immersive 워크숍(Discover-Describe-Determine-Develop-Deliver) 참가 후기와 짝을 이루는 사례
 - [[데이터 기반 퍼소나]] — pxd가 2002년부터 도입한 Alan Cooper의 퍼소나 방법론, 이재용 대표의 Cooper 교육 수료 인연이 연결됨
 - [[해외 UX 컨퍼런스 큐레이션]] — pxd 구성원들이 참가한 해외 UX 교육·컨퍼런스 후기 시리즈
+- [[UI17 컨퍼런스와 회의 퍼실리테이션 기법]] — pxd 구성원이 참가한 또 다른 해외 UX 워크숍 후기
 
 ## 출처
 - [[해외교육]2014 Cooper U's Visual Interface Design Practicum](https://story.pxd.co.kr/1003) — 2015-02-09, 알 수 없는 사용자

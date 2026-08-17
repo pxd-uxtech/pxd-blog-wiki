@@ -65,6 +65,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
+- [UI17 컨퍼런스와 회의 퍼실리테이션 기법](concepts/UI17-컨퍼런스와-회의-퍼실리테이션-기법.md) — 2012년 보스턴 UIE 주최 UI17 컨퍼런스 워크숍 후기: 퍼실리테이터·레코더·그룹 멤버·리더 4대 롤과 페차쿠차(PECHA KUCHA) 등 10개 회의 퍼실리테이션 기법
 - [Cooper Visual Interface Design 워크숍](concepts/Cooper-Visual-Interface-Design-워크숍.md) — 2014년 샌프란시스코 Cooper사 워크숍 후기: Research→Translate→Archetype→Document 4단계 Visual Interface Design Process와 Goal-directed Design의 근거·비전 확보 방식
 - [DTALKS 샌프란시스코 디자인 세미나](concepts/DTALKS-샌프란시스코-디자인-세미나.md) — 2015년 D.Camp 세미나: 우버식 목적 최적화 화면·Material Design 리소스 확산으로 본 샌프란시스코 디자인 트렌드, 한국-미국 디자이너 협업 문화 비교
 - [헤럴드 디자인 포럼 컨퍼런스](concepts/헤럴드-디자인-포럼-컨퍼런스.md) — 2012년 헤럴드 디자인 포럼 Day 1 후기: 안도 타다오·하라 켄야·오준식·장 샤오강 강연으로 본 아시아 디자인 정체성과 디자인의 사회적 책임
@@ -475,6 +476,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [MS KIN 폰과 SNS 특화 디바이스](concepts/MS-KIN-폰과-SNS-특화-디바이스.md) — 2010년 MS 첫 자체 브랜드 폰 KIN, 앱·확장성 대신 SNS 소통이라는 단일 컨셉에 기능을 집중시킨 니치 디바이스 설계 사례
 - [3D 프린팅 기술](concepts/3D-프린팅-기술.md) — FDM·SLA·SLS 방식의 3D 프린팅 기초, RepRap 오픈 소스와 제조 민주화
 - [3D 애니메이션과 렌더링 기술](concepts/3D-애니메이션과-렌더링-기술.md) — 빅 히어로 제작 비하인드: 하이페리온 렌더링 엔진과 소프트 로보틱스 기반 캐릭터 설계
+- [VR 산업 동향과 기술 트렌드](concepts/VR-산업-동향과-기술-트렌드.md) — 2016년 VR 미니컨퍼런스로 본 VC의 3대 우려(Confusing·Competing·Collaborating), 하드웨어·콘텐츠·모바일 모션트래킹 초기 단계 현황과 대형 플랫폼사 참여가 가를 표준화 변곡점
 - [USIM 보안](concepts/USIM-보안.md) — AKA 프로토콜 기반 USIM 인증 구조, SKT 해킹 사건으로 본 유심 보안 위협과 대응
 - [마켓 5.0과 디지털 전환](concepts/마켓5.0과-디지털-전환.md) — 필립 코틀러의 마켓 5.0 프레임워크와 나이키·넷플릭스·힐튼·아마존의 디지털 전환 전략
 - [건축과 융합적 인간](concepts/건축과-융합적-인간.md) — 김정후 박사 강연으로 본 융합(convergent)과 분화(divergent), 알도 로시·미스 반 데 로에·리트벨트·알바 알토·노먼 포스터의 건축 원리와 르네상스형 인간
