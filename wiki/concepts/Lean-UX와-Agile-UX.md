@@ -2,8 +2,8 @@
 type: concept
 domain: "UX 방법론"
 name: "Lean UX와 Agile UX"
-sources: ["/878", "/832", "/764", "/757", "/803", "/761", "/360", "/980", "/973"]
-updated: "2026-08-17"
+sources: ["/878", "/832", "/764", "/757", "/803", "/761", "/360", "/980", "/973", "/444"]
+updated: "2026-08-19"
 ---
 # Lean UX와 Agile UX
 
@@ -112,6 +112,7 @@ exelab의 김희선은 스타트업 성공 확률이 낮은 현실에서, 있으
 - [[사용자 중심 디자인]] — 2011년 Agile Persona 사례가 대응하고자 했던 전통적 UCD 접근, 같은 저자의 후속 글과도 이어짐
 - [[프로토타이핑 툴 비교]] — 2014 Lean UX 컨퍼런스의 린 프로토타이핑 세션에서 언급된 Origami·Framer 등 도구의 상세 비교
 - [[앱 개발 사례 — flur:Wallpaper]] — pxd LeanUX Lab이 실제로 Lean UX 프로세스를 온전히 따르지 못한 채 빠르게 출시를 강행한 실전 사례
+- [[2011 pxd talks 사내 강연 시리즈]] — pxd 내 Lean UX가 처음 소개된 2011년 pxd talks 04(Michael Shilman) 강연의 전체 맥락
 
 ## 출처
 - [[pxd talks 46] Lean UX & Agile UX :: 소개와 실제 적용사례](https://story.pxd.co.kr/878) — 2014-02-25, onsoo.jeong
@@ -123,3 +124,4 @@ exelab의 김희선은 스타트업 성공 확률이 낮은 현실에서, 있으
 - [Agile과 UCD (User Centered Design)](https://story.pxd.co.kr/360) — 2011-04-22, 이 재용
 - [Lean UX Conference 후기](https://story.pxd.co.kr/980) — 2014-12-04, 알 수 없는 사용자
 - [스타트업과 대기업을 위한 Lean UX 컨퍼런스](https://story.pxd.co.kr/973) — 2014-11-10, 이 재용
+- [2011 pxd talks 01-08](https://story.pxd.co.kr/444) — 2011-10-31, 알 수 없는 사용자
