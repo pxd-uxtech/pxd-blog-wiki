@@ -72,6 +72,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
 - [UI17 컨퍼런스와 회의 퍼실리테이션 기법](concepts/UI17-컨퍼런스와-회의-퍼실리테이션-기법.md) — 2012년 보스턴 UIE 주최 UI17 컨퍼런스 워크숍 후기: 퍼실리테이터·레코더·그룹 멤버·리더 4대 롤과 페차쿠차(PECHA KUCHA) 등 10개 회의 퍼실리테이션 기법
+- [CES 2013 컨퍼런스](concepts/CES-2013-컨퍼런스.md) — pxd 해외 교육 프로그램으로 참관한 2013 라스베가스 CES, LG·삼성 OLED/UHD TV 경쟁과 스마트홈 허브, 인텔 동작 인식, 토요타·아우디 무인자동차, 디지털 헬스 트렌드
 - [Cooper Visual Interface Design 워크숍](concepts/Cooper-Visual-Interface-Design-워크숍.md) — 2014년 샌프란시스코 Cooper사 워크숍 후기: Research→Translate→Archetype→Document 4단계 Visual Interface Design Process와 Goal-directed Design의 근거·비전 확보 방식
 - [DTALKS 샌프란시스코 디자인 세미나](concepts/DTALKS-샌프란시스코-디자인-세미나.md) — 2015년 D.Camp 세미나: 우버식 목적 최적화 화면·Material Design 리소스 확산으로 본 샌프란시스코 디자인 트렌드, 한국-미국 디자이너 협업 문화 비교
 - [헤럴드 디자인 포럼 컨퍼런스](concepts/헤럴드-디자인-포럼-컨퍼런스.md) — 2012년 헤럴드 디자인 포럼 Day 1 후기: 안도 타다오·하라 켄야·오준식·장 샤오강 강연으로 본 아시아 디자인 정체성과 디자인의 사회적 책임
@@ -94,6 +95,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [래피드 퍼소나 워크숍](concepts/래피드-퍼소나-워크숍.md) — 우선순위 도출과 Key flow 검증을 위해 반나절 만에 만드는 간이 퍼소나, 2013년 한국 인지과학 학술대회 User Modeling 워크샵 사례
 - [디자인 사고](concepts/디자인-사고.md) — IDEO의 팀 브라운이 체계화한 혁신 방법론
 - [디자인 스프린트](concepts/디자인-스프린트.md) — 구글의 협업 기반 문제해결 프레임워크: Understand-Define-Sketch-Decide-Prototype-Validate 6단계 프로세스와 원격 진행 시 유의점
+- [마인드스토밍 퍼실리테이션 기법](concepts/마인드스토밍-퍼실리테이션-기법.md) — 외부 퍼실리테이터 이유진의 2012 pxd talks 09 워크숍, Mind Opening→Storming→Sharing→Evaluation 4단계로 참여 분위기를 조성하는 기법, 워크숍 아이디어가 한강 월간회의·pxd 장터로 실현된 사례
 - [아이디에이션과 수평적 사고](concepts/아이디에이션과-수평적-사고.md) — 에드워드 드 보노의 수평적 사고와 무작위 단어·이미지 연상 기법을 활용한 창의적 아이디어 발상법
 - [디자인 의사결정 프레임워크](concepts/디자인-의사결정-프레임워크.md) — 목표(Goals)·인풋(Inputs)·계획(Plan) 3단계로 창조적 과정과 논리적 추론을 결합하는 팀 기반 의사결정 모델
 - [디자인 정보분류체계](concepts/디자인-정보분류체계.md) — 2011년 한국디자인학회 논문 기반 컨퍼런스 발표, 제품·시각·서비스·UX 등에 흩어진 디자인 지식을 다차원 구조형 분류법으로 통합하는 프레임워크
@@ -277,6 +279,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모바일 앱 설정 UI 패턴](concepts/모바일-앱-설정-UI-패턴.md) — iOS HIG의 settings/configuration options 구분과 "80% 니즈 집중" 원칙, pull-to-reveal 숨김 UI, 네이버·다음 지도 반례
 - [아이패드 UI 사용성](concepts/아이패드-UI-사용성.md) — Nielsen Norman Group의 2010년 초기 아이패드 사용성 테스트: 손가락 크기 맞춤 터치 존·공통 네비게이션 키 제안, '비즈니스 컴퓨터'에서 '레저 컴퓨터'로의 진단
 - [낙서 도구의 디지털화](concepts/낙서-도구의-디지털화.md) — 포스트잇·노트 등 아날로그 낙서 도구와 디지털 대응 제품(민트패드·라이브스크라이브·태블릿 PC) 비교로 본 확장성·즉흥성 vs 보관·공유 편의성 트레이드오프
+- [스타일러스 펜 필기 UX](concepts/스타일러스-펜-필기-UX.md) — 2010년 아이패드 출시 직후 Pogo Sketch·BOXWAVE·DAGI 3종 스타일러스 펜 비교, 팁 재질에 따른 필기감 차이와 팜 리젝션(손목 접촉 방지) 부재 문제
 - [모바일 웹 리디자인 사례 — 네이버 블로그](concepts/모바일-웹-리디자인-사례-네이버-블로그.md) — 아이패드 대응 네이버 블로그 리디자인으로 본 가독성(DPI 환산 오류)·이탈률(포고스티킹)·RSI 세 가지 모바일 웹 문제와 해법
 - [금융 앱 UX](concepts/금융-앱-UX.md) — 주식 초보자를 위한 MTS 재설계, 종목 탐색·구매·운용 3단계 UX 원칙
 - [IoT 제품 디자인](concepts/IoT-제품-디자인.md) — 모니터링-제어-최적화-자율화 4단계와 물리적 인터페이스 계승을 중심으로 한 IoT 제품 UX 설계 원칙
