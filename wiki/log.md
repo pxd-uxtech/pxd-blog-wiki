@@ -1,5 +1,12 @@
 # Wiki 작업 이력
 
+## [2026-08-21] ingest | [세미나] UX 심포지움 관련 블로깅 모음, [창의·인성교육 현장포럼] 창의 교육 Workshop 후기, HCI KOREA 2018 참관 후기 (3/3), [정보디자인] 하이브리드 이미지검색 데모, [해외교육] Interaction16 참관기
+- 생성: UX-심포지움-2010-세미나-리뷰 (/323 2010년 도널드 노먼·빌 벅스턴 방한 강연 후기를 모은 국내 UX 블로거 8인 큐레이션), Interaction16-컨퍼런스 (/1259 IxDA 주최 2016년 핀란드 헬싱키 컨퍼런스 참관기, 노키아 몰락 이후 스타트업 붐과 Aalto 대학 워크숍)
+- 업데이트: 아이디에이션과-수평적-사고 (+/944 2014년 여수 창의·인성교육 현장포럼 워크숍 — 스마트 여행가방/자전거, Seed idea→Blooming→Tomorrow TV News 3단계), 대한민국-HCI-UX-역사 (+/1297 HCI KOREA 2018 참관 후기 3편 — Cracker9/Zeplin/inVision 리뷰, 카카오뱅크 서비스 기획 사례), 디자인-가이드-문서-자동화-도구 (+/1297 Zeplin·inVision·Cracker9 렌더링 불일치·에셋 신뢰성 이슈), 정보-디자인-원칙 (+/464 네이버 하이브리드 이미지검색 실제 구현 데모 — 썸네일+미리보기, 타일 배치, 오토 페이징)
+- 크로스레퍼런스: UXCamp-Seoul-2010/2011-세미나-리뷰·대한민국-HCI-UX-역사(UX-심포지움), 디자이너-개발자-협업·금융-앱-UX·썸네일-리스트-UI-패턴·해외-UX-컨퍼런스-큐레이션·UI17-컨퍼런스와-회의-퍼실리테이션-기법·Euro-IA-2013-해외연수와-OBA-도서관(Interaction16)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (5건 모두 200, 403·미러 불필요)
+- 총 개념 페이지: 509개 (신규 2개 추가)
+
 ## [2026-08-21] ingest | WebTV Design Guide, 2020 UX STRAT: East + West = Strategic Design #1, User-research-driven mobile user interface innovation: a success story from Seoul, 스타트업 생존을 위한 UX 인터뷰 & 퍼소나 강좌 런칭, [스마트 디바이스와 서비스] Nike+ : Goal Management Service
 - 생성: UX-STRAT-2020-컨퍼런스 (/1561 pxd 후원 첫 아시아 온라인 컨퍼런스 "East + West = Strategic Design" — 인스타그램 이노베이션 랩의 5단계 혁신 프레임워크), 서비스-디자인-사례-나이키플러스 (/494 GPS 러닝 데이터 서비스 Nike+를 목표 관리·데이터 관리·커뮤니티 3요소 결합의 Goal Management Service로 규정한 pxd 분석)
 - 업데이트: UI-가이드라인 (+/968 WebTV — 1999년 최초의 TV UI/GUI 디자인 가이드), 사용자-연구-사례-mMessenger (+/21 mMessenger 사용자 연구 2010년 원본 공지, 해외 UX 커뮤니티 Task Flo.ws·UIE 반응 추가), UX-온라인-강의-플랫폼 (+/1078 SURVIVAL UX 툴킷 1차 런칭 공지 — 8개 워크샵 템플릿, 학생할인가·초기 인증 절차), 디자인-스프린트·인스타그램-디자인-프로세스·게이미피케이션·훅-모델과-습관-형성-디자인 (신규 개념 크로스레퍼런스 추가)

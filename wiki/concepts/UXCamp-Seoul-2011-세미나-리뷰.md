@@ -31,6 +31,7 @@ updated: "2026-07-24"
 - [[UXCamp Seoul 2010 세미나 리뷰]] — 1년 전 열린 이전 회차, pxd 한상택의 발표 소식
 - [[UXCamp Seoul 2012 세미나 리뷰]] — 1년 뒤 열린 4th 회차 후기
 - [[UXCamp Seoul 2014 세미나 리뷰]] — 3년 뒤 열린 5th 회차 후기
+- [[UX 심포지움 2010 세미나 리뷰]] — 3개월 앞서 열린 도널드 노먼·빌 벅스턴 강연 행사, 이 세미나에서도 벅스턴의 『Sketch User Experience』가 다뤄짐
 
 ## 출처
 - [[세미나] uxcamp seoul 2011을 다녀와서](https://story.pxd.co.kr/343) — 2011-02-28, 위승용 uxdragon

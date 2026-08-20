@@ -21,6 +21,7 @@ updated: "2026-08-18"
 - [[UXCamp Seoul 2011 세미나 리뷰]] — 1년 뒤 열린 다음 회차 참관 후기
 - [[Cooper Visual Interface Design 워크숍]] — 2014년 pxd가 정식 수강한 Cooper의 Goal-Directed Design 워크숍
 - [[대한민국 HCI UX 역사]] — 한상택 등 pxd 구성원의 국내 UX 커뮤니티·학회 발표 흐름 속 위치
+- [[UX 심포지움 2010 세미나 리뷰]] — 같은 해 열린 또 다른 국내 UX 커뮤니티 행사(도널드 노먼·빌 벅스턴 강연) 블로깅 모음
 
 ## 출처
 - [[세미나] UXcampseoul PXD 발표자료](https://story.pxd.co.kr/28) — 2010-03-17, 위승용 uxdragon

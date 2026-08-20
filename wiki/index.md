@@ -60,9 +60,11 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2018과 UX 디자이너의 역할](concepts/Future-Conference-2018과-UX-디자이너의-역할.md) — Addy Lee(구글)의 파트너십 3원칙, 최지호(네이버 웨일)의 조사 없는 UX 디자인과 '파급력 우선' 전환, Jason Kim(인스타그램)의 미션 기반 Discover-Design-Deliver 프로세스
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [IDG Business Impact & Big Data 컨퍼런스](concepts/IDG-Business-Impact-Big-Data-컨퍼런스.md) — 이마트 오미현의 우수고객 관리→마이크로 트렌드 CRM 전환 사례와 넷플릭스 조슈아 팍스의 실시청 데이터 기반 개인화 추천·포스터 알고리즘
+- [Interaction16 컨퍼런스](concepts/Interaction16-컨퍼런스.md) — IxDA 주최 2016년 핀란드 헬싱키 컨퍼런스 참관기, 노키아 몰락 이후 스타트업 붐이 인 핀란드 IT 배경과 Aalto 대학 워크숍 프로그램
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
 - [2019 웹 트렌드 컨퍼런스](concepts/2019-웹-트렌드-컨퍼런스.md) — 더즈인터랙티브의 한화 금융 브랜드 'LifePlus' 웹사이트 기획 사례로 본 7가지 웹 기획 전략(Life as a Service·Bold Typography·Broken-Grid Layout 등)
+- [UX 심포지움 2010 세미나 리뷰](concepts/UX-심포지움-2010-세미나-리뷰.md) — 2010년 도널드 노먼·빌 벅스턴 방한 강연을 다룬 국내 UX 블로거 8인의 후기를 모은 pxd story 큐레이션, asteray의 "Definition·Theme·Insight" 3축 정리
 - [UXCamp Seoul 2010 세미나 리뷰](concepts/UXCamp-Seoul-2010-세미나-리뷰.md) — 2010년 서울대에서 열린 UXcampSeoul 바캠프 후기, pxd 한상택의 "Problem Driven Goal Directed Design, 아이폰 웹어플 리디자인" 발표
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
 - [UXCamp Seoul 2012 세미나 리뷰](concepts/UXCamp-Seoul-2012-세미나-리뷰.md) — 2012년 KGIT에서 열린 UXCamp Seoul 4th 후기: 마술과 UX 접목(노병욱), 수평적 사고 기반 목표 설정(정기원), Auditory UI 4요소·촉각/청각 피드백 연구, 반응카드법 기반 감성 평가
