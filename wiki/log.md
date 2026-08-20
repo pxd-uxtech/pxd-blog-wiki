@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-21] ingest | [pxd webtoon] 4화 : 인턴들의 수요미식회, [NILE] NEITH Covenant — NFT에 담긴 네이트의 약속, [독후감] 스케치, 지식 포트폴리오, [독후감] The Leader's Guide by Eric Ries
+- 생성: 지식-포트폴리오 (/1638 『실용주의 프로그래머』의 지식 포트폴리오 개념 — 소진하는 자산·웹-년·다각화 등 관리 5원칙과 검색 결과에 대한 비판적 사고)
+- 업데이트: pxd-블로그-운영 (+/1235 pxd 웹툰 4화 인턴들의 수요미식회), 블록체인-UX-웹3 (+/1734 NEITH Covenant — NEITH NFT 심볼 조건·NEITH Altar/Vault 역할 구분), 프로토타이핑-툴-비교 (+/1252 스케치 독후감 — 2010년 스케치 출시 배경과 Craft·Zeplin.io 등 주변 생태계), 린-스타트업과-피벗 (+/1183 The Leader's Guide 독후감 — 킥스타터 MVP로 펀딩된 책 자체의 메타적 사례, MVP와 프로토타입의 근본적 차이), UX-엔지니어-직무와-XE-그룹·디자인-가이드-문서-자동화-도구 (신규/업데이트 개념 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (5건 모두 200, 403·미러 불필요)
+- 총 개념 페이지: 513개 (신규 1개 추가)
+
 ## [2026-08-21] ingest | 새해 복 많이 받으세요. 설날카드, pxd배 Wii Sports, 디지털 R&D 에이전시 Kwamecorp의 pxd방문, TAT-the astonishing tribe, 글로벌 에이전시에서 각자의 노하우를 공유하는 시간, know-how Friday
 - 생성: 앱-개발-사례-설날카드 (/640 Probetyping Labs의 얼굴인식 기반 설날카드 앱 개발기, 실패한 크리스마스 프로모션 인사이트에서 출발한 MVP 스핀오프 사례)
 - 업데이트: pxd-Wii-스포츠대회와-사내-친목-문화 (+/196 제1회 2010년 대회), 디자인-에이전시와-인하우스-디자인 (+/94 TAT 2010년 UI 프로토타입 데모, +/772 Kwamecorp CEO 방문·VOID Design 철학·무제한 휴가 문화), UX-얼라이언스-글로벌-네트워크 (+/1530 Know-how Friday, symetria 봇 기반 설문 사례), Lean-UX와-Agile-UX·앱-개발-사례-flur-Wallpaper·앱-개발-사례-Bucket-Labs-Phoster·해외-대학생-pxd-방문-교류·챗봇-UX-설계 (신규/업데이트 개념 크로스레퍼런스 추가)
