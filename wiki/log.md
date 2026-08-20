@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-21] ingest | 새해 복 많이 받으세요. 설날카드, pxd배 Wii Sports, 디지털 R&D 에이전시 Kwamecorp의 pxd방문, TAT-the astonishing tribe, 글로벌 에이전시에서 각자의 노하우를 공유하는 시간, know-how Friday
+- 생성: 앱-개발-사례-설날카드 (/640 Probetyping Labs의 얼굴인식 기반 설날카드 앱 개발기, 실패한 크리스마스 프로모션 인사이트에서 출발한 MVP 스핀오프 사례)
+- 업데이트: pxd-Wii-스포츠대회와-사내-친목-문화 (+/196 제1회 2010년 대회), 디자인-에이전시와-인하우스-디자인 (+/94 TAT 2010년 UI 프로토타입 데모, +/772 Kwamecorp CEO 방문·VOID Design 철학·무제한 휴가 문화), UX-얼라이언스-글로벌-네트워크 (+/1530 Know-how Friday, symetria 봇 기반 설문 사례), Lean-UX와-Agile-UX·앱-개발-사례-flur-Wallpaper·앱-개발-사례-Bucket-Labs-Phoster·해외-대학생-pxd-방문-교류·챗봇-UX-설계 (신규/업데이트 개념 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가로 story.pxd.co.kr 직접 fetch 우회
+- 총 개념 페이지: 511개 (신규 1개 추가)
+
 ## [2026-08-21] ingest | UX가 그로스 해킹을 완전하게 한다, pxd Weekly Desk Scheduler v.1.618 제작, [Award] 2011 pxd 팀블로그 어워드, [2012 pxd talks 12] 현실과 상상의 경계 :: 이수지 작가의 그림책 이야기, [pxd webtoon] 3화 : pxd파트모임
 - 생성: 없음 (다섯 글 모두 기존 개념과 강하게 연결되어 병합 처리)
 - 업데이트: 그로스-해킹과-데이터-드리븐-조직문화 (+/1100 서하연-이재용의 그로스 해킹 이메일 교환, Step 1/데이터 분석·Step 2/UX 구분), 제품-디자인-사례-pxd-스케줄러 (+/866 황금비 버전명 v.1.618 리뉴얼, 휴대성 개선·pxd 종이 달력 통합), pxd-블로그-운영 (+/455 2011 팀블로그 어워드 — 투표형 연말 결산의 원형, +/1234 웹툰 3화 pxd파트모임), 그림책-디자인과-시각-스토리텔링 (+/600 2012년 이수지 작가 강연 — 경계 3부작과 그림책 앱 비판)

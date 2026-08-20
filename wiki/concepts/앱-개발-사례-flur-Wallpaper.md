@@ -28,6 +28,7 @@ flur 개발기는 이론적으로 지향하는 **Lean UX 프로세스**(가정�
 - [[Lean UX와 Agile UX]] — 이론적 Lean UX 프로세스와 실제 빠른 출시 압박 속에서 벌어지는 괴리를 보여주는 실전 사례
 - [[앱 개발 사례 — Bucket Labs Phoster]] — 소수 인력이 빠른 프로토타이핑으로 앱을 완성해 앱스토어에 출시한 유사한 소규모 팀 개발 사례
 - [[린 스타트업과 피벗]] — MVP를 통한 빠른 검증과 반복이라는 공통된 접근
+- [[앱 개발 사례 설날카드]] — 같은 계열의 pxd 내부 랩(Probetyping Labs)이 짧은 기간 안에 MVP를 만들어 빠르게 출시한 유사한 사례
 
 ## 출처
 - [iOS7을 닮은 Wallpaper앱. flur:Wallpaper for iOS7](https://story.pxd.co.kr/872) — 2014-02-19, 알 수 없는 사용자

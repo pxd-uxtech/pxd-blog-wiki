@@ -223,6 +223,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [아시아 배달앱과 팬데믹 대응](concepts/아시아-배달앱과-팬데믹-대응.md) — 고젝·스위기·쿠팡이츠의 코로나19 대응 비교: 자체 안전망 강화, Swiggy wallet 전면 디지털 결제 전환, 비대면 결제 기본값화, 위생 커뮤니케이션과 심리적 웰빙
 - [앱 개발 사례 — Bucket Labs Phoster](concepts/앱-개발-사례-Bucket-Labs-Phoster.md) — 포토+포스터 합성 앱 Phoster 개발기: 3인 소수팀 협업 구조와 빠른 프로토타이핑으로 해외 앱스토어 상위권에 오른 국내 앱 개발 성공 사례
 - [앱 개발 사례 — flur:Wallpaper](concepts/앱-개발-사례-flur-Wallpaper.md) — pxd LeanUX Lab이 Cloudia 이후 짧은 기간에 만든 배경화면 앱 flur:Wallpaper 개발기, Lean UX 이론과 실무의 괴리 및 Apple 앱 심사 리젝션 2회 경험
+- [앱 개발 사례 — 설날카드](concepts/앱-개발-사례-설날카드.md) — Probetyping Labs(현 Lean UX Lab 전신)의 얼굴인식 기반 설날카드 앱 개발기, 실패한 크리스마스 프로모션 인사이트에서 출발해 2~3주 만에 완성한 MVP 스핀오프 사례
 - [음악 스트리밍 앱 첫화면 UX](concepts/음악-스트리밍-앱-첫화면-UX.md) — 멜론·엠넷·벅스 2012년 첫 화면 비교로 본 Music Follower·Music Browser 두 퍼소나 기반 콘텐츠 우선순위 설계
 - [현재 재생목록 UX 패턴](concepts/현재-재생목록-UX-패턴.md) — 대체식(Replace) vs 축적식(History), 1Tap/2Tap 재생 방식에 따른 스트리밍 뮤직 플레이어의 현재 재생목록 생성 로직
 - [Spotify UX와 음악 추천 기술](concepts/Spotify-UX와-음악-추천-기술.md) — Collaborative Filtering·Taste Profile·1,387개 서브 장르로 구현한 스포티파이의 맥락 기반 개인화 UX
