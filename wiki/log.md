@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-21] ingest | [독후감]모바일 우선주의, [pxd talks 35] Emerging New Rule of Game in Design, UXMC 2021:Design for the Future, Design for All #1, Smartphone이란?, [UI15 스케치_첫번째] 컨텐츠 전략과 메시지 활용하기
+- 생성: 디자인-패러다임의-시대적-진화 (/792 이건표 교수의 pxd talks 35 — 전산업/산업화/정보화/드림소사이어티 4단계 디자인 패러다임과 Process 3.0·Empowerer 역할), 사용자-연구-사례-스마트폰-정의-인식조사 (/7 2009년 런던 사용자 대상 피처폰-스마트폰 차이 정성 조사), 콘텐츠-전략과-메시지-프레임워크 (/367 크리스티나 할버슨의 Substance/Structure/Workflow/Governance와 메인·부수적 메시지 프레임워크)
+- 업데이트: UI-패턴-원칙-도서 (+/950 이재용의 『모바일 우선주의』 독후감 — 터치 타깃 크기 논쟁과 라벨 vs 플레이스홀더 논쟁), 유니버셜-디자인 (+/1601 UXMC 2021 #1 — Namahn의 정부 서비스용 인클루시브 디자인 리서치 프레임)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (5건 모두 200, 403·미러 불필요)
+- 총 개념 페이지: 515개 (신규 3개 추가)
+
 ## [2026-08-21] ingest | [pxd webtoon] 4화 : 인턴들의 수요미식회, [NILE] NEITH Covenant — NFT에 담긴 네이트의 약속, [독후감] 스케치, 지식 포트폴리오, [독후감] The Leader's Guide by Eric Ries
 - 생성: 지식-포트폴리오 (/1638 『실용주의 프로그래머』의 지식 포트폴리오 개념 — 소진하는 자산·웹-년·다각화 등 관리 5원칙과 검색 결과에 대한 비판적 사고)
 - 업데이트: pxd-블로그-운영 (+/1235 pxd 웹툰 4화 인턴들의 수요미식회), 블록체인-UX-웹3 (+/1734 NEITH Covenant — NEITH NFT 심볼 조건·NEITH Altar/Vault 역할 구분), 프로토타이핑-툴-비교 (+/1252 스케치 독후감 — 2010년 스케치 출시 배경과 Craft·Zeplin.io 등 주변 생태계), 린-스타트업과-피벗 (+/1183 The Leader's Guide 독후감 — 킥스타터 MVP로 펀딩된 책 자체의 메타적 사례, MVP와 프로토타입의 근본적 차이), UX-엔지니어-직무와-XE-그룹·디자인-가이드-문서-자동화-도구 (신규/업데이트 개념 크로스레퍼런스 추가)
