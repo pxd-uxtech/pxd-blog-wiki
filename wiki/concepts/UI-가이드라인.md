@@ -2,8 +2,8 @@
 type: concept
 domain: "디자인 시스템"
 name: "UI 가이드라인"
-sources: ["/1063", "/684", "/400", "/426", "/162", "/992", "/469"]
-updated: "2026-08-10"
+sources: ["/1063", "/684", "/400", "/426", "/162", "/992", "/469", "/408"]
+updated: "2026-08-21"
 ---
 # UI 가이드라인
 
@@ -43,6 +43,18 @@ updated: "2026-08-10"
 
 **2011년판**은 트랙패드 제스처(핀치, Three-finger Swipe, Four-finger Swipe 등)를 사용자 입력 범주로 추가한 것이 특징이다. Apple HIG는 단순한 운영체제 규칙집을 넘어, 당대 UI 이론서가 부족했던 시절 **실무 교과서** 역할을 했으며, 오늘날에도 Mac/iOS에서 개발하지 않는 디자이너에게도 일독을 권하는 문헌이다.
 
+**Windows User Experience Guidelines의 역사**: 이재용이 Apple HIG에 이어 정리한 시리즈 2부다. Windows 1.0(1985년 11월)과 2.0(1987년 12월)은 널리 쓰이지 못했고, 3.0(1990)과 3.1(1992년 3월)에 이르러서야 첫 성공을 거뒀다. 마이크로소프트는 이 흐름을 따라 총 5차례에 걸쳐 가이드라인 문헌을 갱신했다.
+
+**Windows 3.1: The Windows Interface: An Application Design Guide**(Microsoft programming series, 1987년 초판, pxd 도서관은 1992년 4월판 소장)는 **User Control, Directness, Consistency, Clarity, Aesthetics, Feedback, Forgiveness, Awareness of Human Strengths and Limitations** 8가지 원칙을 제시했다. p136에서는 'OK'와 'Cancel' 버튼의 배치 순서와, 다이얼로그 맨 끝에 'Help' 버튼을 두는 이유를 한 페이지 분량으로 설명한다.
+
+**Windows 95: The Windows Interface Guidelines for Software Design**(1994년 1월 2판, pxd 도서관은 1995년판 소장)는 OLE 도입과 함께 **'application-centered'에서 'data-centered interface'**로의 전환을 강조하며, 프로그램을 만드는 개발자·디자이너에게 자신의 제품을 다시 생각해보라고 권고했다. 원칙은 7가지(User in Control, Directness, Consistency, Forgiveness, Feedback, Aesthetics, Simplicity)로 줄었다 — Clarity가 Simplicity로 대체되고, 지나치게 포괄적이었던 Awareness of Human Strengths and Limitations는 삭제됐다.
+
+**Windows 98 & 2000: Microsoft Windows User Experience**(Microsoft Professional Editions, 1999년 10월 출판, pxd 도서관 소장)는 제목에 처음으로 **'User Experience'**라는 표현을 사용한 가이드라인이다 — 애플 HIG 표지에 'User Experience'가 등장한 2008년보다 9년 앞선다. 원칙은 앞선 7개를 그대로 유지했다.
+
+**Windows Me·XP·Vista**: 이후 별도의 단행본 출판은 중단됐다. Windows User Experience Guidelines for Windows XP and Windows 2000(2007년판, 실제 내용은 2006년 출시된 Vista에 맞춰짐)과, 정식 출시 전 사전 배포한 Windows Vista UX Guide(2006년 12월 최종 수정)로 이어졌다. Windows Me(2000년 9월)·XP(2001년)·Vista(2006년 11월) 순으로 출시됐다.
+
+**Windows 7: Windows User Experience Interaction Guidelines (UX Guide) for Windows 7 and Windows Vista**는 2009년 7월 출시된 Windows 7과 함께 지속적으로 개정되는 온라인 문서(MSDN)로 정착해, 더 이상 특정 시점의 '판본'으로 고정되지 않았다. 이재용은 가이드라인 본문뿐 아니라 제작 과정과 Design Principle을 다룬 공식 소개 비디오를 함께 볼 것을 권했는데, 비스타 시절의 혹평을 딛고 이뤄낸 질적 도약이 이 비디오에 잘 드러난다고 평가했다.
+
 **왜 어떤 가이드라인은 실패하는가**: 이재용은 Apple HIG·Windows·ISO 표준을 다룬 3부작에 이어, Jakob Nielsen 10 Heuristics부터 Apple Mac OS·Windows 2000·SKT NATE·KTF·Google·Facebook·네이버·현대카드에 이르는 다양한 회사의 디자인 원칙을 비교했다. 표현만 다를 뿐 대부분 **닐슨의 휴리스틱을 순서만 바꿔 재구성**한 것에 가까워, 독자들이 무시하기 쉬운 뻔한 철학으로 남는다는 것이 문제다. UIE의 **Jared Spool**은 이런 통념과 달리 Windows 7 가이드라인을 차별화된 사례로 꼽으며, 위대한 가이드라인의 조건으로 "연구에서 직접 추출됐는가", "대부분의 경우 '아니다'라고 판단할 근거를 주는가", "경쟁자와 차별화되는가", "나중에 반대로도 적용할 수 있는가", "현재 프로젝트로 평가 가능한가", "지속적으로 의미를 검증하는가" 6가지를 제시했다.
 
 가이드라인의 성패를 가르는 것은 원칙의 문구가 아니라 **권위 — 절차적 정당성에 근거한 영향력**이다. 흔히 UI 전담팀이 외부 가이드라인을 짜깁기한 뒤 임원을 설득해 권력으로 밀어붙이는 방식(특히 한국에서는 실무 경험 없는 대학원생이 초안을 만들고 교수가 검증하는 방식)으로 만들어지는데, 이런 가이드라인은 현업의 반발을 시늉으로만 무마시키고 임원 교체와 함께 소멸한다. 성공하는 가이드라인은 세 가지 조건을 갖춘다. 첫째, **구성원의 합의와 반복된 협업·토론을 통해 직접 쓴 철학**이어야 한다(Nokia는 표준 문서 작성을 최대한 미루다가, 같은 질문에 반복 답하게 되자 시니어 디자이너들이 원칙을 정리한 사례). 둘째, **실무 경력자가 실패 사례로부터 정밀하게 좁힌 원칙**이어야 한다(Windows 7 가이드라인은 비스타 실패를 리서치해 도출됨). 셋째, **성공 사례를 먼저 만들고 그 결과물을 통해 영향력을 전파**해야 한다 — 사람들은 가이드라인의 말이 아니라 출시된 제품의 행동을 따라 배우기 때문이다.
@@ -58,6 +70,8 @@ updated: "2026-08-10"
 - 가이드라인은 디자인 결정의 **설득 도구**로도 활용 가능
 - 가장 효과적 학습은 **실제 프로젝트에서 가이드라인을 작성**해보는 것
 - Apple HIG는 가이드라인 자체에 브랜드 정체성을 담은 대표 사례
+- **Windows UX 가이드라인**은 총 5차례 갱신됐다(3.1→95→98·2000→XP·Vista→7). 디자인 원칙은 8개(Windows 3.1)에서 7개(Windows 95 이후)로 줄었고, **Microsoft Windows User Experience**(1999)는 제목에 'User Experience'를 쓴 최초의 가이드라인으로 Apple HIG(2008)보다 9년 앞섬
+- Windows 7부터는 단행본 출판 대신 **MSDN 온라인 문서**로 지속 개정되는 방식으로 전환됨
 - 2010년 안드로이드 개발자 사이트 UI Guidelines는 Icon/Widget/Activity-Task/Menu 4섹션으로 구성, 그중 Activity and Task Design Guidelines는 'Activity' 단위 자체를 규정
 - 2011년 구글이 안드로이드 4.0(ICS) 출시에 맞춰 공개한 **Android Design**은 Style·Patterns·Building Blocks 3영역으로 재구성된 정식 통합 가이드로, 이후 정기 업데이트되는 공식 표준 문서로 자리잡음
 - **UI 패턴**: 반복되는 디자인 문제에 대한 검증된 해결 방안으로, 웹사이트·라이브러리 형태로 정리된 참고 리소스가 다수 존재
@@ -82,6 +96,7 @@ updated: "2026-08-10"
 - [신입 UI 디자이너를 위한 'UI 가이드라인 바로 배우기' 지침서](https://story.pxd.co.kr/1063) — UX 가벼운 이야기
 - [UI 패턴을 다룬 웹사이트 모음](https://story.pxd.co.kr/684) — 2013-04-24, 위승용 uxdragon
 - [사용자의 80%만을 위해 디자인하라 - Apple Human Interface Guidelines의 역사](https://story.pxd.co.kr/400) — 2011-07-15, 이 재용
+- [마침내 혼란을 극복한 Windows 7 - Windows User Experience Interaction Guidelines의 역사](https://story.pxd.co.kr/408) — 2011-07-27, 이 재용
 - [왜 어떤 가이드라인은 실패하는가? - 말보다 행동이 중요하다](https://story.pxd.co.kr/426) — 2011-08-25, 이 재용
 - [안드로이드 UI/GUI 가이드라인](https://story.pxd.co.kr/162) — 2010-06-28, 전성진
 - [[HCI KOREA 2015 후기 1/2] 성공적인 스마트TV 표준 가이드라인 만들기 발표 후기](https://story.pxd.co.kr/992) — 2015-01-15, 알 수 없는 사용자
