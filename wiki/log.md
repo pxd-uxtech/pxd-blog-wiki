@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-08-21] ingest | [채용] pxd UI Lab 2013년 상반기 채용 안내입니다, WACOM inkling 과연 얼마나 효과적일까?, IE9이 구글과 애플에서 좀 더 배워야할 UX, 스타트업을 위한 온라인 UX강좌를 소개합니다, [pxd talks 59] UX designer's responsibility in Silicon Valley
+- 생성: 브라우저-UI-셸-디자인 (/270 IE9 리뷰 — Simplicity vs Space Efficiency·Round Rects·"Let there be light" 등 브라우저 크롬 UI 디테일 설계 비평)
+- 업데이트: pxd-채용-프로세스 (+/603 2013년 상반기 pxd UI Lab 채용 공고 — 프로젝트 단위 유동 배치, 비디자인 전공자 환영), 낙서-도구의-디지털화 (+/463 WACOM inkling — 아날로그 스케치 도구 디지털화 사례), UX-온라인-강의-플랫폼 (+/1076 "스타트업 생존을 위한 UX" 강좌 사전 예고 — pain point 조사와 강좌 매력 포인트), UX-디자이너-성장과-리더십 (+/1074 pxd talks 59 김나영 — 실리콘밸리 디자인 리더십, 최적의 디자인·자기 목소리·Ownership)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리
+
 ## [2026-08-21] ingest | 2013 HCI학회 프로그램북의 pxd 지면광고, [2012 pxd talks 02] 서비스 디자인 워크샵 후기, 아이유의 UI 홍보, grappic-앱디자인을 손쉽게 확인하기, 웹브라우저 메타포
 - 생성: 앱-디자인-레퍼런스-큐레이션-도구 (/691 위트스튜디오 grappic — 유저 투표 기반 앱 GUI 크라우드소싱 큐레이션, Pic Board·Street·My Pic 3화면 구조)
 - 업데이트: 대한민국-HCI-UX-역사 (+/637 2013 HCI학회 프로그램북 pxd 지면광고 — 후원사 참여 사례), 디자인-컨설팅-프로세스 (+/467 2012 pxd talks 02 겨울 워크숍 — 더블 다이아몬드 실습 초기 사례), UX와-UI의-차이 (+/348 "아이유의 UI 홍보" — "UI" 용어의 대중적 확산), UI와-디바이스-역사 (+/50 웹 브라우저 메타포), 2011-pxd-talks-사내-강연-시리즈·레고-활용-UX-워크숍-기법·Closed-API와-Augmented-Browsing·인터랙션-패턴-라이브러리·패널-해상도-표준과-디자인-리소스-큐레이션 (신규/업데이트 개념 크로스레퍼런스 추가)
