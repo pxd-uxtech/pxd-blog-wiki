@@ -69,6 +69,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UXCamp Seoul 2014 세미나 리뷰](concepts/UXCamp-Seoul-2014-세미나-리뷰.md) — 2014년 서울크리에이티브랩 'behind the curtain' 주제로 열린 UXCamp Seoul 5th 후기: 레고 매뉴얼 디테일과 UX 글쓰기 팁(우상훈), 커뮤니티 디자인, Assistor PS 도구, 모바일 브로셔 시장
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
+- [UX STRAT 2020 컨퍼런스](concepts/UX-STRAT-2020-컨퍼런스.md) — pxd 후원 첫 아시아 온라인 컨퍼런스 "East + West = Strategic Design", 인스타그램 이노베이션 랩의 5단계 혁신 프레임워크(Start where you are~Evolve with your community)
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
 - [UI17 컨퍼런스와 회의 퍼실리테이션 기법](concepts/UI17-컨퍼런스와-회의-퍼실리테이션-기법.md) — 2012년 보스턴 UIE 주최 UI17 컨퍼런스 워크숍 후기: 퍼실리테이터·레코더·그룹 멤버·리더 4대 롤과 페차쿠차(PECHA KUCHA) 등 10개 회의 퍼실리테이션 기법
@@ -205,6 +206,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모빌리티 서비스 유형과 MaaS](concepts/모빌리티-서비스-유형과-MaaS.md) — 이동 니즈 기반 여정 최적화 MaaS 개념과 차량 호출·공유·마이크로모빌리티·대중교통 4유형, 매칭형(우버·타다) vs 검색형(카플랫) 서비스 구분, Citymapper 사례
 - [무손실 음원 서비스 UX](concepts/무손실-음원-서비스-UX.md) — 하이레즈 음원 이용자 실태 조사로 본 서비스 학습 비용 문제, 음질 차이보다 '좋다고 하니 듣는' 동기와 경제·시간적 여유를 회복한 중장년층이라는 핵심 타깃
 - [서비스 디자인 사례 — JetBlue](concepts/서비스-디자인-사례-JetBlue.md) — 서비스 여정 전체 설계·언행일치 브랜딩·셀프 서비스+인적 지원 조합으로 고객만족 1위 달성한 JetBlue 사례
+- [서비스 디자인 사례 — 나이키플러스](concepts/서비스-디자인-사례-나이키플러스.md) — GPS 러닝 데이터 서비스 Nike+의 본질을 목표 관리·데이터 관리·커뮤니티 3요소 결합의 Goal Management Service로 규정한 pxd 분석
 - [서비스 디자인 사례 — 더담다](concepts/서비스-디자인-사례-더담다.md) — 말기암 환자·가족의 정서적 고립과 상호 부담을 교환일기 컨셉으로 해소한 서비스 디자인, 2014 Core77 Design Award Service 부문 Winner 수상
 - [서비스 디자인 사례 — 리니어블](concepts/서비스-디자인-사례-리니어블.md) — 비콘 기반 미아방지 웨어러블 밴드·앱, pxd와의 앱 2.0 리뉴얼 협업 사례
 - [서비스 디자인 사례 — 모두의 가드닝](concepts/서비스-디자인-사례-모두의-가드닝.md) — 서울시립대 인근 방치 화단을 학생과 주민이 함께 가꾸는 게릴라 가드닝 재해석 커뮤니티, 제공자-수혜자 동일 구조로 지속성을 노린 산학협력 서비스 디자인 사례

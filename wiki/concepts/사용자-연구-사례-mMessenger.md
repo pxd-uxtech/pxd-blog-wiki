@@ -2,8 +2,8 @@
 type: concept
 domain: "UX 방법론"
 name: "사용자 연구 사례 — mMessenger"
-sources: ["/610"]
-updated: "2026-07-13"
+sources: ["/610", "/21"]
+updated: "2026-08-21"
 ---
 # 사용자 연구 사례 — mMessenger
 
@@ -19,6 +19,8 @@ updated: "2026-07-13"
 
 **사업 전략** 역시 사용자 연구에서 도출됐다. 기존 MIM·MMS 서비스들은 사용자 기반이 충분히 쌓이기 전에 대규모 광고를 진행해, 초기 가입자가 대화할 상대를 찾지 못하고 실망해 이탈하는 악순환을 겪었다. pxd는 이 실패 패턴을 근거로 **critical mass(임계 사용자 수)가 확보되기 전까지 대규모 홍보를 하지 말 것**을 SK텔레콤에 조언했고, 2006년 정식 출시 이후 별다른 대규모 홍보 없이도 사용자가 꾸준히 증가했다. mMessenger UI는 2008 IDEA(Interactive Product Experience 분야)와 Global Messaging Award(User Experience 부문)에서 입상하며 국제적으로도 인정받았다.
 
+pxd는 2010년 이 사례가 **ACM interactions**에 게재된 직후, 원문(로그인 필요)에 앞서 초록만 볼 수 있는 링크를 소개하는 짧은 공지 글을 블로그에 올렸는데, 이 글에는 해외 UX 업계의 두 가지 반응이 함께 소개됐다 — 정성 조사 분야에서 의미 깊은 연구라는 **Task Flo.ws**의 평가와, 사용자 연구 결과를 제품 설계에 반영하는 과정을 잘 짚어냈다는 **UIE(User Interface Engineering)**의 평가다. 이는 이 사례가 국내뿐 아니라 해외 UX 커뮤니티에서도 사용자 연구와 제품 설계를 잇는 모범 사례로 받아들여졌음을 보여준다.
+
 ## 핵심 내용
 - 저널링(다이어리 스터디) + 컨텍스추얼 인쿼리로 "실시간 채팅이 가능한 상황"이 24%, "절대적으로 효과적인 상황"은 6%에 불과함을 발견 — 기존 MIM 실패 원인 규명
 - 320개 데이터의 어피니티 다이어그램에서 6개 핵심 사용자 요구 사항(Green Label) 도출
@@ -26,6 +28,7 @@ updated: "2026-07-13"
 - 디자인 해법: 전화번호 기반 ID(등록 불필요), 비사용자에게 자동 SMS 변환, 아이폰보다 1년 앞선 스레드형 대화 UI(2006)
 - 사업 전략: critical mass 확보 전 대규모 광고 자제 조언 — 초기 이탈 방지
 - 2008 IDEA, Global Messaging Award(UX 부문) 수상, 2010년 ACM interactions 지에 소개된 한국 최초 사례로 알려짐
+- ACM interactions 게재 직후 Task Flo.ws·UIE 등 해외 UX 커뮤니티에서 사용자 연구와 제품 설계를 잇는 모범 사례로 반응
 
 ## 관련 개념
 - [[컨텍스추얼 인쿼리]] — 저널링과 결합해 실제 대화 상황의 맥락을 파악한 조사 방법론
@@ -37,3 +40,4 @@ updated: "2026-07-13"
 
 ## 출처
 - [사용자 연구에 의한 모바일 UI 혁신 사례: 서울에서 온 성공 이야기](https://story.pxd.co.kr/610) — 2012-12-06, 이 재용
+- [User-research-driven mobile user interface innovation: a success story from Seoul](https://story.pxd.co.kr/21) — 2010-03-03, 이 재용

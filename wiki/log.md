@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-21] ingest | WebTV Design Guide, 2020 UX STRAT: East + West = Strategic Design #1, User-research-driven mobile user interface innovation: a success story from Seoul, 스타트업 생존을 위한 UX 인터뷰 & 퍼소나 강좌 런칭, [스마트 디바이스와 서비스] Nike+ : Goal Management Service
+- 생성: UX-STRAT-2020-컨퍼런스 (/1561 pxd 후원 첫 아시아 온라인 컨퍼런스 "East + West = Strategic Design" — 인스타그램 이노베이션 랩의 5단계 혁신 프레임워크), 서비스-디자인-사례-나이키플러스 (/494 GPS 러닝 데이터 서비스 Nike+를 목표 관리·데이터 관리·커뮤니티 3요소 결합의 Goal Management Service로 규정한 pxd 분석)
+- 업데이트: UI-가이드라인 (+/968 WebTV — 1999년 최초의 TV UI/GUI 디자인 가이드), 사용자-연구-사례-mMessenger (+/21 mMessenger 사용자 연구 2010년 원본 공지, 해외 UX 커뮤니티 Task Flo.ws·UIE 반응 추가), UX-온라인-강의-플랫폼 (+/1078 SURVIVAL UX 툴킷 1차 런칭 공지 — 8개 워크샵 템플릿, 학생할인가·초기 인증 절차), 디자인-스프린트·인스타그램-디자인-프로세스·게이미피케이션·훅-모델과-습관-형성-디자인 (신규 개념 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회
+- 총 개념 페이지: 507개 (신규 2개 추가)
+
 ## [2026-08-21] ingest | UX / 디자인 신간 소식 (2014~), 마침내 혼란을 극복한 Windows 7 - Windows User Experience Interaction Guidelines의 역사, Real human interface, [2012 pxd talks 11] 성공하는 제품 디자인을 위한 비밀 무기, [2012 UI 스터디 03]컨텍스트를 생각하는 디자인 : Chapter 4. 컨텍스추얼 인터뷰하기
 - 생성: 멀티터치-바르셀로나와-인터페이스-예술 (/189 Multitouch Barcelona의 "Real human interface" 영상 퍼포먼스 — 실용적 UX가 아닌 철학적 질문으로서의 인터페이스 예술)
 - 업데이트: UX-입문-도서 (+/1034 위승용의 첫 "UX/디자인 신간소식" 큐레이션, 2014~2015년 출간 10종), UI-가이드라인 (+/408 Windows User Experience Guidelines의 역사 — Windows 3.1→95→98/2000→XP·Vista→7, 이재용 4부작 중 2부), 디자이너-개발자-협업 (+/587 2012 pxd talks 11 강연 — 디자이너/개발자 마인드셋 차이, 인터랙션 디자이너의 중간자 역할), 컨텍스추얼-인쿼리 (+/484 2012 UI 스터디 03 컨텍스추얼 인터뷰하기 — 사내 스터디 시리즈 Chapter 4)
