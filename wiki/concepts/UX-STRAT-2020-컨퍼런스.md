@@ -2,8 +2,8 @@
 type: concept
 domain: "UX 컨퍼런스"
 name: "UX STRAT 2020 컨퍼런스"
-sources: ["/1561"]
-updated: "2026-08-21"
+sources: ["/1561", "/1562"]
+updated: "2026-08-23"
 ---
 # UX STRAT 2020 컨퍼런스
 
@@ -15,6 +15,10 @@ updated: "2026-08-21"
 
 발표자는 프로젝트 성공의 가장 중요한 기준으로 '사용자와 커뮤니티를 진심으로 생각하는 마음가짐'을 꼽으며, 지인들이 자신이 만든 기능을 일상에서 유용하게 쓰는 모습에서 가장 큰 보람을 느낀다고 밝혔다.
 
+두 번째 세션 "AI Innovation in Uncertain Times"는 구글 People + AI Research의 시니어 디자이너 Gabe Clapper가 발표했다. 그는 "**Human-centered AI 시스템을 어떻게 설계할 것인가**"와 "**사용자는 어떤 기술·기업·서비스를 신뢰하는가**"라는 두 질문을 축으로 삼았다. 첫 번째 축에서는 AI 시스템이 어떤 데이터를 수집하고 어떤 지표를 쓸지를 정하는 모든 단계에 사람의 판단이 개입하기 때문에, AI는 사람의 탁월성뿐 아니라 편향(Bias)까지 그대로 반영한다고 지적했다. 예측이 본질인 AI 기술에는 필연적으로 오차 가능성이 따르는데, 범죄 예측처럼 사람의 안전에 직접 영향을 미치는 복잡한 과업일수록 오차를 최소화할 안전망이 중요하다며, 그 해법으로 **Precision and Recall**(정밀도-재현율) 트레이드오프 개념을 제시했다. 구글의 라이프로깅 카메라 '**구글 클립스**'는 이 개념을 실제로 구현한 사례로, 알고리즘에 전적으로 의존하는 대신 사용자가 언제든 자동 촬영을 무효화할 수 있는 '매뉴얼 셔터'와 원치 않는 사진을 삭제할 수 있는 '큐레이션 스크립트' 기능을 통해 사용자에게 '**주체성**(agency)'을 부여했다.
+
+두 번째 축인 신뢰 설계에서 Clapper는 "더 많은 것이 항상 더 나은 것은 아니다(More isn't always better)"라며, 신뢰는 시스템이 할 수 있는 일과 할 수 없는 일을 투명하게 밝힐 때 적절히 조율(calibrate)된다고 강조했다. 신뢰는 '인식(perception)'에 기반하며 '이행적(transitive)' 성질을 갖는데, 포장 식품 성분을 분석해주는 프로토타입 비교 실험에서 정량적 분석 결과만 보여준 버전보다 같은 온라인 커뮤니티 구성원의 검증 결과를 함께 보여준 버전에 사용자들이 더 높은 신뢰를 보였다는 사례로 이를 뒷받침했다 — 사용자는 결국 자신이 이미 신뢰하거나 관련성 높은 사람에게서 온 정보(Contextually relevant human source)를 가장 신뢰한다는 것이다.
+
 ## 핵심 내용
 - **UX STRAT 2020**: 2020년 11월 2일~3일, pxd 후원 첫 아시아 온라인 컨퍼런스, 주제 "East + West = Strategic Design"
 - pxd 후기는 3편 구성 — 인스타그램 이노베이션 랩 / 구글 People + AI Research / 구글 디자인 스프린트 워크숍
@@ -22,12 +26,18 @@ updated: "2026-08-21"
 - **5단계 혁신 프레임워크**: Start where you are → Define how you work → Get the story → Design with an opinion → Evolve with your community
 - '추천(Recommended)' 탭 개편 사례: 낯선 지역에서 지인 추천에 의존하는 경향에 대한 인사이트에서 출발
 - 커뮤니티 지향 원칙의 결과물: 코로나 블루 대응 **웰니스 가이드**, **Black Lives Matter** 지지 **Racial Justice 가이드**
+- 구글 People + AI Research(Gabe Clapper): **Human-centered AI** 설계와 '신뢰' 설계라는 두 축 제시
+- **Precision and Recall** 트레이드오프로 AI 예측 오차를 관리하고, '구글 클립스'는 매뉴얼 셔터·큐레이션 스크립트로 사용자 **주체성**을 보장
+- 신뢰는 '인식' 기반이며 '이행적' 성질을 가짐 — 사용자는 정량적 분석보다 신뢰하는 사람(커뮤니티)의 검증을 더 신뢰
 
 ## 관련 개념
 - [[디자인 스프린트]] — 같은 컨퍼런스 3부(`/1560`)에서 다룬 구글 디자인 스프린트 워크숍 세션
 - [[UX Masterclass 2020 컨퍼런스]] — 같은 시기 열린 또 다른 글로벌 온라인 UX 컨퍼런스
 - [[해외 UX 컨퍼런스 큐레이션]] — 해외 UX 컨퍼런스 참가·후기 전통의 연장선
 - [[인스타그램 디자인 프로세스]] — 인스타그램 디자인팀의 의사결정 방식을 다룬 다른 각도의 사례
+- [[AI를 위한 UI 패턴과 UX]] — Human-centered AI 설계 원칙과 맞닿는 AI UX 패턴 논의
+- [[AI·로봇 윤리와 자율 무기]] — AI 시스템의 편향·신뢰 문제를 다루는 인접 주제
 
 ## 출처
 - [2020 UX STRAT: East + West = Strategic Design #1](https://story.pxd.co.kr/1561) — 2020-12-15, jeeah
+- [2020 UX STRAT: East + West = Strategic Design #2](https://story.pxd.co.kr/1562) — 2020-12-25, jeeah
