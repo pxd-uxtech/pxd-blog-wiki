@@ -61,6 +61,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2018과 UX 디자이너의 역할](concepts/Future-Conference-2018과-UX-디자이너의-역할.md) — Addy Lee(구글)의 파트너십 3원칙, 최지호(네이버 웨일)의 조사 없는 UX 디자인과 '파급력 우선' 전환, Jason Kim(인스타그램)의 미션 기반 Discover-Design-Deliver 프로세스
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [IDG Business Impact & Big Data 컨퍼런스](concepts/IDG-Business-Impact-Big-Data-컨퍼런스.md) — 이마트 오미현의 우수고객 관리→마이크로 트렌드 CRM 전환 사례와 넷플릭스 조슈아 팍스의 실시청 데이터 기반 개인화 추천·포스터 알고리즘
+- [디지털 마케팅 컨퍼런스 2018](concepts/디지털-마케팅-컨퍼런스-2018.md) — AKQA·JWT·크리테오 발표로 본 데이터 해석과 맥락, 소셜 크레딧 시스템·프로슈머·매스 개인화(Mass personalization) 개념
 - [Interaction16 컨퍼런스](concepts/Interaction16-컨퍼런스.md) — IxDA 주최 2016년 핀란드 헬싱키 컨퍼런스 참관기, 노키아 몰락 이후 스타트업 붐이 인 핀란드 IT 배경과 Aalto 대학 워크숍 프로그램
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
@@ -71,6 +72,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UXCamp Seoul 2012 세미나 리뷰](concepts/UXCamp-Seoul-2012-세미나-리뷰.md) — 2012년 KGIT에서 열린 UXCamp Seoul 4th 후기: 마술과 UX 접목(노병욱), 수평적 사고 기반 목표 설정(정기원), Auditory UI 4요소·촉각/청각 피드백 연구, 반응카드법 기반 감성 평가
 - [UXCamp Seoul 2014 세미나 리뷰](concepts/UXCamp-Seoul-2014-세미나-리뷰.md) — 2014년 서울크리에이티브랩 'behind the curtain' 주제로 열린 UXCamp Seoul 5th 후기: 레고 매뉴얼 디테일과 UX 글쓰기 팁(우상훈), 커뮤니티 디자인, Assistor PS 도구, 모바일 브로셔 시장
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
+- [UX intensive 2012 암스텔담 세미나 리뷰](concepts/UX-intensive-2012-암스텔담-세미나-리뷰.md) — Adaptive Path 주최 암스텔담 UX intensive Day4(Service Design) 리뷰: 스킷드라마(즉흥연기) 프로토타이핑, 서비스 저니맵, Blueprints·Business Model Canvas
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX STRAT 2020 컨퍼런스](concepts/UX-STRAT-2020-컨퍼런스.md) — pxd 후원 첫 아시아 온라인 컨퍼런스 "East + West = Strategic Design", 인스타그램 이노베이션 랩의 5단계 혁신 프레임워크(Start where you are~Evolve with your community)
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
@@ -82,6 +84,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [헤럴드 디자인 포럼 컨퍼런스](concepts/헤럴드-디자인-포럼-컨퍼런스.md) — 2012년 헤럴드 디자인 포럼 Day 1 후기: 안도 타다오·하라 켄야·오준식·장 샤오강 강연으로 본 아시아 디자인 정체성과 디자인의 사회적 책임
 - [Spectrum Con 2019 컨퍼런스](concepts/Spectrum-Con-2019-컨퍼런스.md) — 원티드×디자인 스펙트럼 공동 주최 컨퍼런스, 라인(이정영)의 디자이너 역할 확장과 조직 대응, 쿠팡(조나단 정)의 비즈니스 드리븐 디자인 사례
 - [SAP Executive Summit 2019 컨퍼런스](concepts/SAP-Executive-Summit-2019-컨퍼런스.md) — '혁신과 클라우드' 주제의 SAP 행사 후기, 두산중공업·SK하이닉스의 디자인 씽킹·애자일 적용과 제조업 서비스화·플랫폼 비즈니스 전환 사례
+- [Tech Planet 2012 컨퍼런스](concepts/Tech-Planet-2012-컨퍼런스.md) — SK Planet 주최 컨퍼런스 후기: Adaptive Path 재민 헤게만의 UX→SX(Service Experience) 전환론, 이태일 교수의 Natural UI·제스처 연구, Sunnyloft의 프라이빗 SNS 'Episode' 기획 사례
 - [Wanted con 2020 컨퍼런스](concepts/Wanted-con-2020-컨퍼런스.md) — 원티드 주최 디자인 컨퍼런스, 쿠팡 조나단 정의 "The power of Unlearning": Simplicity·Consistency·Innovation 세 가지 관점을 데이터로 relearning하는 사례
 - [UX와 UI의 차이](concepts/UX와-UI의-차이.md) — UI는 사람과 정보기기가 접하는 면, UX는 사용자가 제품·서비스를 통해 얻는 총체적 경험
 - [검색 UX 설계](concepts/검색-UX-설계.md) — 통합검색의 컬렉션 나열 대신 소수 소스를 예측 가능한 순서로 배치하는 검색 파레토 법칙, Search User Goals 3분류, 검색어 자동완성 UX
@@ -478,7 +481,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Ex-formation](concepts/Ex-formation.md) — 하라 켄야가 창안한 개념, Information의 반대말로 안다고 믿던 것의 무지를 자각하게 하는 디자인 접근법
 - [그림책 디자인과 시각 스토리텔링](concepts/그림책-디자인과-시각-스토리텔링.md) — 이수지 작가의 시각 스토리텔링 철학: 구멍 많은 이야기, 글 없는 그림책, 경계를 허무는 형식 실험
 - [디자인 다큐멘터리 Objectified](concepts/디자인-다큐멘터리-Objectified.md) — 게리 허스트윗 감독의 디자인 3부작 2편, IDEO·애플·MUJI·디터 람스 등 인터뷰로 본 "프로토타이핑이 디자인 객관성을 입증한다"는 관점
-- [런던 디자인 페스티벌과 전시 트렌드](concepts/런던-디자인-페스티벌과-전시-트렌드.md) — 2019 런던 디자인 페스티벌(100% Design·London Design Fair) 참관기로 본 지속가능성·바이오머티리얼 화두, 테라조 소재 유행, 국가별 디자인 큐레이션
+- [런던 디자인 페스티벌과 전시 트렌드](concepts/런던-디자인-페스티벌과-전시-트렌드.md) — 2013·2019 런던 디자인 페스티벌(100% Design·디자인 정션·텐트런던·London Design Fair) 참관기로 본 지속가능성·바이오머티리얼 화두, 테라조 소재 유행, 국가별 디자인 큐레이션
+- [메종오브제 국제 인테리어 박람회](concepts/메종오브제-국제-인테리어-박람회.md) — 파리 노르 빌팽트에서 열리는 세계 최대 인테리어·소비재 박람회, 2013년 'Illuminations·Psychotropia·Funtasy' 테마로 본 신소재·용도 전환 트렌드
 - [모션 그래픽 애니메이션과 영감 큐레이션](concepts/모션-그래픽-애니메이션과-영감-큐레이션.md) — pxd 블로그 '영감 동영상' 시리즈가 소개한 런던 애니메이션 스튜디오 Animade의 2D 캐릭터 모션 그래픽 작업(Cowboy's Cat·Fingerprint Art·Jangle Bells 등)
 - [스톱모션 애니메이션과 영감 큐레이션](concepts/스톱모션-애니메이션과-영감-큐레이션.md) — pxd 블로그 '영감 동영상' 시리즈로 소개된 스톱모션 작품 4편(The Extra Small·Revolution 등), 종이·팝업북 등 물리적 수작업 질감이 주는 디지털과 구별되는 창작 영감
 - [시네마그래프와 디자인 영감 큐레이션](concepts/시네마그래프와-디자인-영감-큐레이션.md) — 사진과 동영상의 중간 형식인 시네마그래프 GIF와 핀터레스트 기반 디자인 영감 탐색 패턴
@@ -538,6 +542,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [넛지와 다크 패턴](concepts/넛지와-다크-패턴.md) — 부드러운 유도인 넛지와, 사용자를 속여 이익을 취하는 다크 패턴 5대 유형(미끼와 스위치·위장 광고 등)의 경계와 디자이너의 윤리적 책임
 - [대한민국 HCI-UI-UX 역사](concepts/대한민국-HCI-UX-역사.md) — 1990년 HCI 학회부터 2010년대까지 한국 UI/UX 업계의 연표
 - [CHI 2015 학회와 HCI 연구 트렌드](concepts/CHI-2015-학회와-HCI-연구-트렌드.md) — 게임 몰입·NUI·EMS 촉각 내비게이션·웨어러블 사변적 디자인 등 CHI 2015 국제 학회 Paper 세션에서 발표된 HCI 연구 트렌드 종합
+- [Siggraph 2014 컨퍼런스와 웨어러블 컴퓨팅](concepts/Siggraph-2014-컨퍼런스와-웨어러블-컴퓨팅.md) — 웨어러블 컴퓨팅 역사(1968 HMD·스티브 만·Touring Machine)와 기술 분류, 디즈니 DisneyQuest 사례, Mark Billinghurst의 웨어러블 인터페이스 디자인 가이드라인
 - [홈서버 원격 제어](concepts/홈서버-원격-제어.md) — WOL·Air Video·VNC를 조합해 스마트폰만으로 PC 전원부터 파일 감상·종료까지 처리한 2010년 개인 홈서버 구축 사례, 스마트폰-PC 중간 디바이스 레이아웃 표준의 부재
 - [클라우드 컴퓨팅](concepts/클라우드-컴퓨팅.md) — 클라우드의 어원과 SaaS·PaaS·IaaS 3층 구조, 세일즈포스닷컴 채터와 퍼스널 클라우드 서비스(PCC)로 본 N스크린 전략
 - [인사이트 노동자](concepts/인사이트-노동자.md) — 정지훈 『무엇이 세상을 바꿀 것인가』 독후감: BCG 리치 레서가 제시한 개념, 지식 노동 자동화 이후 비판적 사고·공감을 담당하는 미래 노동자상

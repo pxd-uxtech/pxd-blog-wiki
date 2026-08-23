@@ -2,8 +2,8 @@
 type: concept
 domain: "UI/인터랙션 설계"
 name: "모바일 결제 서비스 UX"
-sources: ["/1059"]
-updated: "2026-08-03"
+sources: ["/1059", "/1134"]
+updated: "2026-08-23"
 ---
 # 모바일 결제 서비스 UX
 
