@@ -3,7 +3,7 @@ type: concept
 domain: "UX 컨퍼런스"
 name: "Interaction16 컨퍼런스"
 sources: ["/1259"]
-updated: "2026-08-21"
+updated: "2026-08-27"
 ---
 # Interaction16 컨퍼런스
 
@@ -25,6 +25,7 @@ updated: "2026-08-21"
 - [[해외 UX 컨퍼런스 큐레이션]] — 같은 IxDA 주최 Interaction Conference 시리즈(시애틀 개최 회차)를 포함한 해외 UX 컨퍼런스 목록
 - [[UI17 컨퍼런스와 회의 퍼실리테이션 기법]] — pxd 해외교육 제도로 참가한 또 다른 해외 UX 컨퍼런스(보스턴 UIE 주최) 참관기
 - [[Euro IA 2013 해외연수와 OBA 도서관]] — 같은 pxd 해외교육 제도로 참가한 유럽 컨퍼런스 참관·연수 후기
+- [[Euro IA 2016 컨퍼런스]] — pxd 블로그에 이 글의 관련글로 함께 소개된 같은 시기의 다른 해외교육 참관기
 
 ## 출처
 - [\[해외교육\] Interaction16 참관기](https://story.pxd.co.kr/1259) — 2017-09-14, 알 수 없는 사용자

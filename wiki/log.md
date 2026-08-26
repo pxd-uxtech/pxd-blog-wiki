@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-08-27] ingest | [해외교육] Euro IA 2016 참관기, [해외교육]2013 hxd conference (3/3), pxd, iF 디자인 어워드 2017 수상, [해외교육]2013 SDN Global Design Workshop in Berlin (1/2), [전시회] 상상의 웜홀 - 나무로 깎은 책벌레 이야기展
+- 생성: Euro-IA-2016-컨퍼런스 (/1263 네덜란드 암스테르담 Euro IA 2016 "Connected Things Amongst Us" — BBC 팀의 제이크 냅 오리지널 5일 디자인 스프린트 워크숍, 팀 역량 갭 매핑 워크숍)
+- 업데이트: 디자인-스프린트 (+/1263 BBC가 시연한 오리지널 5일 버전을 구글 GV 6단계 프레임워크와 대비되는 사례로 추가), 사용자-여정-분석 (+/869 mad*pow 저니맵 워크숍 방법론 — actual→brainstorming with lenses→future journey 3단계 프로세스), 디자인-어워드와-수상-사례 (+/1205 미래에셋대우 'Smart Neo' iF 디자인 어워드 2017 수상), 디자인-컨설팅-프로세스 (+/826 SDN×KIDP 베를린 워크숍 Series 1 — Erlhoff/Mager 기조강연, Exploration/Synthesis 단계 방법론), 현대미술-설치작가와-전시 (+/627 목수 김진송의 키네틱 목공예 전시 '상상의 웜홀')
+- Euro-IA-2013-해외연수와-OBA-도서관·해외-UX-컨퍼런스-큐레이션·Interaction16-컨퍼런스·디자인-팀-빌딩과-협업-문화에 크로스레퍼런스 백링크 추가
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리, story-api.pxd.systems DNS 조회 불가 지속으로 story.pxd.co.kr 직접 fetch 우회 (5건 모두 200)
+
 ## [2026-08-24] ingest | Tech Planet 컨퍼런스 후기, [해외교육]2013 메종오브제 & 100%디자인 (2/2), 데이비드 라셔펠 한국 특별전 후기., 암스텔담 2012 UX intensive 둘러보기 - Day4, [해외교육] Siggraph 2014 (2/2) Wearable Computing
 - 생성: Tech-Planet-2012-컨퍼런스 (/604 SK Planet 주최 컨퍼런스 — Adaptive Path의 UX→SX 전환론, Natural UI·제스처 연구, 프라이빗 SNS 'Episode' 기획), UX-intensive-2012-암스텔담-세미나-리뷰 (/527 Adaptive Path 암스텔담 워크숍 Day4 Service Design — 스킷드라마 즉흥연기 프로토타이핑), Siggraph-2014-컨퍼런스와-웨어러블-컴퓨팅 (/1030 웨어러블 컴퓨팅 역사·기술 분류와 Mark Billinghurst의 웨어러블 인터페이스 디자인 가이드라인)
 - 업데이트: 런던-디자인-페스티벌과-전시-트렌드 (+/842 2013년 런던 디자인 페스티벌·100% Design 참관기 추가, 기존 2019년 편과 연도별로 통합), 현대미술-설치작가와-전시 (+/477 데이비드 라샤펠 한국 특별전 'David LaChapelle In Seoul' 문단 추가)

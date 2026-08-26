@@ -62,6 +62,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Future Conference 2019와 글로벌 프로덕트 UX](concepts/Future-Conference-2019와-글로벌-프로덕트-UX.md) — 구글 뉴스의 멘탈모델·개인화·상태인식 3축 전략과 그랩(Grab)의 국가별 드라이버 멘탈 모델 차이 대응, 관찰-정의-전략-프로토타입-실험 5단계 디자인 프로세스
 - [IDG Business Impact & Big Data 컨퍼런스](concepts/IDG-Business-Impact-Big-Data-컨퍼런스.md) — 이마트 오미현의 우수고객 관리→마이크로 트렌드 CRM 전환 사례와 넷플릭스 조슈아 팍스의 실시청 데이터 기반 개인화 추천·포스터 알고리즘
 - [디지털 마케팅 컨퍼런스 2018](concepts/디지털-마케팅-컨퍼런스-2018.md) — AKQA·JWT·크리테오 발표로 본 데이터 해석과 맥락, 소셜 크레딧 시스템·프로슈머·매스 개인화(Mass personalization) 개념
+- [Euro IA 2016 컨퍼런스](concepts/Euro-IA-2016-컨퍼런스.md) — 네덜란드 암스테르담 Euro IA 2016 "Connected Things Amongst Us" 참관기, BBC UX팀의 제이크 냅 오리지널 5일 디자인 스프린트 워크숍과 팀 역량 갭 매핑 워크숍
 - [Interaction16 컨퍼런스](concepts/Interaction16-컨퍼런스.md) — IxDA 주최 2016년 핀란드 헬싱키 컨퍼런스 참관기, 노키아 몰락 이후 스타트업 붐이 인 핀란드 IT 배경과 Aalto 대학 워크숍 프로그램
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
 - [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
