@@ -122,6 +122,7 @@ exelab의 김희선은 스타트업 성공 확률이 낮은 현실에서, 있으
 - [[프로토타이핑 툴 비교]] — 2014 Lean UX 컨퍼런스의 린 프로토타이핑 세션에서 언급된 Origami·Framer 등 도구의 상세 비교
 - [[앱 개발 사례 — flur:Wallpaper]] — pxd LeanUX Lab이 실제로 Lean UX 프로세스를 온전히 따르지 못한 채 빠르게 출시를 강행한 실전 사례
 - [[앱 개발 사례 설날카드]] — Lean UX Lab의 전신인 Probetyping Labs가 'Probe(안전한 실패)' 철학을 실제 프로젝트로 실행한 초기 사례
+- [[앱 개발 사례 멀티 스크린 디바이스]] — LeanUXLab이 MVP 단계별 접근으로 진행한 멀티 디바이스 인터랙션 실험 사례
 - [[2011 pxd talks 사내 강연 시리즈]] — pxd 내 Lean UX가 처음 소개된 2011년 pxd talks 04(Michael Shilman) 강연의 전체 맥락
 - [[디자인 에이전시와 인하우스 디자인]] — 린/오픈 디자인과 맥락을 함께한다고 밝힌 해외 에이전시 Kwamecorp의 VOID Design 철학 사례
 
