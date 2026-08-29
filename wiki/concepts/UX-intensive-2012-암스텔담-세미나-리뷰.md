@@ -2,12 +2,14 @@
 type: concept
 domain: "UX 교육과 커뮤니티"
 name: "UX intensive 2012 암스텔담 세미나 리뷰"
-sources: ["/527"]
-updated: "2026-08-24"
+sources: ["/527", "/524"]
+updated: "2026-08-30"
 ---
 # UX intensive 2012 암스텔담 세미나 리뷰
 
-**2012 UX intensive**는 UX 컨설팅사 **Adaptive Path**가 네덜란드 암스텔담에서 주최한 4일간의 해외교육 워크숍으로, pxd 참가자가 Day1 Design Strategy·Day2 Design Research·Day3 Interaction Design·Day4 Service Design 네 편의 관람기로 나눠 하루씩 소감을 공유했다. 이 글은 그중 마지막 날인 **Day4 Service Design**을 다룬다.
+**2012 UX intensive**는 UX 컨설팅사 **Adaptive Path**가 네덜란드 암스텔담에서 주최한 4일간의 해외교육 워크숍으로, pxd 참가자가 Day1 Design Strategy·Day2 Design Research·Day3 Interaction Design·Day4 Service Design 네 편의 관람기로 나눠 하루씩 소감을 공유했다. 이 글은 그중 셋째 날인 **Day3 Interaction Design**과 마지막 날인 **Day4 Service Design**을 다룬다.
+
+Day3는 강연자 Chris가 그해 워크숍 프레임으로 자주 등장한 **더블 다이아몬드**(Double Diamond) 모델을 소개하며 시작됐다. 팀은 미국·독일·네덜란드·스웨덴·한국 등 여러 국적이 뒤섞여 구성됐고, 진행 방식은 강연 30분·토론 10분·스케치 20분·발표 10분의 반복 사이클이었다. 과제는 모바일 앱을 구상해 키스크린을 스케치하는 것으로, 디자인 원칙 세우기 → 아이디어 브레인스토밍 → 반복 스케치 순으로 진행됐다. 참가자는 인터랙션 디자인이라는 주제 자체는 기본기에 충실하게 구성됐지만 'Intensive'라는 이름에 비해서는 다소 아쉬운 수준이었다고 평했다. 하루의 마무리는 제한시간 2분의 최종 발표로, 여러 팀이 상황극·광고·코미디·토크쇼 등 다양한 형식으로 결과물을 표현했다.
 
 Day4는 강연자 Jamin이 그해 처음으로 선보이는 서비스 디자인 커리큘럼이었다. 참가자 중 서비스 디자인을 직접 해본 사람은 소수였고, 스스로를 '서비스 디자이너'라 여기는 사람은 아무도 없었다는 점에서 유럽 실무에서도 서비스 디자인이 아직 생소한 분야였음을 보여준다. 워크숍은 먼저 무엇을 '서비스'로 규정할 것인지를 정하는 단계에서 미리 준비된 카드 Presets를 활용했고, 뒤이어 회사·업종을 막론하고 빠지지 않고 등장하는 도구인 **서비스 저니맵**을 그렸다.
 
@@ -17,6 +19,7 @@ Day4는 강연자 Jamin이 그해 처음으로 선보이는 서비스 디자인 
 
 ## 핵심 내용
 - **Adaptive Path 2012 UX intensive**: 암스텔담에서 열린 4일 워크숍, Day1 Design Strategy·Day2 Design Research·Day3 Interaction Design·Day4 Service Design 순으로 구성
+- **Day3 Interaction Design**: **더블 다이아몬드** 프레임 기반 진행, 강연-토론-스케치-발표를 반복하는 워크숍 포맷, 모바일 앱 키스크린 스케치 과제, 2분 제한 발표에서 상황극 등 다양한 표현 방식 활용
 - 유럽 실무에서도 서비스 디자인은 참가자 대부분에게 생소한 분야였음 (직접 경험자 소수, '서비스 디자이너' 자칭자 없음)
 - **서비스 범위 정의**: 카드 Presets을 활용해 과제별로 '서비스'로 규정할 범위를 먼저 합의
 - **서비스 저니맵**: 회사·업종에 관계없이 서비스 디자인 워크숍에 공통적으로 등장하는 표준 도구
@@ -33,4 +36,5 @@ Day4는 강연자 Jamin이 그해 처음으로 선보이는 서비스 디자인 
 - [[디자인 스프린트]] — 짧은 워크숍 기간 안에 전략-리서치-인터랙션-서비스를 순차적으로 다루는 집중형 교육 구성이라는 공통점
 
 ## 출처
+- [암스텔담 2012 UX intensive 둘러보기 - Day3](https://story.pxd.co.kr/524) — 2012-05-02, 알 수 없는 사용자
 - [암스텔담 2012 UX intensive 둘러보기 - Day4](https://story.pxd.co.kr/527) — 2012-05-02, 알 수 없는 사용자
