@@ -79,6 +79,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX STRAT 2020 컨퍼런스](concepts/UX-STRAT-2020-컨퍼런스.md) — pxd 후원 첫 아시아 온라인 컨퍼런스 "East + West = Strategic Design", 인스타그램 이노베이션 랩의 5단계 혁신 프레임워크(Start where you are~Evolve with your community)
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
+- [UX World 2017 컨퍼런스](concepts/UX-World-2017-컨퍼런스.md) — 2017년 "UX for Digital Transformation": 구글 제러드 짐머맨의 팀 빌딩(소속감·믿음, 명성·돈·영향력), 페이스북 VR 콘텐츠 디자인 3요소(실재감·편안함·입력방식), 우버 ATG의 자율주행 UX와 지도 디자인 3원칙
 - [UI17 컨퍼런스와 회의 퍼실리테이션 기법](concepts/UI17-컨퍼런스와-회의-퍼실리테이션-기법.md) — 2012년 보스턴 UIE 주최 UI17 컨퍼런스 워크숍 후기: 퍼실리테이터·레코더·그룹 멤버·리더 4대 롤과 페차쿠차(PECHA KUCHA) 등 10개 회의 퍼실리테이션 기법
 - [CES 2013 컨퍼런스](concepts/CES-2013-컨퍼런스.md) — pxd 해외 교육 프로그램으로 참관한 2013 라스베가스 CES, LG·삼성 OLED/UHD TV 경쟁과 스마트홈 허브, 인텔 동작 인식, 토요타·아우디 무인자동차, 디지털 헬스 트렌드
 - [Cooper Visual Interface Design 워크숍](concepts/Cooper-Visual-Interface-Design-워크숍.md) — 2014년 샌프란시스코 Cooper사 워크숍 후기: Research→Translate→Archetype→Document 4단계 Visual Interface Design Process와 Goal-directed Design의 근거·비전 확보 방식
@@ -278,6 +279,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [약관 동의 UI](concepts/약관-동의-UI.md) — 필수·선택 약관 구분과 최소 입력 원칙을 적용한 약관 동의 화면 설계
 - [어피니티 버블](concepts/어피니티-버블.md) — pxd가 개발한 업무 도구로, 다수의 텍스트 데이터를 시각적으로 분류
 - [옵티미스틱 UI](concepts/옵티미스틱-UI.md) — 서버 응답을 기다리지 않고 즉시 성공 상태를 표시하는 체감 성능 최적화 패턴
+- [윈도우 7 디자인 원칙](concepts/윈도우-7-디자인-원칙.md) — 2008년 PDC 발표 Windows 7 디자인팀의 7가지 원칙(Reduce Concepts·Small Things Matter·Delight·Solve Distractions·Time Matters·Full Lifecycle·Look and Do)과 태스크바 단순화·피츠의 법칙 활용 등 구체 사례
 - [윈도우 8 모던 UI](concepts/윈도우-8-모던-UI.md) — Tile·Live Tile·Charm bar·Semantic Zoom 등 Windows 8 Modern UI 구성요소와 Desktop UI 공존이 낳은 이질감 한계
 - [잠금 화면 해제 UX](concepts/잠금-화면-해제-UX.md) — slide to unlock의 오조작 방지 목적과 아이폰·안드로이드 인체공학 차이, 아이패드2 스마트 커버의 물리적 잠금 해제 대안
 - [지도 UI 드래그 반응성](concepts/지도-UI-드래그-반응성.md) — 드래그 중 맵타일 실시간 갱신 여부로 갈리는 네이버·다음 지도와 구글맵의 체감 반응성 차이
