@@ -29,6 +29,7 @@ Google의 디자인 프로세스는 명확한 단계나 데드라인 없이 상�
 - [[도그푸딩]] — 강연 말미에 강조된 'Eat your dogfood' 원칙
 - [[미국 스타트업 디자이너 업무 문화]] — 미국 기술 기업의 또 다른 조직 문화·업무 방식 사례
 - [[PM 프로젝트 관리]] — Google과 한국(pxd) PM 역할 비교의 준거점
+- [[2011 pxd talks 사내 강연 시리즈]] — 2014년 pxd talks 45~56회를 정리한 연말 결산 글에 함께 소개된 49번 강연
 
 ## 출처
 - [[pxd talks 49] How Google design global services](https://story.pxd.co.kr/936) — 2014-07-23, 알 수 없는 사용자
