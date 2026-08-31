@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-01] ingest | '모바일 메가 트렌드와 사용자 경험의 진화' 세미나 정리, Siggraph 2014 (1/2), 2011 서비스 디자인 글로벌 컨퍼런스 후기, 특허등록 - 디지털 방송 위젯 시스템, [아트]_Media art / Interactive art
+- 생성: 모바일-메가트렌드-2010-세미나-리뷰, 서비스디자인-글로벌-컨퍼런스-2011, 디지털-방송-위젯-시스템-특허, 미디어아트-인터랙티브아트와-영감-큐레이션
+- 업데이트: Siggraph-2014-컨퍼런스와-웨어러블-컴퓨팅 (+/1029 1편 — Siggraph 2014 행사 전반 리뷰를 기존 2편/웨어러블 컴퓨팅 페이지에 통합)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, story.pxd.co.kr 직접 fetch로 우회(모두 200 정상, 별도 우회 불필요)
+
 ## [2026-09-01] ingest | UX World 2018 spring 후기 2편, UX Conference London 2019 후기 (1/2)
 - 생성: UX-World-2018-spring-컨퍼런스 (/1323 카카오미니 AI 스피커 음성 구조·대화 설계·AI 퍼소나, Waymo 자율주행 5단계 레벨과 탑승자용 주행 시각화)
 - 업데이트: UX-Conference-London-2019 (+/1395 1편 — Martyn Reding의 UX-마케팅 역사적 대응관계, Jessica Lovegood의 비즈니스 성장 3원칙, Anat Treanor의 구독경제 마찰 감소, `[[디자인 시스템]]` `[[ResearchOps]]` `[[UX 라이팅]]` `[[MVP 중심 애자일 프로젝트 운영]]` 관련 개념 링크 추가)

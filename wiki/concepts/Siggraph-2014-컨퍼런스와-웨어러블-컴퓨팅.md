@@ -2,12 +2,14 @@
 type: concept
 domain: "기술과 사회"
 name: "Siggraph 2014 컨퍼런스와 웨어러블 컴퓨팅"
-sources: ["/1030"]
-updated: "2026-08-24"
+sources: ["/1029", "/1030"]
+updated: "2026-09-01"
 ---
 # Siggraph 2014 컨퍼런스와 웨어러블 컴퓨팅
 
-**Siggraph 2014**(밴쿠버, 5일간)는 컴퓨터 그래픽 분야를 제외하면 **웨어러블 컴퓨팅(Wearable Computing)**과 AR/VR이 가장 많이 다뤄진 주제였다. pxd 참가자는 'The Glass Class: Designing Wearable Interface'(2013 구글 글래스 팀 소속 Mark Billinghurst), 'Put on Your 3D Glasses Now'(릴레이 강연), 'Introduction to 3D Gestural Interface'(Central Florida University Joseph LaViola) 세 개 코스를 수강했다.
+pxd는 2014년 8월 10일부터 14일까지 캐나다 밴쿠버에서 열린 **Siggraph 2014**('Special Interest Group on Graphics and Interactive Techniques', ACM 주최 세계 최대 컴퓨터 그래픽스 컨퍼런스)에 해외교육으로 다녀온 후기를 두 편에 걸쳐 남겼다. 1편은 행사 전반을 다룬다. 시상과 함께 우수 디지털 필름·영상을 상영하는 **Computer Animation Festival**(2014년엔 삼성 'King of TV City' 광고가 유일한 한국 노미네이트작, 디즈니 단편 'Feast'가 이후 오스카 수상), CG 전문가들이 'Captain America', 'How To Train Your Dragon 2', 'The Lego Movie', 'Gravity' 등의 제작 과정을 공유하는 **Production Session**, NVIDIA·Autodesk와 한국 기업 연합('Korea CT') 등 약 80개사가 참여한 **Exhibition**(3D 유체시뮬레이터 Flux, Magic Mirror 가상 피팅, 모션 캡처, 오큘러스 리프트 체험), 취리히 예술대학의 비행 시뮬레이션 장치 'Birdly' 등이 소개된 **Emerging Technology**, 1~2시간 단위 강연인 **Courses**까지 시그라프의 주요 프로그램을 두루 훑었다.
+
+2편은 그중 pxd 참가자가 가장 깊이 들었던 **웨어러블 컴퓨팅(Wearable Computing)** 주제의 Courses를 집중적으로 다룬다. Siggraph 2014에서는 컴퓨터 그래픽 분야를 제외하면 웨어러블 컴퓨팅과 AR/VR이 가장 많이 다뤄진 주제였다. pxd 참가자는 'The Glass Class: Designing Wearable Interface'(2013 구글 글래스 팀 소속 Mark Billinghurst), 'Put on Your 3D Glasses Now'(릴레이 강연), 'Introduction to 3D Gestural Interface'(Central Florida University Joseph LaViola) 세 개 코스를 수강했다.
 
 **웨어러블 기기의 역사**는 뜻밖에도 1960년대 카지노 갬블러가 룰렛 타이밍 예측과 카드 카운팅을 위해 벨트·신발에 인풋 장치를 단 사례에서 출발한다. 1968년에는 하버드의 **아이반 서덜랜드(Ivan Sutherland)**가 제자 밥 스프로울과 함께 최초의 **HMD(Head Mounted Display)** 'The Sword of Damocles'를 개발했고, 이후 1970년대에는 안경형으로, 1990년대에는 See-through 디스플레이가 접목되며 발전했다. 이 흐름의 중심에는 '웨어러블 컴퓨터의 대부'로 불리는 **스티브 만(Steve Mann)**이 있다. 그는 1980~90년대에 다양한 HMD를 개발했고, MIT에 Wearable Computing Group을 만들어 활동했다. 1997년 컬럼비아 대학의 **Touring Machine**은 See-through 안경으로 실제 풍경 위에 장소 정보를 오버레이하면서도 백팩형 PC를 짊어지고 이동해야 했던 초기 모바일 AR 사례로 소개됐다. 컴퓨터가 [Small, Cheap, Faster, Intimate]해지는 추세 속에 2011년 구글 글래스가 등장하며 웨어러블 시장이 본격적으로 주목받았고, 이후 팔찌·시계 등으로 형태가 다양해졌다.
 
@@ -18,6 +20,8 @@ updated: "2026-08-24"
 마지막으로 Mark Billinghurst가 제시한 **웨어러블 인터페이스 디자인 가이드라인**이 정리됐다. Interaction Design 측면에서는 기기 자체를 위한 설계(단순하고 관련성 높은 정보, 기존 기기 보완, 위치·맥락·시의적 정보에 집중), 몇 초 이내의 마이크로 인터랙션 설계, 읽기가 아닌 인지를 위한 정보 밀도 최소화(**Glanceable**), 한 번에 한 가지만·맥락에 맞게·예상 밖 상황 피하기가 강조됐다. Visual Design 측면에서는 투명 디스플레이 구현의 어려움, 흰색을 기본 배경으로 삼는 관행, 색으로 위계 표현, 브랜드 고유 타이포그래피 사용, 실내·실외 환경 모두에서 테스트할 것이 제안됐다.
 
 ## 핵심 내용
+- **Siggraph 2014**(밴쿠버, 5일간): Computer Animation Festival·Production Session·Exhibition·Emerging Technology·Courses로 구성된 ACM 주최 세계 최대 컴퓨터 그래픽스 컨퍼런스
+- 1편(전반 리뷰): 'The Lego Movie', 'Gravity' 등 CG 제작기(Production Session), 삼성 'King of TV City' 광고 노미네이트와 디즈니 'Feast'(Computer Animation Festival), 3D 유체시뮬레이터·오큘러스 리프트 등 신기술 체험(Exhibition·Emerging Technology)
 - **웨어러블 컴퓨팅의 기원**: 1960년대 카지노 갬블러의 벨트·신발 인풋 장치 → 1968년 서덜랜드의 최초 HMD 'The Sword of Damocles' → 스티브 만(MIT Wearable Computing Group)의 1980~90년대 발전
 - **Touring Machine(1997, 컬럼비아대)**: See-through 안경 + 백팩형 PC로 구현한 초기 모바일 AR 사례
 - 컴퓨팅 트렌드는 [Small, Cheap, Faster, Intimate] 방향, 2011년 구글 글래스가 웨어러블 시장의 전환점
@@ -35,4 +39,5 @@ updated: "2026-08-24"
 - [[CHI 2015 학회와 HCI 연구 트렌드]] — 학술 관점에서 HCI 연구 트렌드를 다룬 유사한 해외 컨퍼런스 리뷰
 
 ## 출처
+- [[해외교육] Siggraph 2014 (1/2)](https://story.pxd.co.kr/1029) — 2015-03-19, 알 수 없는 사용자
 - [[해외교육] Siggraph 2014 (2/2) Wearable Computing](https://story.pxd.co.kr/1030) — 2015-03-23, 알 수 없는 사용자
