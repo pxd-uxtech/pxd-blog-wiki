@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-09-01] ingest | UX World 2018 spring 후기 2편, UX Conference London 2019 후기 (1/2)
+- 생성: UX-World-2018-spring-컨퍼런스 (/1323 카카오미니 AI 스피커 음성 구조·대화 설계·AI 퍼소나, Waymo 자율주행 5단계 레벨과 탑승자용 주행 시각화)
+- 업데이트: UX-Conference-London-2019 (+/1395 1편 — Martyn Reding의 UX-마케팅 역사적 대응관계, Jessica Lovegood의 비즈니스 성장 3원칙, Anat Treanor의 구독경제 마찰 감소, `[[디자인 시스템]]` `[[ResearchOps]]` `[[UX 라이팅]]` `[[MVP 중심 애자일 프로젝트 운영]]` 관련 개념 링크 추가)
+- /423·/398·/424(퍼소나로 완성하는 인터랙션 디자인 Chapter 6·9·13)는 오늘 이미 2회 동일 판정(슬라이드 임베드뿐, 미생성)이 반복돼 이번 회차는 재fetch 없이 스킵. 대신 `wiki/skip_urls.txt`를 신설하고 `scripts/ingest_priority.py`가 이 목록을 후보에서 자동 제외하도록 수정해 구조적 재부상 문제를 근본 해결함(다음 `ingest_priority.py N` 실행부터 이 3개 URL은 더 이상 후보로 나오지 않음)
+- 서브에이전트 1개(implementer)로 처리(대상이 /1323·/1395 2건으로 줄어 병렬 2개 대신 단일 에이전트로 진행). story-api.pxd.systems 지속 DNS 조회 불가 확인, story.pxd.co.kr 직접 fetch로 정상 처리(200, 우회 불필요)
+
 ## [2026-09-01] ingest | Protonotes_웹 프로토타입 위에 노트 남기기, [접근성] 휠체어를 타면, 계단은 무용지물이다., 퍼소나로 완성하는 인터랙션 디자인 : Chapter 6·9·13
 - 생성: 없음
 - 업데이트: 프로토타이핑-툴-비교 (+/79 Protonotes — 인터랙티브 프로토타이핑 툴 이전, 2010년 프로토타입 위에 코멘트를 남기는 협업 툴), 웹-접근성과-WAI-ARIA (+/239 휠체어·계단 비유와 센스리더 체험으로 본 2010년 초기 접근성 인식 사례, `[[정보 구조 설계 IA]]` 관련 개념 링크 추가)

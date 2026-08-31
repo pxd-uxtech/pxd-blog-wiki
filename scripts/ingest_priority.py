@@ -21,6 +21,20 @@ def get_ingested_urls():
     return ingested
 
 
+def get_skipped_urls():
+    """wiki/skip_urls.txt에서 본문 부족으로 미생성 처리한 URL들을 수집."""
+    skipped = set()
+    try:
+        with open("wiki/skip_urls.txt", encoding="utf-8") as f:
+            for line in f:
+                line = line.split("#", 1)[0].strip()
+                if line:
+                    skipped.add(line)
+    except FileNotFoundError:
+        pass
+    return skipped
+
+
 def main():
     n = int(sys.argv[1]) if len(sys.argv) > 1 else 10
 
@@ -39,7 +53,7 @@ def main():
                 m = dict(m, url=f"/{url}")
             title_to_meta[m["title"].strip()] = m
 
-    ingested = get_ingested_urls()
+    ingested = get_ingested_urls() | get_skipped_urls()
 
     # 조회수 순 정렬
     cells = sorted(cluster["data"]["cellData"], key=lambda x: -x["size"])

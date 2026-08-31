@@ -66,7 +66,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [Euro IA 2016 컨퍼런스](concepts/Euro-IA-2016-컨퍼런스.md) — 네덜란드 암스테르담 Euro IA 2016 "Connected Things Amongst Us" 참관기, BBC UX팀의 제이크 냅 오리지널 5일 디자인 스프린트 워크숍과 팀 역량 갭 매핑 워크숍
 - [Interaction16 컨퍼런스](concepts/Interaction16-컨퍼런스.md) — IxDA 주최 2016년 핀란드 헬싱키 컨퍼런스 참관기, 노키아 몰락 이후 스타트업 붐이 인 핀란드 IT 배경과 Aalto 대학 워크숍 프로그램
 - [2019 UX London 컨퍼런스](concepts/2019-UX-London-컨퍼런스.md) — Katie Koch(Spotify)의 서비스 디자인 협업 사례(프리미엄 듀오·인도네시아 현금 결제)와 Eva-Lotta Lamm의 펜과 종이 시각화 프레임워크 '맵핑 시스템'
-- [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
+- [UX Conference London 2019](concepts/UX-Conference-London-2019.md) — 2019 UX London 컨퍼런스와는 다른 별개 행사, Martyn Reding의 UX-마케팅 역사적 대응관계, Jessica Lovegood의 UX 기반 비즈니스 성장 3원칙, Anat Treanor의 구독경제 마찰 감소, Patrick Fagan의 사이코그래픽·3중뇌 가설 기반 개인화 UX와 Angela Arnold의 마케팅-UX 협업 공간 설계 4원칙
 - [2019 웹 트렌드 컨퍼런스](concepts/2019-웹-트렌드-컨퍼런스.md) — 더즈인터랙티브의 한화 금융 브랜드 'LifePlus' 웹사이트 기획 사례로 본 7가지 웹 기획 전략(Life as a Service·Bold Typography·Broken-Grid Layout 등)
 - [UX 심포지움 2010 세미나 리뷰](concepts/UX-심포지움-2010-세미나-리뷰.md) — 2010년 도널드 노먼·빌 벅스턴 방한 강연을 다룬 국내 UX 블로거 8인의 후기를 모은 pxd story 큐레이션, asteray의 "Definition·Theme·Insight" 3축 정리
 - [UXCamp Seoul 2010 세미나 리뷰](concepts/UXCamp-Seoul-2010-세미나-리뷰.md) — 2010년 서울대에서 열린 UXcampSeoul 바캠프 후기, pxd 한상택의 "Problem Driven Goal Directed Design, 아이폰 웹어플 리디자인" 발표
@@ -81,6 +81,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
 - [UX World 2017 컨퍼런스](concepts/UX-World-2017-컨퍼런스.md) — 2017년 "UX for Digital Transformation": 구글 제러드 짐머맨의 팀 빌딩(소속감·믿음, 명성·돈·영향력), 페이스북 VR 콘텐츠 디자인 3요소(실재감·편안함·입력방식), 우버 ATG의 자율주행 UX와 지도 디자인 3원칙
+- [UX World 2018 spring 컨퍼런스](concepts/UX-World-2018-spring-컨퍼런스.md) — 2018년 "Creating Innovative Customer Experiences": 카카오미니 AI 스피커의 음성 구조·대화 설계·AI 퍼소나, Waymo 자율주행 5단계 레벨과 탑승자용 360도 주행 시각화
 - [UI17 컨퍼런스와 회의 퍼실리테이션 기법](concepts/UI17-컨퍼런스와-회의-퍼실리테이션-기법.md) — 2012년 보스턴 UIE 주최 UI17 컨퍼런스 워크숍 후기: 퍼실리테이터·레코더·그룹 멤버·리더 4대 롤과 페차쿠차(PECHA KUCHA) 등 10개 회의 퍼실리테이션 기법
 - [CES 2013 컨퍼런스](concepts/CES-2013-컨퍼런스.md) — pxd 해외 교육 프로그램으로 참관한 2013 라스베가스 CES, LG·삼성 OLED/UHD TV 경쟁과 스마트홈 허브, 인텔 동작 인식, 토요타·아우디 무인자동차, 디지털 헬스 트렌드
 - [Cooper Visual Interface Design 워크숍](concepts/Cooper-Visual-Interface-Design-워크숍.md) — 2014년 샌프란시스코 Cooper사 워크숍 후기: Research→Translate→Archetype→Document 4단계 Visual Interface Design Process와 Goal-directed Design의 근거·비전 확보 방식
