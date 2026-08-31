@@ -71,6 +71,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX 심포지움 2010 세미나 리뷰](concepts/UX-심포지움-2010-세미나-리뷰.md) — 2010년 도널드 노먼·빌 벅스턴 방한 강연을 다룬 국내 UX 블로거 8인의 후기를 모은 pxd story 큐레이션, asteray의 "Definition·Theme·Insight" 3축 정리
 - [UXCamp Seoul 2010 세미나 리뷰](concepts/UXCamp-Seoul-2010-세미나-리뷰.md) — 2010년 서울대에서 열린 UXcampSeoul 바캠프 후기, pxd 한상택의 "Problem Driven Goal Directed Design, 아이폰 웹어플 리디자인" 발표
 - [UXCamp Seoul 2011 세미나 리뷰](concepts/UXCamp-Seoul-2011-세미나-리뷰.md) — 2011년 성균관대 UX 커뮤니티 컨퍼런스 후기: 스케치 UX, Space UX와 'Boss eXperience', 장애인 사용자 경험, 사용성 테스트 실무 팁, 아이패드·갤럭시탭·종이책 비교 연구
+- [2011 pxd UI Workshop](concepts/2011-pxd-UI-Workshop.md) — 앨런 쿠퍼 『About Face』 사내 Book 스터디를 검증한 6주 실습형 퍼소나 워크숍, User Interview→Persona→Scenario→Framework Sketch 단계별 진행과 "핵심적 행동 패턴 하나"를 찾는 insight 원칙
 - [UXCamp Seoul 2012 세미나 리뷰](concepts/UXCamp-Seoul-2012-세미나-리뷰.md) — 2012년 KGIT에서 열린 UXCamp Seoul 4th 후기: 마술과 UX 접목(노병욱), 수평적 사고 기반 목표 설정(정기원), Auditory UI 4요소·촉각/청각 피드백 연구, 반응카드법 기반 감성 평가
 - [UXCamp Seoul 2014 세미나 리뷰](concepts/UXCamp-Seoul-2014-세미나-리뷰.md) — 2014년 서울크리에이티브랩 'behind the curtain' 주제로 열린 UXCamp Seoul 5th 후기: 레고 매뉴얼 디테일과 UX 글쓰기 팁(우상훈), 커뮤니티 디자인, Assistor PS 도구, 모바일 브로셔 시장
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)

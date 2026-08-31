@@ -1,5 +1,12 @@
 # Wiki 작업 이력
 
+## [2026-08-31] ingest | 퍼소나로 완성하는 인터랙션 디자인 : Chapter 6·13, UI 청원 운동 제안 - 한영 입력 개선, [Workshop] 2011 pxd UI Workshop 후기
+- 생성: 2011-pxd-UI-Workshop (/372 앨런 쿠퍼 『About Face』 사내 Book 스터디를 검증한 6주 실습형 퍼소나 워크숍 — User Interview→Persona→Scenario→Framework Sketch 단계별 진행, "핵심적 행동 패턴 하나"를 찾는 insight 원칙)
+- 업데이트: 한글-입력-설계 (+/91 이재용의 'UI 청원 운동' 제안 — 한/영 미인지 오타로 인한 연간 61억~300억 원 손실 추정과 국제 청원 운동 제안), 래피드-퍼소나-워크숍·2011-pxd-talks-사내-강연-시리즈 (2011 pxd UI Workshop 페이지 크로스레퍼런스 추가)
+- /423·/398(퍼소나로 완성하는 인터랙션 디자인 Chapter 6·9)은 Wayback Machine으로 본문 확보했으나 슬라이드쉐어 임베드 placeholder뿐 실질 분석 텍스트가 없어 미생성 처리 (기존 회차와 동일 판정, /423은 이번까지 4회 연속 동일 결과). /424(Chapter 13)도 "스터디 자료 공유합니다."라는 한 줄과 댓글뿐이라 동일하게 미생성 처리
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. 첫 시도 중 한 에이전트가 컴퓨터 절전모드로 중단되어 재실행. story-api.pxd.systems 지속 DNS 조회 불가 확인, story.pxd.co.kr 직접 fetch로 우회. /423·/398은 story.pxd.co.kr도 403이라 Wayback Machine 스냅샷으로 추가 우회, /424는 pxdstory.tistory.com Wayback 스냅샷으로 우회
+- `ingest_priority.py`가 미생성 처리된 URL을 계속 후보로 재부상시키는 구조적 문제 지속 확인 (기존 메모리 기록과 동일)
+
 ## [2026-08-31] ingest | Windows 7 Design Principles, UX World 2017 Fall 후기
 - 생성: 윈도우-7-디자인-원칙, UX-World-2017-컨퍼런스
 - 업데이트: UX-World-2014-컨퍼런스 (+UX World 2017 컨퍼런스 크로스레퍼런스)
