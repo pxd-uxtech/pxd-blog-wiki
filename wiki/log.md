@@ -1,5 +1,11 @@
 # Wiki 작업 이력
 
+## [2026-09-01] ingest | 퍼소나로 완성하는 인터랙션 디자인 : Chapter 6·9·13, 블로그를 여행하는 pxd인을 위한 안내서, 'Woot.com'에서 엿볼 수 있는 전략
+- 생성: 없음
+- 업데이트: pxd-블로그-운영 (+/685 위승용의 신입사원 블로그 교육 — '주제유형'·'글 패턴' 자료, `[[글쓰기 기술]]` 관련 개념 링크 추가), 서비스-프로세스-효율화 (+/168 Woot.com의 선택 제한 전략 — 원두막 백반집 사례와 동일 메커니즘의 2010년 온라인 커머스 선행 사례)
+- /423·/398·/424(퍼소나로 완성하는 인터랙션 디자인 Chapter 6·9·13)는 이번에도 재확인했으나 슬라이드쉐어 임베드 placeholder뿐(또는 "스터디 자료 공유합니다." 한 줄)이라 실질 분석 텍스트 없음 확인, 동일하게 미생성 처리. `ingest_priority.py`가 미생성 URL을 추적하지 못해 계속 후보로 재부상하는 구조적 문제 지속 확인
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, story.pxd.co.kr 직접 fetch로 우회. /423·/398·/424는 story.pxd.co.kr도 403이라 Wayback Machine 스냅샷으로 추가 우회, /685·/168은 story.pxd.co.kr 200 정상 fetch
+
 ## [2026-08-31] ingest | 퍼소나로 완성하는 인터랙션 디자인 : Chapter 6·13, UI 청원 운동 제안 - 한영 입력 개선, [Workshop] 2011 pxd UI Workshop 후기
 - 생성: 2011-pxd-UI-Workshop (/372 앨런 쿠퍼 『About Face』 사내 Book 스터디를 검증한 6주 실습형 퍼소나 워크숍 — User Interview→Persona→Scenario→Framework Sketch 단계별 진행, "핵심적 행동 패턴 하나"를 찾는 insight 원칙)
 - 업데이트: 한글-입력-설계 (+/91 이재용의 'UI 청원 운동' 제안 — 한/영 미인지 오타로 인한 연간 61억~300억 원 손실 추정과 국제 청원 운동 제안), 래피드-퍼소나-워크숍·2011-pxd-talks-사내-강연-시리즈 (2011 pxd UI Workshop 페이지 크로스레퍼런스 추가)
