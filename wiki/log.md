@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-01] ingest | ExpressionBlend3+sketchflow? 이걸로 뭘하면 좋을까?, [해외교육] 2013 hxd conference (2/3), [소소한 이야기] 눈송이 스티커, 제5회 We Sports! 대회 이야기❤︎, Facebook Origami 예제 1) 움직이는 원 만들기
+- 생성: 포그-행동-모델 (/717 BJ 포그의 B=MAT 공식·Behavior Grid·Priority Mapping·습관 형성 곡선, 기존 `[[훅 모델과 습관 형성 디자인]]`의 인용원으로 별도 개념화)
+- 업데이트: 프로토타이핑-툴-비교 (+/49 Expression Blend 3 + SketchFlow 리뷰, +/1104 Facebook Origami "움직이는 원 만들기" 예제), 훅-모델과-습관-형성-디자인 (관련 개념에 `[[포그 행동 모델]]` 크로스레퍼런스 추가), pxd-블로그-운영 (+/923 제5회 We Sports 대회, +/669 눈송이 스티커 다이어리)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, story.pxd.co.kr 직접 fetch로 우회
+
 ## [2026-09-01] ingest | '모바일 메가 트렌드와 사용자 경험의 진화' 세미나 정리, Siggraph 2014 (1/2), 2011 서비스 디자인 글로벌 컨퍼런스 후기, 특허등록 - 디지털 방송 위젯 시스템, [아트]_Media art / Interactive art
 - 생성: 모바일-메가트렌드-2010-세미나-리뷰, 서비스디자인-글로벌-컨퍼런스-2011, 디지털-방송-위젯-시스템-특허, 미디어아트-인터랙티브아트와-영감-큐레이션
 - 업데이트: Siggraph-2014-컨퍼런스와-웨어러블-컴퓨팅 (+/1029 1편 — Siggraph 2014 행사 전반 리뷰를 기존 2편/웨어러블 컴퓨팅 페이지에 통합)
