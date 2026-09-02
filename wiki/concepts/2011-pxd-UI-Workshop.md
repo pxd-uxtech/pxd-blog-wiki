@@ -30,6 +30,7 @@ updated: "2026-09-03"
 - [[2011 pxd talks 사내 강연 시리즈]] — 같은 해 진행된 또 다른 사내 교육·강연 프로그램
 - [[사용자 인터뷰 기법]] — 1~2주차에 다룬 User Interview 세미나와 실습
 - [[UX 커뮤니티와 스터디 그룹]] — 사내 Book 스터디라는 자기주도 학습 방식의 다른 사례
+- [[사용자 중심 디자인]] — 목표 지향 디자인(Goal-Directed Design)의 철학적 배경을 다룬 2010년 pxd 인터뷰
 
 ## 출처
 - [[Workshop] 2011 pxd UI Workshop 후기](https://story.pxd.co.kr/372) — 2011-05-24, 위승용 uxdragon
