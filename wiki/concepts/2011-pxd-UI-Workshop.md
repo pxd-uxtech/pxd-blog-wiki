@@ -2,12 +2,12 @@
 type: concept
 domain: "UX 방법론"
 name: "2011 pxd UI Workshop"
-sources: ["/372"]
-updated: "2026-08-31"
+sources: ["/372", "/329"]
+updated: "2026-09-03"
 ---
 # 2011 pxd UI Workshop
 
-2011년 pxd는 매주 사내 Book 스터디를 통해 앨런 쿠퍼의 저서 『퍼소나로 완성하는 인터랙션 디자인』(원제 About Face)을 학습했고, Chapter 1을 마친 뒤 배운 이론을 실습으로 검증하기 위해 6주에 걸친 **pxd UI Workshop**을 진행했다. 3명씩 5개 조를 편성해 "7인치 디스플레이에 최적화된 맛집 어플리케이션 제작"이라는 공통 주제로 팀 작업을 수행했다.
+2011년 pxd는 매주 사내 Book 스터디를 통해 앨런 쿠퍼의 저서 『퍼소나로 완성하는 인터랙션 디자인』(원제 About Face)을 학습했고, Chapter 1을 마친 뒤 배운 이론을 실습으로 검증하기 위해 6주에 걸친 **pxd UI Workshop**을 진행했다. 스터디의 출발점인 **Chapter 1 '목표 지향 디자인으로의 첫걸음'**(2011-01-31 발표)은 앨런 쿠퍼가 제안한 **목표 지향 디자인(Goal-Directed Design)** — 사용자의 구체적 과업이 아니라 그 이면의 **목표**를 중심으로 설계해야 한다는 원칙 — 을 다룬 도입 장으로, 이후 이어진 Creating Persona·User Scenario 세미나의 이론적 토대가 됐다. 3명씩 5개 조를 편성해 "7인치 디스플레이에 최적화된 맛집 어플리케이션 제작"이라는 공통 주제로 팀 작업을 수행했다.
 
 워크숍은 사용자 중심 설계 프로세스를 압축한 6주 커리큘럼으로 구성됐다. 1주차 User Interview 세미나(송영일), 2주차 실제 사용자 인터뷰 수행(조별 3명 이상), 3주차 Creating Persona 세미나(이재용), 4주차 퍼소나 작성, 5주차 User Scenario·Functional Needs 도출(박기혁), 6주차 Framework Sketch(박기혁) 순으로 진행됐다. 마지막 주에는 각 조가 작업물을 벽에 붙이고 발표한 뒤 평가위원단의 별점 심사로 우승팀을 가렸다.
 
@@ -15,6 +15,7 @@ updated: "2026-08-31"
 
 ## 핵심 내용
 - 앨런 쿠퍼의 『퍼소나로 완성하는 인터랙션 디자인』(About Face) 사내 Book 스터디를 실습으로 검증한 워크숍
+- Chapter 1 '목표 지향 디자인으로의 첫걸음'이 스터디의 시작점 — 사용자의 과업이 아닌 목표 중심 설계 원칙 소개
 - 6주 커리큘럼: User Interview → Creating Persona → User Scenario·Functional Needs → Framework Sketch
 - 3인 5개 조, 공통 주제 "7인치 디스플레이 최적화 맛집 앱"
 - 세미나 진행: 송영일(User Interview), 이재용(Creating Persona), 박기혁(Scenario·Framework Sketch)
@@ -32,3 +33,4 @@ updated: "2026-08-31"
 
 ## 출처
 - [[Workshop] 2011 pxd UI Workshop 후기](https://story.pxd.co.kr/372) — 2011-05-24, 위승용 uxdragon
+- [퍼소나로 완성하는 인터랙션 디자인 : Chapter 1. 목표 지향 디자인으로의 첫걸음](https://story.pxd.co.kr/329) — 2011-01-31, 알 수 없는 사용자
