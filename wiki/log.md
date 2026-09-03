@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-04] ingest | i pad 와 3일간 칩거, UXD 전문업체 탐방 (월간 Web 2011.10), [해외교육] Euro IA 2013 둘러보기 - Day 1, [해외교육] 2013 hxd conference (1/3), NAUL Illustration
+- 생성: 에릭-리스의-사용성-프레임워크 (/795 Euro IA 2013 워크숍 "Usable Usability" — Ease of Use/Elegance and Clarity 10요소 체크리스트), 타-장르-아티스트-작품과-영감-큐레이션 (/61 브라운아이드소울 나얼의 그림 작업 소개)
+- 업데이트: 초기-태블릿-PC-경쟁과-사용자-경험-비교 (+/132 갤럭시탭 출시 전 아이패드 3일 단독 사용기), 신규-입사자-온보딩 (+/440 2012년 pPM 이전 도제식 온보딩 실태), 정보-구조-설계-IA (+/795 자매 워크숍 "Being in Business with IA"), 사용자-여정-분석 (+/698 hxd conference 1/3 개요 — mad*pow 주최 취지와 BJ Fogg pre-workshop 맥락)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, 5건 모두 story.pxd.co.kr 직접 fetch로 우회(200 정상)
+
 ## [2026-09-03] ingest | [pxd talks 32] The Designers - 놀공발전소가 디자인한 몰입의 놀이 경험, 스마트폰 안으로 들어온 웹, UX, 모바일을 넘어 자동차까지, 'HCI(UX)2018 NEW TRENDS SEMINAR' 참석 후기, pxd, UX에 관해 말하다 (월간 Web 2010.03)
 - 생성: 없음 (5건 모두 기존 개념 페이지에 병합)
 - 업데이트: 2011-pxd-talks-사내-강연-시리즈 (+/748 pxd talks 32 — 놀공발전소와의 도심 미션형 ARG 워크샵), 패널-해상도-표준과-디자인-리소스-큐레이션 (+/153 모바일 웹사이트 레퍼런스 링크 큐레이션 사례), 차량-UX-디자인-프로세스 (+/35 2010년 초기 전망 — HCI 영역의 자동차 확장), 대한민국-HCI-UX-역사 (+/1316 HCI(UX) 2018 New Trends Seminar 참관 후기), 사용자-중심-디자인 (+/23 보편성의 상대성과 골 디렉티드 디자인, 2010 월간 Web 인터뷰), 대체현실게임-ARG·게임-디자인-워크숍-기법·빅게임-디자인·pxd-워크샵과-야유회-문화·반응형-웹-디자인·수렴적-디자인-프로세스·2011-pxd-UI-Workshop·사용자-행동-패턴 (신규 개념 페이지로 향하는 크로스레퍼런스 추가, sources 변경 없음)
