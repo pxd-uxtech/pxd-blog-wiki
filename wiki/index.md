@@ -574,6 +574,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [대한민국 HCI-UI-UX 역사](concepts/대한민국-HCI-UX-역사.md) — 1990년 HCI 학회부터 2010년대까지 한국 UI/UX 업계의 연표
 - [CHI 2015 학회와 HCI 연구 트렌드](concepts/CHI-2015-학회와-HCI-연구-트렌드.md) — 게임 몰입·NUI·EMS 촉각 내비게이션·웨어러블 사변적 디자인 등 CHI 2015 국제 학회 Paper 세션에서 발표된 HCI 연구 트렌드 종합
 - [Siggraph 2014 컨퍼런스와 웨어러블 컴퓨팅](concepts/Siggraph-2014-컨퍼런스와-웨어러블-컴퓨팅.md) — 웨어러블 컴퓨팅 역사(1968 HMD·스티브 만·Touring Machine)와 기술 분류, 디즈니 DisneyQuest 사례, Mark Billinghurst의 웨어러블 인터페이스 디자인 가이드라인
+- [디지털 헬스케어 혁신 사례](concepts/디지털-헬스케어-혁신-사례.md) — pxd talks 44(최윤섭) 강연: 개인 유전체 분석(Foundation Medicine·23andMe), Google Glass·Scanadu·Proteus 등 디지털 헬스케어 기기, AliveCor 웨어러블 심전도, PatientsLikeMe 환자 커뮤니티로 본 헬스케어-IT 컨버전스 혁신 사례
 - [홈서버 원격 제어](concepts/홈서버-원격-제어.md) — WOL·Air Video·VNC를 조합해 스마트폰만으로 PC 전원부터 파일 감상·종료까지 처리한 2010년 개인 홈서버 구축 사례, 스마트폰-PC 중간 디바이스 레이아웃 표준의 부재
 - [클라우드 컴퓨팅](concepts/클라우드-컴퓨팅.md) — 클라우드의 어원과 SaaS·PaaS·IaaS 3층 구조, 세일즈포스닷컴 채터와 퍼스널 클라우드 서비스(PCC)로 본 N스크린 전략
 - [인사이트 노동자](concepts/인사이트-노동자.md) — 정지훈 『무엇이 세상을 바꿀 것인가』 독후감: BCG 리치 레서가 제시한 개념, 지식 노동 자동화 이후 비판적 사고·공감을 담당하는 미래 노동자상
