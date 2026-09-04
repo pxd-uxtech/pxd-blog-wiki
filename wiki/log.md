@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-05] ingest | Reddot 디자인 어워드 2015 수상, [해외교육] 제10회 베를린 비엔날레 후기, 디지털 마케팅 2018 후기 2편, 암스텔담 2012 UX intensive 둘러보기 - Day1, non format: Even you friend
+- 생성: 베를린-비엔날레 (/1346 2018년 제10회 베를린 비엔날레(BBX) 관람기 — 슬로건 'We don't need another hero', 자기보존 테마, ADK·KW·ZK/U 전시장 작품)
+- 업데이트: 디자인-어워드와-수상-사례 (+/1112 2015년 Calyx M 'M:USE' Red Dot Award 수상, 같은 해 iF 어워드와 2관왕), UX-intensive-2012-암스텔담-세미나-리뷰 (+/521 Day1 Design Strategy — 마이클 포터·린 스타트업·로드맵), 디지털-마케팅-컨퍼런스-2018 (+/1344 2편 — Antiope 디지털 디스럽션 대응, 아모레퍼시픽 챗봇 사례, BBDO Digital의 기술관), 시네마그래프와-디자인-영감-큐레이션 (+/209 non-format 스튜디오 "Even Your Friend" 소개와 pxd 퍼소나 응용 아이디어)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, 5건 모두 story.pxd.co.kr 직접 fetch로 우회(200 정상)
+
 ## [2026-09-04] ingest | i pad 와 3일간 칩거, UXD 전문업체 탐방 (월간 Web 2011.10), [해외교육] Euro IA 2013 둘러보기 - Day 1, [해외교육] 2013 hxd conference (1/3), NAUL Illustration
 - 생성: 에릭-리스의-사용성-프레임워크 (/795 Euro IA 2013 워크숍 "Usable Usability" — Ease of Use/Elegance and Clarity 10요소 체크리스트), 타-장르-아티스트-작품과-영감-큐레이션 (/61 브라운아이드소울 나얼의 그림 작업 소개)
 - 업데이트: 초기-태블릿-PC-경쟁과-사용자-경험-비교 (+/132 갤럭시탭 출시 전 아이패드 3일 단독 사용기), 신규-입사자-온보딩 (+/440 2012년 pPM 이전 도제식 온보딩 실태), 정보-구조-설계-IA (+/795 자매 워크숍 "Being in Business with IA"), 사용자-여정-분석 (+/698 hxd conference 1/3 개요 — mad*pow 주최 취지와 BJ Fogg pre-workshop 맥락)
