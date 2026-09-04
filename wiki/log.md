@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-05] ingest | Designing for the Digital Age Ch4 Research fundamental 2, 아이튠즈 계정 생성 입력 폼 UI 실패, 퍼소나로 완성하는 디자인 Ch10 디자인 오케스트라, About Face 3 3부 chapter 17/18, Left Right Up Down 사이니지·웨이파인딩 도서리뷰
+- 생성: 사이니지와-웨이파인딩-디자인 (/325 『Left, Right, Up, Down: New Directions in Signage and Wayfinding』 도서 리뷰 — 사인에 쓰인 폰트명·제작사를 공개하는 레퍼런스의 가치, MACBA 사인 디자인 사례)
+- 업데이트: 에러-메시지-작성-원칙-4H (+/292 아이튠즈 계정 생성 입력 폼 UI 실패 — 시선 흐름(locus of attention) 원칙), 사용자-인터뷰-기법 (+/143 Designing for the Digital Age Ch4 — 리서치 팀 구성과 데이터 캡처 방법), UI-패턴-원칙-도서 (+/402 퍼소나로 완성하는 디자인 Ch10 디자인 오케스트라, +/528 About Face 3 3부 chapter 17/18 저장 인터랙션·정보 입력 — 동일 About Face 3 UI 스터디 시리즈로 병합), 지각심리학과-UI-설계·수렴적-디자인-프로세스·타이포그래피와-서체-디자인 (신규/업데이트 페이지와 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, /292·/325는 story.pxd.co.kr 직접 fetch로 우회(200 정상), /143·/402·/528은 story.pxd.co.kr·tistory 미러 모두 403이라 Wayback Machine으로 추가 우회(일시적으로 "Temporarily Offline" 상태였다가 재시도 시 복구됨). /402는 본문이 한 줄+이미지뿐인 빈약한 콘텐츠였으나 기존 시리즈 페이지에 병합 처리
+
 ## [2026-09-05] ingest | 혼을 담은 UI와 GUI, 디자이너 소개, How to blog, Visual Interface Design 2장, 팀버튼 회고전
 - 생성: 없음 (5건 모두 기존 개념 페이지에 병합)
 - 업데이트: 타-장르-아티스트-작품과-영감-큐레이션 (+/301 GUI에 혼을 담아내는지 자문하는 드러머 영상 감상, +/65 후배의 인터랙티브 퍼포먼스 전시 'A Dialog' 소개, +/68 팀 버튼 MoMA 회고전 홍보 사이트), 인터랙티브-내러티브와-비선형-스토리텔링 ('A Dialog' 분기 시나리오 구조 크로스레퍼런스 추가), 글쓰기-기술 (+/356 사내 'How to blog' 발표 — 블로그 초심자 글쓰기 가이드), 단순함의-법칙 (+/109 GUI 랩 북스터디 "품위와 단순성" 토론, [[어포던스]] 링크 추가)
