@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-05] ingest | 검색 엔진 iPad ready 디자인, Designing for the Digital Age Ch7 주요 사용자와 클라이언트를 이해하기, Smartphone resolution & HD Screen, 런던에서 아이폰의 인기, Moblin + Maemo = MeeGo
+- 생성: 모바일-OS-춘추전국시대 (/20 인텔 모블린+노키아 마에모의 미고(MeeGo) 제휴로 본 2010년 스마트폰 OS 춘추전국시대 — 윈도폰7·바다·심비안·안드로이드·iOS 난립)
+- 업데이트: 검색-UX-설계 (+/375 아이패드 발매 시점 검색엔진 디테일 대응 격차), 사용자-인터뷰-기법 (+/226 킴 굿윈의 7갈래 질문 프레임), 사용자-연구-사례-스마트폰-정의-인식조사 (+/6 런던 현지 조사 iPhone 채택 사회적 동조 압력), 패널-해상도-표준과-디자인-리소스-큐레이션 (+/183 스마트폰 해상도·16:9 HD 화면비 최적화 계산 사례), UI-디테일-비교와-지속적-개선·모바일-메가트렌드-2010-세미나-리뷰·우분투-OS-디자인-철학·초기-태블릿-PC-경쟁과-사용자-경험-비교 (신규/업데이트 페이지와 크로스레퍼런스 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, /375·/183·/6·/20은 story.pxd.co.kr 직접 fetch로 우회(200 정상), /226은 직접 접근 403이라 Wayback Machine으로 추가 우회
+
 ## [2026-09-05] ingest | Designing for the Digital Age Ch4 Research fundamental 2, 아이튠즈 계정 생성 입력 폼 UI 실패, 퍼소나로 완성하는 디자인 Ch10 디자인 오케스트라, About Face 3 3부 chapter 17/18, Left Right Up Down 사이니지·웨이파인딩 도서리뷰
 - 생성: 사이니지와-웨이파인딩-디자인 (/325 『Left, Right, Up, Down: New Directions in Signage and Wayfinding』 도서 리뷰 — 사인에 쓰인 폰트명·제작사를 공개하는 레퍼런스의 가치, MACBA 사인 디자인 사례)
 - 업데이트: 에러-메시지-작성-원칙-4H (+/292 아이튠즈 계정 생성 입력 폼 UI 실패 — 시선 흐름(locus of attention) 원칙), 사용자-인터뷰-기법 (+/143 Designing for the Digital Age Ch4 — 리서치 팀 구성과 데이터 캡처 방법), UI-패턴-원칙-도서 (+/402 퍼소나로 완성하는 디자인 Ch10 디자인 오케스트라, +/528 About Face 3 3부 chapter 17/18 저장 인터랙션·정보 입력 — 동일 About Face 3 UI 스터디 시리즈로 병합), 지각심리학과-UI-설계·수렴적-디자인-프로세스·타이포그래피와-서체-디자인 (신규/업데이트 페이지와 크로스레퍼런스 추가)
