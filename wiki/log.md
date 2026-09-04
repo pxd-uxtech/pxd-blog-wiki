@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-05] ingest | 홍대 카페 기가막힌 naming, [채용] pxd 2013년 하반기 채용 안내, 2012 pxd 워크샵 후기♬, 제4회 We sports 대회 이야기, [pxd talks 41] Smart TV - TV를 둘러싼 변화와 시도들
+- 생성: Smart-TV-UX와-Connected-TV-생태계 (/843 pxd talks 41 — 인터랙티브 TV·PVR 실패사를 혁신기업의 딜레마(종속적/파괴적 혁신)로 설명, OTT 부상과 파편화로 본 Connected TV 생태계)
+- 업데이트: 글쓰기-기술 (+/185 반지하·1.5층 카페 네이밍 사례 — 카피가 실제 동선을 바꾼다는 실증 사례), pxd-채용-프로세스 (+/780 2013년 하반기 채용 안내 — 중국어 특기자·해외 리서치 특별 채용 신설, 3단계 채용 절차·연도 접두 파일명 규칙 확인 시점을 2013년 9월로 소급), pxd-워크샵과-야유회-문화 (+/602 2012년 10주년 기념 전라남도 워크샵), pxd-Wii-스포츠대회와-사내-친목-문화 (+/668 제4회 대회(2013) — 오프라인 종목 추가, 84인치 TV, We Sports Scoreboard)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, 5건 모두 story.pxd.co.kr 직접 fetch로 우회(200 정상)
+
 ## [2026-09-05] ingest | Reddot 디자인 어워드 2015 수상, [해외교육] 제10회 베를린 비엔날레 후기, 디지털 마케팅 2018 후기 2편, 암스텔담 2012 UX intensive 둘러보기 - Day1, non format: Even you friend
 - 생성: 베를린-비엔날레 (/1346 2018년 제10회 베를린 비엔날레(BBX) 관람기 — 슬로건 'We don't need another hero', 자기보존 테마, ADK·KW·ZK/U 전시장 작품)
 - 업데이트: 디자인-어워드와-수상-사례 (+/1112 2015년 Calyx M 'M:USE' Red Dot Award 수상, 같은 해 iF 어워드와 2관왕), UX-intensive-2012-암스텔담-세미나-리뷰 (+/521 Day1 Design Strategy — 마이클 포터·린 스타트업·로드맵), 디지털-마케팅-컨퍼런스-2018 (+/1344 2편 — Antiope 디지털 디스럽션 대응, 아모레퍼시픽 챗봇 사례, BBDO Digital의 기술관), 시네마그래프와-디자인-영감-큐레이션 (+/209 non-format 스튜디오 "Even Your Friend" 소개와 pxd 퍼소나 응용 아이디어)
