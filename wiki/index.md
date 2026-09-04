@@ -256,6 +256,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [BX 디자인과 브랜드 자산 운용](concepts/BX-디자인과-브랜드-자산-운용.md) — BX 디자이너는 브랜드의 시각적 언어와 사용자 경험을 통합하는 역할
 - [Family UI](concepts/Family-UI.md) — 자동차 업계 Family Look에서 차용한 크로스플랫폼 UI 일관성 개념, 미투데이 웹·iOS·안드로이드 앱의 아이콘·레이블·레이아웃·내비게이션 비교 사례
 - [GUI 디자인 사례 SKP Tcloud](concepts/GUI-디자인-사례-SKP-Tcloud.md) — SK플래닛 N-스크린 클라우드 스토리지 Tcloud의 Web·iPhone·Android·iPad 크로스플랫폼 GUI 디자인 프로젝트 사례, GUI Lab·UI Lab 역할 분담
+- [GUI 디자인 사례 T smart learning](concepts/GUI-디자인-사례-T-smart-learning.md) — pxd·SK텔레콤·청담러닝의 국내 최초 Tablet PC 기반 스마트 교육 플랫폼 GUI 디자인 프로젝트, Launcher형 학습 Tool App 통합 사례
 - [UI 컴포넌트 용어](concepts/UI-컴포넌트-용어.md) — UI 기획자와 디자이너, 개발자가 협업할 때 필요한 공통 언어 (Granularity·Coherence 포함)
 - [UI-GUI 협업 프로세스](concepts/UI-GUI-협업-프로세스.md) — 컴포넌트 정의→도구 선택→공동 라이브러리→문서 통합 4단계로 UI팀·GUI팀 협업을 개선하는 프로세스, '디자이너의 git' Abstract 활용
 - [다크 UI와 눈의 피로](concepts/다크-UI와-눈의-피로.md) — 2010년대 초 After Effects·Expression Blend 등 영상·그래픽 툴이 어두운 GUI를 기본값으로 채택한 배경(눈의 피로 완화 통념)과 이후 OS 전반 다크 모드로의 확산
