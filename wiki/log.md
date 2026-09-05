@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-06] ingest | Visual Interface Design 3장(x2), 확인! OK! 계속! 완료! 버튼은 어디로?, 안드로이드 vs 애플 최후의 승자는?, 스위치, 컨셉 동영상, 데모 동영상, Designing for the Digital Age Chapter4 Research fundamental 1, [Layout] photoshop-like layout, iPad Application Websites
+- 생성: 확인-취소-버튼-배치 (/116 OK/취소 버튼 위치를 정하는 5가지 근거와 단일 규칙 불가능성)
+- 업데이트: 게슈탈트-법칙과-시각적-통일성 (+/110·/125 사내 스터디 Visual Interface Design 3장 두 세션 노트), 모바일-OS-춘추전국시대 (+/120 안드로이드 vs 애플 에코시스템 경쟁 전망), 행동경제학과-UX (+/122 『스위치』 초기 독후감), Natural-User-Interface-NUI (+/129·/130 XUI·Office Labs 2019 제스처 인터페이스 영상), 사용자-인터뷰-기법 (+/142 Designing for the Digital Age 4장 1부, 리서치 필요성과 5가지 방법 비교), 패널-해상도-표준과-디자인-리소스-큐레이션 (+/149 포토샵 메타포 웹 레이아웃, +/160 아이패드 초기 앱 웹사이트 큐레이션)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가(curl exit 6) 확인. story.pxd.co.kr 직접 fetch 중 /110·/125·/142는 403이라 Wayback Machine 스냅샷으로 우회 확보, 나머지는 정상 200. ingest_priority.py의 클러스터(cluster_data.json) 소진 상태 지속으로 all_metas.json 직접 스캔(발행일 오름차순)으로 대상 선정. 두 에이전트가 서로 다른 파일을 편집해 충돌 없음, 메인 세션에서 각 diff 직접 검증 완료
+
 ## [2026-09-06] ingest | Microsoft Expression Blend 구입하기 - 고통의 연속, 똑똑똑. 블로그 문을 열다., Mobile Sites, [GRAPHIC] 2009 Annual Report, Minimal Website Design, Adobe CS5 간단리뷰 동영상(링크)
 - 생성: 그래픽-디자인-스튜디오-전시-관람과-영감 (/63 GRAPHIC PROPAGANDA PRESS 'GRAPHIC 2009 Annual Report' 전시 관람기), Adobe-CS5-신기능-리뷰-영상-공유 (/100 CS5 신기능 유튜브 리뷰 영상 링크 모음)
 - 업데이트: 프로토타이핑-툴-비교 (+/32 Expression Blend 3 구매 여정 — 리전별 페이지·깨진 링크로 헤맨 경험담), pxd-블로그-운영 (+/53 "pxd 다이어리 & 소소한 이야기" 카테고리 개설 첫 글), 패널-해상도-표준과-디자인-리소스-큐레이션 (+/60 Mobile Sites — 모바일 최적화 웹 인식 부족 초기 문제 제기, +/74 Minimal Website Design — 미니멀 웹 디자인 사례 큐레이션)
