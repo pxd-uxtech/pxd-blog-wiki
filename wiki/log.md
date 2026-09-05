@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-06] ingest | Google Instant 의 원형과 미래, 인터넷 쇼핑으로 식품을 구입한다면..., Audi_Rubix_480_sm 프로모션 광고, UXalliance meeting Cape Town, UX Masterclass 2019 Johannesburg
+- 생성: 장바구니-UX-설계 (/366 홈플러스·NS 농수산·이마트 식품 쇼핑몰 장바구니 비교), UX-Masterclass-2019-컨퍼런스 (/1403 남아공 요하네스버그 UXMC 2019 "Humanizing Innovation")
+- 업데이트: 검색-UX-설계 (+/257 Google Instant의 원형 — 스팟라이트·사파리 인퀴지터·À la carte 검색), UX-얼라이언스-글로벌-네트워크 (+/1406 Cape Town 연례 미팅), 3D-애니메이션과-렌더링-기술 (+/84 Audi Rubix 프로모션 광고, Digital Domain), UX-Masterclass-2020-컨퍼런스 (2019 컨퍼런스 페이지로의 상호 참조 링크 추가)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, 5건 모두 story.pxd.co.kr 직접 fetch로 우회(200 정상). /84는 큐브 조립 CG 프로모션 영상 링크뿐인 빈약한 콘텐츠라 신규 페이지 대신 기존 3D 애니메이션 페이지에 병합
+
 ## [2026-09-06] ingest | [공지] 팀블로그 1차주소 변경 외, iPad 3G 와 Kindle 3G 필요한가?, UX World 2018 spring 후기 1편, [ux book] 2011년 UX(UI) 관련 신간 소개, UX World 2018 fall 후기 1편
 - 생성: 없음 (5건 모두 기존 개념 페이지에 병합)
 - 업데이트: pxd-블로그-운영 (+/479 팀블로그 1차 주소 이전 공지), 초기-태블릿-PC-경쟁과-사용자-경험-비교 (+/263 아이패드·킨들 3G 옵션 실사용 비교), UX-World-2018-spring-컨퍼런스 (+/1320 후기 1편 — 유튜브·페이스북 UX 리서치 세션), UX-World-2018-fall-컨퍼런스 (+/1345 후기 1편 — Airbnb 가치 중심 디자인·페이스북 Product Metrics·Frog/BT 사례), UX-입문-도서 (+/391 2011년 UX 신간 7종 소개)

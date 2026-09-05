@@ -29,6 +29,7 @@ UX 얼라이언스의 캐나다·스위스·폴란드 대표들은 "Design Matur
 - 총평: NBU 접근 다양화, UX 리서치의 기회 탐색 확장, 디자인 성숙도 측정과 맥킨지 Business Value of Design의 흐름 합류
 
 ## 관련 개념
+- [[UX Masterclass 2019 컨퍼런스]] — pxd가 처음 참석한 전년도 컨퍼런스, Gavin Lew가 같은 Context·Interaction·Trust 프레임워크를 "Humanizing AI"로 재발표
 - [[UX 얼라이언스 글로벌 네트워크]] — UX Masterclass를 매년 개최하는 글로벌 UX 컨설팅사 네트워크
 - [[UX 성숙도 모델]] — Design Maturity Model 세션에서 소개된 UX Alliance 6가지 항목 모델의 상세 내용
 - [[데이터 기반 UX DDUX]] — 류정우 세션이 다룬 데이터 기반 사용자 모델링과 맞닿은 방법론

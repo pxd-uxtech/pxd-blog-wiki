@@ -79,6 +79,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UXCamp Seoul 2014 세미나 리뷰](concepts/UXCamp-Seoul-2014-세미나-리뷰.md) — 2014년 서울크리에이티브랩 'behind the curtain' 주제로 열린 UXCamp Seoul 5th 후기: 레고 매뉴얼 디테일과 UX 글쓰기 팁(우상훈), 커뮤니티 디자인, Assistor PS 도구, 모바일 브로셔 시장
 - [UX intensive 2011 세미나 리뷰](concepts/UX-intensive-2011-세미나-리뷰.md) — 2011년 포스코 P&S 타워 UX 세미나 후기: 터치 인터페이스 기술동향, overriding UX factor 전략론, 삼성 갤럭시/스마트냉장고 UX, 네이버 검색/모바일 UX(Family UI)
 - [UX intensive 2012 암스텔담 세미나 리뷰](concepts/UX-intensive-2012-암스텔담-세미나-리뷰.md) — Adaptive Path 주최 암스텔담 UX intensive Day4(Service Design) 리뷰: 스킷드라마(즉흥연기) 프로토타이핑, 서비스 저니맵, Blueprints·Business Model Canvas
+- [UX Masterclass 2019 컨퍼런스](concepts/UX-Masterclass-2019-컨퍼런스.md) — 남아공 요하네스버그 UXMC 2019 "Humanizing Innovation": Gavin Lew의 AI UX 프레임워크(Context·Interaction·Trust), Simon Herd의 어린이 헬스케어 앱 Xploro, 아프리카 leapfrog effect
 - [UX Masterclass 2020 컨퍼런스](concepts/UX-Masterclass-2020-컨퍼런스.md) — 인도 PeepalDesign 주관 온라인 UX 컨퍼런스, 인디 영의 "사고 방법(thinking style)" 프레임, Facebook Desirability Toolkit, Gavin Lew의 Humanizing AI(맥락·인터랙션·신뢰), UX Alliance Design Maturity Model, 류정우(pxd)의 Data-driven User Modeling
 - [UX STRAT 2020 컨퍼런스](concepts/UX-STRAT-2020-컨퍼런스.md) — pxd 후원 첫 아시아 온라인 컨퍼런스 "East + West = Strategic Design", 인스타그램 이노베이션 랩의 5단계 혁신 프레임워크(Start where you are~Evolve with your community)
 - [UX World 2013 컨퍼런스](concepts/UX-World-2013-컨퍼런스.md) — 2013년 제1회 국내 UX 컨퍼런스: 이건표(UCD→참여형 디자인 전환)·제시 제임스 가렛(Elements of UX 5요소)·구글 UX 5원칙·네이버 UX 9원칙 등 국내외 UX 리더 9인의 세션 종합
@@ -226,6 +227,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [다크매터와 트로이의 목마](concepts/다크매터와-트로이의-목마.md) — 이승호 교수의 공공 서비스 디자인 전략 프레임워크: 표면적 의뢰(트로이의 목마) 뒤 시스템적 문제(암흑물질)를 해결하는 접근, 핀란드 Low2no·Participation Game·Design for Government 사례
 - [리테일 매장 경험 디자인](concepts/리테일-매장-경험-디자인.md) — 애플 뉴욕 매장(Grand Plaza점·소호점) 방문기로 본 판매보다 체험을 앞세운 리테일 공간 설계 원리: 소재 대비, 캐주얼한 직원 배치, 상시 교육 프로그램
 - [모바일 커머스와 시간 설계](concepts/모바일-커머스와-시간-설계.md) — 이재용 대표의 pxd talks 강연: E-커머스와 다른 M-커머스의 시간 즉시성·위치 접근성·개인화, 이벤트·타임·대화형 커머스 3유형과 "고객의 첫 일주일" 설계론
+- [장바구니 UX 설계](concepts/장바구니-UX-설계.md) — 2011년 홈플러스·NS 농수산·이마트 식품 쇼핑몰 장바구니 비교, 가시성·정보 밀도·정보 충실도 3요소로 본 목적 구매형 이커머스 UX
 - [모빌리티 서비스 유형과 MaaS](concepts/모빌리티-서비스-유형과-MaaS.md) — 이동 니즈 기반 여정 최적화 MaaS 개념과 차량 호출·공유·마이크로모빌리티·대중교통 4유형, 매칭형(우버·타다) vs 검색형(카플랫) 서비스 구분, Citymapper 사례
 - [무손실 음원 서비스 UX](concepts/무손실-음원-서비스-UX.md) — 하이레즈 음원 이용자 실태 조사로 본 서비스 학습 비용 문제, 음질 차이보다 '좋다고 하니 듣는' 동기와 경제·시간적 여유를 회복한 중장년층이라는 핵심 타깃
 - [서비스 디자인 사례 — JetBlue](concepts/서비스-디자인-사례-JetBlue.md) — 서비스 여정 전체 설계·언행일치 브랜딩·셀프 서비스+인적 지원 조합으로 고객만족 1위 달성한 JetBlue 사례
