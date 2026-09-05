@@ -1,5 +1,10 @@
 # Wiki 작업 이력
 
+## [2026-09-06] ingest | Microsoft Expression Blend 구입하기 - 고통의 연속, 똑똑똑. 블로그 문을 열다., Mobile Sites, [GRAPHIC] 2009 Annual Report, Minimal Website Design, Adobe CS5 간단리뷰 동영상(링크)
+- 생성: 그래픽-디자인-스튜디오-전시-관람과-영감 (/63 GRAPHIC PROPAGANDA PRESS 'GRAPHIC 2009 Annual Report' 전시 관람기), Adobe-CS5-신기능-리뷰-영상-공유 (/100 CS5 신기능 유튜브 리뷰 영상 링크 모음)
+- 업데이트: 프로토타이핑-툴-비교 (+/32 Expression Blend 3 구매 여정 — 리전별 페이지·깨진 링크로 헤맨 경험담), pxd-블로그-운영 (+/53 "pxd 다이어리 & 소소한 이야기" 카테고리 개설 첫 글), 패널-해상도-표준과-디자인-리소스-큐레이션 (+/60 Mobile Sites — 모바일 최적화 웹 인식 부족 초기 문제 제기, +/74 Minimal Website Design — 미니멀 웹 디자인 사례 큐레이션)
+- 서브에이전트 2개 병렬 실행(implementer)으로 처리. story-api.pxd.systems 지속 DNS 조회 불가 확인, 6건 모두 story.pxd.co.kr 직접 fetch(curl+bs4 파싱)로 우회. ingest_priority.py의 조회수 기반 클러스터(cluster_data.json, 1496건)가 모두 소진되어 남은 89건 중 메타데이터가 비어 있는(삭제/비공개 추정) 17건을 skip_urls.txt에 등록, 나머지 미처리 글은 발행일 오름차순으로 이번 6건을 선정. 두 에이전트가 같은 패널-해상도-표준과-디자인-리소스-큐레이션.md를 동시에 편집했으나 충돌 없이 병합됨, 메인 세션에서 /60·/74 두 내용 모두 정상 반영됐음을 직접 검증
+
 ## [2026-09-06] ingest | pxd배 'AMAZING'한 사생대회 :: 대상을 소개합니다!, scheduler designed by pxd, 2017년 정유년이 왔습니다
 - 생성: 없음 (모두 기존 개념 페이지에 병합)
 - 업데이트: pxd배-사생대회와-공모전-이벤트-운영 (+/592 papa's Amazing Kids Box 출시 기념 공모전 대상 발표, 관련 개념에 앱-개발-사례-설날카드 상호 참조 추가), 제품-디자인-사례-pxd-스케줄러 (+/308 2010년 pxd 스케줄러 완성 예고 글 — 가장 이른 시점 기록), pxd-사무실-크리스마스-데코와-연말-문화 (+/1204 2017년 설날 직후 신년 인사 — 기존 양력 신년 인사 사례들과 구분되는 음력 명절 인사 첫 사례)
