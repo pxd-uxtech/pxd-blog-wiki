@@ -85,6 +85,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [UX World 2014 컨퍼런스](concepts/UX-World-2014-컨퍼런스.md) — 2014년 UX World Fall: LG전자 최진해의 모바일 UX 혁신 4가지(Knock on·Knock code·Smart notice·스마트 키패드), 구글 Alex Cook의 Material Design 개발 배경, 신세계 김연수의 SSG.com 통합 사례와 커머스 코어밸류 우선순위
 - [UX World 2017 컨퍼런스](concepts/UX-World-2017-컨퍼런스.md) — 2017년 "UX for Digital Transformation": 구글 제러드 짐머맨의 팀 빌딩(소속감·믿음, 명성·돈·영향력), 페이스북 VR 콘텐츠 디자인 3요소(실재감·편안함·입력방식), 우버 ATG의 자율주행 UX와 지도 디자인 3원칙
 - [UX World 2018 spring 컨퍼런스](concepts/UX-World-2018-spring-컨퍼런스.md) — 2018년 "Creating Innovative Customer Experiences": 카카오미니 AI 스피커의 음성 구조·대화 설계·AI 퍼소나, Waymo 자율주행 5단계 레벨과 탑승자용 360도 주행 시각화
+- [UX World 2018 fall 컨퍼런스](concepts/UX-World-2018-fall-컨퍼런스.md) — 2018년 하반기 IDG 주최 컨퍼런스: Airbnb의 가치 중심 디자인과 OpenHomes 사례, 페이스북 Product Metrics 개발 절차, Frog·British Telecom 차세대 TV UX 재설계
 - [UI17 컨퍼런스와 회의 퍼실리테이션 기법](concepts/UI17-컨퍼런스와-회의-퍼실리테이션-기법.md) — 2012년 보스턴 UIE 주최 UI17 컨퍼런스 워크숍 후기: 퍼실리테이터·레코더·그룹 멤버·리더 4대 롤과 페차쿠차(PECHA KUCHA) 등 10개 회의 퍼실리테이션 기법
 - [CES 2013 컨퍼런스](concepts/CES-2013-컨퍼런스.md) — pxd 해외 교육 프로그램으로 참관한 2013 라스베가스 CES, LG·삼성 OLED/UHD TV 경쟁과 스마트홈 허브, 인텔 동작 인식, 토요타·아우디 무인자동차, 디지털 헬스 트렌드
 - [Cooper Visual Interface Design 워크숍](concepts/Cooper-Visual-Interface-Design-워크숍.md) — 2014년 샌프란시스코 Cooper사 워크숍 후기: Research→Translate→Archetype→Document 4단계 Visual Interface Design Process와 Goal-directed Design의 근거·비전 확보 방식
