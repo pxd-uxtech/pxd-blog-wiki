@@ -35,6 +35,7 @@ updated: "2026-04-07"
 - [[AI 코딩 도구 활용]] — Cursor·Claude 등 AI 코딩 도구의 실무 적용
 - [[에이전틱 AI와 UX]] — 자율 수행 AI의 UX 원칙
 - [[프로액티브 AI]] — 맥락 기반 선제적 행동의 AI 설계
+- [[shadcn/ui CLI와 AI 에이전트 연동]] — shadcn MCP 서버가 컴포넌트 레지스트리 실시간 조회에 MCP를 활용하는 사례
 
 ## 출처
 - [MCP (Model Context Protocol)](https://story.pxd.co.kr/1847) — doworld, UX Engineer 이야기

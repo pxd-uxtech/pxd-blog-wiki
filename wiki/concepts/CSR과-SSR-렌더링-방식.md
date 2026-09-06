@@ -25,6 +25,7 @@ CSR과 SSR은 양자택일이 아니라 함께 쓸 수 있다. pxd의 한 리팩
 - [[코어 웹 바이탈과 SEO]] — SSR·CSR 선택이 LCP 등 초기 로딩 성능 지표에 미치는 영향
 - [[Nuxt.js 프레임워크]] — CSR·SSR을 절충해 Vue 앱을 SEO 대응 가능하게 만드는 실제 구현 사례
 - [[Next.js 레이아웃과 템플릿]] — React 진영에서 SSR·SSG를 지원하는 동일 목적의 프레임워크
+- [[React 서버 중심 렌더링 생태계 동향]] — Server Components·Streaming UI 등 CSR 한계에 대응하는 최신 React 생태계 흐름
 
 ## 출처
 - [CSR과 SSR의 차이점](https://story.pxd.co.kr/1662) — 2023-02-23, 알 수 없는 사용자

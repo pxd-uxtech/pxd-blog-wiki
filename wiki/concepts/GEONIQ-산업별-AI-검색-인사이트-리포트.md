@@ -63,6 +63,7 @@ pxd의 **GEONIQ**(SEO와 GEO를 통합 진단하는 AI 도구, [[AI를 위한 UI
 - [[CSR과 SSR 렌더링 방식]] — 자바스크립트 렌더링 의존이 초기 HTML의 정보 노출·SEO에 미치는 영향
 - [[코어 웹 바이탈과 SEO]] — sitemap·canonical 등 기술적 탐색 신호가 검색·AI 신뢰 신호로 작동하는 방식
 - [[Next.js API 프록시 레이어]] — GEONIQ 서비스 자체의 프론트엔드·백엔드 연동 아키텍처
+- [[AI 인용 최적화 콘텐츠 구조]] — GEONIQ 리포트가 진단 기준으로 삼는 Answerability·구조화 원칙을 개발자 관점에서 정리한 가이드
 
 ## 출처
 - [GEONIQ Integrated Insight Report — 금융권 · 은행 업종](https://story.pxd.co.kr/1867) — 2025-12-15, GEONIQ
