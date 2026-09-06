@@ -98,7 +98,8 @@ export default function Layout({ children, analytics, team }) {
 ## 관련 개념
 - [[React 컴포넌트 패턴]] — Next.js의 컴포넌트 패턴은 React 패턴 위에 있음
 - [[React 상태 관리]] — 클라이언트 컴포넌트 상태와의 경계 설계
-- [[증분 정적 재생성 (ISR)]] — 같은 App Router 생태계의 렌더링 전략
+- [[증분 정적 재생성 ISR]] — 같은 App Router 생태계의 렌더링 전략
+- [[Next.js API 프록시 레이어]] — 같은 App Router 생태계의 다른 아키텍처 패턴(API Routes를 BFF 프록시로 활용)
 
 ## 출처
 - [라우팅 인터셉트 기능을 활용한 모달 인터랙션 향상](https://story.pxd.co.kr/1828) — 2025-01-20, doworld

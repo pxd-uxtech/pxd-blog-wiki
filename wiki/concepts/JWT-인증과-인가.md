@@ -27,6 +27,7 @@ JWT의 장점은 **상태 비저장(Stateless)** 구조로 서버 부담을 낮�
 - [[웹 인증과 쿠키]] — 세션·쿠키 기반 인증 방식의 상세 내용
 - [[웹 아키텍처]] — 인증 흐름이 웹서버·WAS·DB에서 처리되는 구조
 - [[PWA 프로그레시브 웹 앱]] — PWA에서 오프라인 인증 처리 시 JWT 활용
+- [[Next.js API 프록시 레이어]] — httpOnly 쿠키에 JWT를 저장하고 서버 프록시가 Authorization 헤더로 전달하는 실무 구현 사례
 
 ## 출처
 - [인증과 인가, JWT (JSON Web Token)](https://story.pxd.co.kr/1718) — 2023-09-27, 알 수 없는 사용자
