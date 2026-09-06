@@ -27,6 +27,7 @@ Vite로 React + TypeScript 환경을 설정하는 명령어는 `npm create vite@
 - [[React TypeScript 패턴]] — Vite + react-ts 템플릿에서 활용하는 TypeScript 패턴
 - [[브라우저 렌더링 파이프라인]] — ESM 기반 Vite 개발 서버와 관련된 브라우저 모듈 로딩 원리
 - [[Next.js 레이아웃과 템플릿]] — Vite 대신 프레임워크 방향을 선택할 경우의 대안
+- [[package.json과 npm 패키지 배포]] — Vite의 `external` 설정이 peerDependencies 기반 패키지 배포에서 실제로 쓰이는 지점
 
 ## 출처
 - [Create React App(CRA) 대안 Vite](https://story.pxd.co.kr/1860) — 2025-10-23, hyejun.lee

@@ -422,6 +422,8 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [AI 인용 최적화 콘텐츠 구조](concepts/AI-인용-최적화-콘텐츠-구조.md) — RAG 기반 AI 검색이 페이지 전체가 아닌 특정 구간을 인용한다는 전제 아래 헤딩·문단·FAQ 구조와 구체적 통계·출처 명시로 인용률을 높이는 GEO 콘텐츠 설계 원칙
 - [React 서버 중심 렌더링 생태계 동향](concepts/React-서버-중심-렌더링-생태계-동향.md) — Server Components·Streaming UI·React Compiler로 대표되는 App Router 이후 React 생태계의 서버 중심 전환과 그 배경
 - [기술적 SEO와 크롤링 최적화](concepts/기술적-SEO와-크롤링-최적화.md) — 크롤링→인덱싱→랭킹 3단계와 robots.txt·sitemap·canonical·크롤 예산 관리, 학습용/검색노출용/사용자요청용으로 나뉘는 AI 크롤러 대응 전략
+- [구조화 데이터와 JSON-LD](concepts/구조화-데이터와-JSON-LD.md) — Article·Product·BreadcrumbList 등 스키마 타입별 필수 속성과, 검색 순위를 직접 올리지 않고 리치 결과로 CTR을 높이는 간접 SEO 기여 구조
+- [package.json과 npm 패키지 배포](concepts/package.json과-npm-패키지-배포.md) — 공통 컴포넌트 패키지 배포 시 dependencies·devDependencies·peerDependencies 역할 구분과 버전 호환성 위임 전략
 
 ## AI와 신기술
 - [AI·로봇 윤리와 자율 무기](concepts/AI-로봇-윤리와-자율-무기.md) — 앨런 윈필드의 자동화세·로봇 윤리 3대 쟁점과 로날드 아킨의 치명적 자율 무기(킬러 로봇) 논의로 본 AI·로봇 시대의 윤리적 책임 소재
@@ -455,6 +457,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [AX 해자와 컨텍스트 경쟁력 프레임워크](concepts/AX-해자와-컨텍스트-경쟁력-프레임워크.md) — 차별화(Differentiation)와 해자(Moat)를 구분하고, 데이터·업무 방식·의사결정 기준 3축의 컨텍스트를 AI 시대의 진짜 경쟁 우위로 보는 4분면 진단 프레임워크
 - [shadcn/ui CLI와 AI 에이전트 연동](concepts/shadcn-ui-CLI와-AI-에이전트-연동.md) — Skills·MCP 서버·Preset 3가지 설정으로 AI 에이전트에게 프로젝트 컨텍스트(설정·최신 문서·디자인 시스템)를 제공하는 shadcn/cli v4 활용법
 - [하네스 엔지니어링](concepts/하네스-엔지니어링.md) — AI 에이전트가 안정적으로 작업하도록 컨텍스트·아키텍처 제약·엔트로피 관리 3기둥으로 환경을 설계하는 접근, 프롬프트 엔지니어링(부탁)과 대비되는 강제(harness) 개념
+- [AI 협업에서 판단력을 유지하는 워크플로우](concepts/AI-협업에서-판단력을-유지하는-워크플로우.md) — production-to-evaluation shift와 Generation effect로 본 AI 위임의 이해도 저하 문제, 신뢰보다 자신감이 비판적 사고를 지키는 5단계 실천 워크플로우
 
 ## UX 커리어
 - [GUI 디자이너 직무와 pxd 업무방식](concepts/GUI-디자이너-직무와-pxd-업무방식.md) — 포트폴리오·인터뷰 준비부터 pxd 4D 프로세스·수평적 협업 문화까지, GUI 디자이너의 직무와 입사 경험
