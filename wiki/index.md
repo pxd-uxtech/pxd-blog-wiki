@@ -170,6 +170,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [모바일 앱 UX 리뷰](concepts/모바일-앱-UX-리뷰.md) — 실제 이용 패턴을 기반으로 카카오지하철 앱을 분석한 사용자 관점 UX 리뷰 방법
 - [미디어 콘텐츠에서 UX 인사이트 발견하기](concepts/미디어-콘텐츠에서-UX-인사이트-발견하기.md) — 일본 드라마 '중쇄를 찍자!'로 본 편집자-작가-독자와 PM-디자이너-사용자 구조의 유사성, VOC·A/B 테스트·프로토타이핑 관찰
 - [사용자 인터뷰 기법](concepts/사용자-인터뷰-기법.md) — 효과적인 인터뷰를 위한 10가지 가이드라인, 다이어리 스터디, 전문가 인터뷰 기법(pre-mortem·프레임 깨기)
+- [합성 사용자 Synthetic User](concepts/합성-사용자-Synthetic-User.md) — AI 퍼소나·합성 퍼소나를 근거(Anchor)·정합(Align)·행동(Act) 세 축으로 평가하는 AAA 프레임워크, ReOpsAI·Synthetic Users·Simile 등 사례 비교
 - [해외 사용자 조사 프로세스](concepts/해외-사용자-조사-프로세스.md) — 현지 업체 선정, 리쿠르팅, 동시통역, 랩업 등 출장형 해외 사용자 조사의 5단계 프로세스와 실무 용어(스크리너/치터/no-show)
 - [해외 클라이언트 UX 프로젝트 협업](concepts/해외-클라이언트-UX-프로젝트-협업.md) — 신기술 검증을 위해 해외 클라이언트와 진행한 Discover-Define-Develop-Validate-Deliver UX 프로세스와 Wizard of Oz 프로토타이핑, 클라이언트 소통 노하우
 - [해외 UX 컨퍼런스 큐레이션](concepts/해외-UX-컨퍼런스-큐레이션.md) — 2018/19년 참가할 만한 해외 UX 컨퍼런스 8곳(UI/UX Conference China·EURO IA·Service Design Global Conference·Interaction Conference 등) 큐레이션, 참가 3대 효용(업계 흐름·네트워킹·자기 점검)
