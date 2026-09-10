@@ -435,7 +435,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [MCP 모델 컨텍스트 프로토콜](concepts/MCP-모델-컨텍스트-프로토콜.md) — Anthropic이 공개한 LLM-외부 시스템 연결 표준, AI 생태계의 USB-C
 - [LangChain과 LLM 개발](concepts/LangChain과-LLM-개발.md) — LLM·체인·인덱스·메모리·에이전트로 구성된 LLM 애플리케이션 프레임워크
 - [브랜드 디자인과 생성형 AI](concepts/브랜드-디자인과-생성형-AI.md) — Firefly 기반 브랜드 자산 제작과 브랜드 코어 중심의 디렉팅 역량
-- [AI 코딩 도구 활용](concepts/AI-코딩-도구-활용.md) — 깃허브 코파일럿, 커서, Claude 등 AI 코딩 도구 실무 활용법과 디자이너의 생성형 AI 적용 사례
+- [AI 코딩 도구 활용](concepts/AI-코딩-도구-활용.md) — 깃허브 코파일럿, 커서, Claude Code 등 AI 코딩 도구 실무 활용법과 디자이너의 생성형 AI 적용 사례, "AI 인부를 관리하는 현장 감독" 마인드
 - [생성형 AI와 스테이블 디퓨전](concepts/생성형-AI와-스테이블-디퓨전.md) — 스테이블 디퓨전의 디퓨전 프로세스 원리, ComfyUI 노드 기반 워크플로우, 생성형 AI의 민주화 과정
 - [AI를 위한 UI 패턴과 UX](concepts/AI를-위한-UI-패턴과-UX.md) — AI 기반 서비스의 새로운 상호작용 방식과 생성형 AI UX 개선 요구 사항
 - [에이전틱 AI와 UX](concepts/에이전틱-AI와-UX.md) — 자율적으로 목표를 달성하는 Agentic AI 시대의 6가지 UX 원칙
