@@ -425,6 +425,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [기술적 SEO와 크롤링 최적화](concepts/기술적-SEO와-크롤링-최적화.md) — 크롤링→인덱싱→랭킹 3단계와 robots.txt·sitemap·canonical·크롤 예산 관리, 학습용/검색노출용/사용자요청용으로 나뉘는 AI 크롤러 대응 전략
 - [구조화 데이터와 JSON-LD](concepts/구조화-데이터와-JSON-LD.md) — Article·Product·BreadcrumbList 등 스키마 타입별 필수 속성과, 검색 순위를 직접 올리지 않고 리치 결과로 CTR을 높이는 간접 SEO 기여 구조
 - [package.json과 npm 패키지 배포](concepts/package.json과-npm-패키지-배포.md) — 공통 컴포넌트 패키지 배포 시 dependencies·devDependencies·peerDependencies 역할 구분과 버전 호환성 위임 전략
+- [SEO/GEO 운영 루틴](concepts/SEO-GEO-운영-루틴.md) — 발행 후 검색 성과(Search Console·GA4)와 AI 답변 노출을 함께 점검하는 운영 루틴, 신규 작성보다 기존 글 리라이트 우선순위 판단과 주간·월간·분기 점검 체계
 
 ## AI와 신기술
 - [AI·로봇 윤리와 자율 무기](concepts/AI-로봇-윤리와-자율-무기.md) — 앨런 윈필드의 자동화세·로봇 윤리 3대 쟁점과 로날드 아킨의 치명적 자율 무기(킬러 로봇) 논의로 본 AI·로봇 시대의 윤리적 책임 소재

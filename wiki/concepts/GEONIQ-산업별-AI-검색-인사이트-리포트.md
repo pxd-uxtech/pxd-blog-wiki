@@ -81,6 +81,7 @@ GEONIQ은 이 검증 시리즈와 함께, URL 하나로 콘텐츠의 SEO·GEO �
 - [[코어 웹 바이탈과 SEO]] — sitemap·canonical 등 기술적 탐색 신호가 검색·AI 신뢰 신호로 작동하는 방식
 - [[Next.js API 프록시 레이어]] — GEONIQ 서비스 자체의 프론트엔드·백엔드 연동 아키텍처
 - [[AI 인용 최적화 콘텐츠 구조]] — GEONIQ 리포트가 진단 기준으로 삼는 Answerability·구조화 원칙을 개발자 관점에서 정리한 가이드
+- [[SEO/GEO 운영 루틴]] — 1회성 업종별 진단과 대비되는, 검색 성과와 AI 답변 노출을 반복 점검하는 운영 루틴
 
 ## 출처
 - [GEONIQ Integrated Insight Report — 금융권 · 은행 업종](https://story.pxd.co.kr/1867) — 2025-12-15, GEONIQ

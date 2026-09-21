@@ -39,6 +39,7 @@ GEO(Generative Engine Optimization)를 처음 제안한 Princeton·Georgia Tech�
 - [[GEONIQ 산업별 AI 검색 인사이트 리포트]] — 같은 GEO(AIEO) 원칙을 업종별 실제 웹사이트에 적용해 진단한 사례
 - [[CSR과 SSR 렌더링 방식]] — 초기 HTML에 콘텐츠가 담기는지 여부가 크롤러·AI의 구조 인식에 미치는 영향
 - [[구조화 데이터와 JSON-LD]] — FAQPage 등 구조화 데이터 스키마별 구현과 AI 인용 신호로서의 역할을 다루는 실전 가이드
+- [[SEO/GEO 운영 루틴]] — 이 개념 페이지가 다루는 발행 시점 구조 최적화 이후, 발행 후 반복 점검·리라이트로 이어지는 운영 단계
 
 ## 출처
 - [AI가 인용하고 싶은 페이지는 어떻게 생겼을까](https://story.pxd.co.kr/1900) — 2026-06-11, crsmym
