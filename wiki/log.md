@@ -1,5 +1,12 @@
 # Wiki 작업 이력
 
+## [2026-10-06] ingest | 처리한 글 없음 (신규 대상 0건)
+- 생성: 없음
+- 업데이트: 없음
+- `ingest_priority.py` 0건, API URL의 `urls=`가 비어 있어 서브에이전트 dispatch 생략. story-api.pxd.systems는 여전히 접속 불가(HTTP 000)
+- `all_metas.json` 미처리 후보는 제목·날짜가 빈 스텁, 인사말·모음글, skip_urls.txt 등재 `/1776`(접근 불가)뿐. `/1926`은 이미 처리 완료(AI-프로토타이핑과-Figma-Make)
+- story.pxd.co.kr probing: `/1927` 여전히 403(5회 연속, 다음 회차 재확인), `/1928`~`/1970` 404
+
 ## [2026-10-05] ingest | 처리한 글 없음 (신규 대상 0건)
 - 생성: 없음
 - 업데이트: 없음
