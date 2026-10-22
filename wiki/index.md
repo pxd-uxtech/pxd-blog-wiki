@@ -426,6 +426,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [구조화 데이터와 JSON-LD](concepts/구조화-데이터와-JSON-LD.md) — Article·Product·BreadcrumbList 등 스키마 타입별 필수 속성과, 검색 순위를 직접 올리지 않고 리치 결과로 CTR을 높이는 간접 SEO 기여 구조
 - [package.json과 npm 패키지 배포](concepts/package.json과-npm-패키지-배포.md) — 공통 컴포넌트 패키지 배포 시 dependencies·devDependencies·peerDependencies 역할 구분과 버전 호환성 위임 전략
 - [SEO/GEO 운영 루틴](concepts/SEO-GEO-운영-루틴.md) — 발행 후 검색 성과(Search Console·GA4)와 AI 답변 노출을 함께 점검하는 운영 루틴, 신규 작성보다 기존 글 리라이트 우선순위 판단과 주간·월간·분기 점검 체계
+- [AI 크롤러 접근 제어와 에이전트 웹](concepts/AI-크롤러-접근-제어와-에이전트-웹.md) — 학습용·검색 인덱싱용·사용자 요청 페처 3유형별 robots.txt 차단 영향, 네이버·쿠팡·무신사·탑텐의 국내 접근 제어 전략 분화, Google UCP로 본 에이전트 시대의 정보 일관성
 - [AWS VPC 네트워크 기초](concepts/AWS-VPC-네트워크-기초.md) — VPC·CIDR·Subnet·Route Table·Internet/NAT Gateway·Security Group·Network ACL을 일상 비유로 풀고 Public/Private 구성 원칙 정리
 
 ## AI와 신기술
