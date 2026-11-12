@@ -404,6 +404,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [테스트 코드 작성 전략](concepts/테스트-코드-작성-전략.md) — the-zero 프로젝트 백엔드 개발 경험으로 본 테스트 피라미드(정적 분석-유닛-통합-E2E)와 신뢰성·가독성을 위한 테스트 코드 작성 전략
 - [피그마 브라우저 렌더링 차이](concepts/피그마-브라우저-렌더링-차이.md) — 논리적 픽셀 vs 물리적 픽셀, 소수점 픽셀 처리, 폰트 렌더링, 색 표현 방식 네 가지로 본 피그마-브라우저 UI 불일치 원인
 - [Next.js API 프록시 레이어](concepts/Next.js-API-프록시-레이어.md) — App Router API Routes를 프론트-백엔드 사이에 두어 CORS·백엔드 URL 노출·httpOnly 쿠키 기반 인증 토큰 관리 문제를 해결하는 BFF 패턴
+- [Zod 스키마 검증과 strip 동작](concepts/Zod-스키마-검증과-strip-동작.md) — Zod 런타임 검증, z.object 기본 strip 동작, 프록시/BFF 경계에서 쿼리 파라미터가 조용히 제거되는 버그와 strict·loose 선택 기준
 - [Next.js 레이아웃과 템플릿](concepts/Next.js-레이아웃과-템플릿.md) — layout vs template의 동작 원리 차이와 고급 최적화
 - [Next.js 사이트맵 자동화](concepts/Next.js-사이트맵-자동화.md) — next-sitemap 패키지로 sitemap.xml·robots.txt를 빌드 파이프라인에 자동 편입하는 SEO 패턴
 - [Nuxt.js 프레임워크](concepts/Nuxt.js-프레임워크.md) — Vue.js 기반 SSR 프레임워크, 파일 기반 라우팅·자동 코드 분할·SCSS 전역 스타일 연동
