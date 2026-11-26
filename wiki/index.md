@@ -437,6 +437,7 @@ LLM이 pxd 블로그 글을 읽고 정리한 개념 페이지 모음.
 - [AI 모더레이터와 UX 리서치](concepts/AI-모더레이터와-UX-리서치.md) — Outset·Wondering 같은 AI 모더레이터 툴의 강점·한계와 실무 적용 기준
 - [AI 비즈니스 전략](concepts/AI-비즈니스-전략.md) — 크리스 더피의 AI 개론서 서평: 좁은/일반/초지능 3단계 분류, 속도·이해·성과·실험·결과의 슈퍼 프레임워크, "AI의 핵심은 사람"이라는 인간-AI 역할 분리 메시지
 - [MCP 모델 컨텍스트 프로토콜](concepts/MCP-모델-컨텍스트-프로토콜.md) — Anthropic이 공개한 LLM-외부 시스템 연결 표준, AI 생태계의 USB-C
+- [AI 에이전트 장기 기억과 Hindsight](concepts/AI-에이전트-장기-기억과-Hindsight.md) — 세션 간 기억 공백을 메우는 에이전트 메모리 엔진 Hindsight의 Retain/Recall/Reflect 원리, Codex 연동 삽질 3가지(JSON 조용한 폴백·localhost IPv6·bank 분리)와 4단계 검증
 - [LangChain과 LLM 개발](concepts/LangChain과-LLM-개발.md) — LLM·체인·인덱스·메모리·에이전트로 구성된 LLM 애플리케이션 프레임워크
 - [브랜드 디자인과 생성형 AI](concepts/브랜드-디자인과-생성형-AI.md) — Firefly 기반 브랜드 자산 제작과 브랜드 코어 중심의 디렉팅 역량
 - [AI 코딩 도구 활용](concepts/AI-코딩-도구-활용.md) — 깃허브 코파일럿, 커서, Claude Code 등 AI 코딩 도구 실무 활용법과 디자이너의 생성형 AI 적용 사례, "AI 인부를 관리하는 현장 감독" 마인드

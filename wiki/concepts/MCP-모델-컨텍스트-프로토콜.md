@@ -36,6 +36,7 @@ updated: "2026-04-07"
 - [[에이전틱 AI와 UX]] — 자율 수행 AI의 UX 원칙
 - [[프로액티브 AI]] — 맥락 기반 선제적 행동의 AI 설계
 - [[shadcn/ui CLI와 AI 에이전트 연동]] — shadcn MCP 서버가 컴포넌트 레지스트리 실시간 조회에 MCP를 활용하는 사례
+- [[AI 에이전트 장기 기억과 Hindsight]] — 기억 저장소를 MCP 서버로 노출해 여러 에이전트가 공유하는 사례
 
 ## 출처
 - [MCP (Model Context Protocol)](https://story.pxd.co.kr/1847) — doworld, UX Engineer 이야기

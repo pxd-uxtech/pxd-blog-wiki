@@ -61,6 +61,7 @@ GitHub에서 AI를 활용한 **PR 리뷰 자동화**도 실무 사례가 늘고 
 - [[pxd talks] 디자이너의 생성형 AI 실무 적용 사례](https://story.pxd.co.kr/1786) — 2024-08-23, juhyeon.lee
 - [도전! AI와 한 팀 되기 #1 데스크 리서치](https://story.pxd.co.kr/1813) — 2024-11-20, 임현경
 - [[다녀왔습니다] Make it. Seoul 2025](https://story.pxd.co.kr/1841) — 2025-04-10, yeji.jeong
+- [[AI 에이전트 장기 기억과 Hindsight]] — 세션을 넘어 결정·디버깅 맥락을 유지하는 에이전트 메모리 시스템을 Codex에 붙인 사례
 - [커서와 함께 개발하기 (feat. notepads)](https://story.pxd.co.kr/1855) — 2025-09-22, hongdoyoung
 - [바이브 코딩으로 간단한 웹사이트 구현해보기 (실전편)](https://story.pxd.co.kr/1844) — Seulbi Lee, UX Engineer 이야기
 - [GitHub Actions + Claude API를 활용한 PR 리뷰 자동화](https://story.pxd.co.kr/1854) — pxd XE Group
